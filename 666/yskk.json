@@ -1,7 +1,7 @@
 //友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为小白提供一个方便,仅供测试使用。在此感谢各位大佬无私奉献,如有冒犯请联系删除。
 //    雷元不定时整合。
 //https://gitee.com/fcd666/akys/raw/master/libs/drpy.min.js   
-{"spider": "https://agit.ai/xiaowei233333/11/raw/branch/master/666/JAR/11.jar;md5;",
+{"spider": "https://agit.ai/xiaowei233333/11/raw/branch/master/11.jar;md5;6BBD9F0C313C9F32",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 "sites":[
