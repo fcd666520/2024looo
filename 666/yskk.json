@@ -7,8 +7,8 @@
 "sites":[
 {"key":"csp_xBPQ_1142","name":"️ 🦖关注公众号:闪电狐OvO，不定时更新软件。","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"000"},
 
-{"key":"csp_xBPQ_大米星球","name":"️🧀大米星球","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XP/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83xBPQ.json"},
-{"key":"csp_xpath_HOHO01","name":" 🐠HOHO影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/HOHO01.txt"},
+//{"key":"csp_xBPQ_大米星球","name":"️🧀大米星球","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XP/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83xBPQ.json"},
+//{"key":"csp_xpath_HOHO01","name":" 🐠HOHO影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/HOHO01.txt"},
 {"key":"dr_豆瓣","name":"🍏豆瓣热播","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
 {"key":"csp_SP360","name":"  3️⃣三六官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_QQ","name":" 🐧腾讯官方","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
