@@ -4,9 +4,7 @@
 {"spider": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/JAR/Yoursmile.jar;md5;",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkyMzMzMzMvNzcvcmF3L2JyYW5jaC9tYXN0ZXIvNjY2L2xpdmUudHh0"
-]}]}],
+"lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
 {"key":"csp_xBPQ_1142","name":"️ 🦖关注公众号:闪电狐OvO，不定时更新软件，阿里云盘已经失效。。。","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"000"},
@@ -201,6 +199,19 @@
 {"key":"KanSJ_spider","name":"🌈看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/1008.jar"},
 {"key":"3EDY","name":"3️⃣3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/1008.jar"},
 
+
+
+
+
+{"key":"csp_AList","name":"AList｜网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./json/Alist.json"},
+
+{"key":"Paper","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+
+{"key":"Zhaozy","name":"找资源｜4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
+
+{"key":"PanSou","name":"盘搜｜4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
+
+{"key":"UpYun","name":"云搜｜4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 
 //官方解析
 {"key":"诺讯资源","name":"📺诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
