@@ -9,10 +9,10 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateManual": {
-    "电影": "dianying",
-    "连续剧": "lianxuju",
+    "电影": "20",
+    "连续剧": "26",
     "综艺": "zongyi",
-    "动漫": "dongman",
+    "动漫": "25",
     "纪录片": "jilupian"
   },
   "homeVodNode": "//li[@class='col-lg-6 col-md-6 col-sm-4 col-xs-3']/div/a",
