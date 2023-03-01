@@ -5,7 +5,7 @@
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkyMzMzMzMvNzcvcmF3L2JyYW5jaC9tYXN0ZXIvNjY2L2xpdmUudHh0="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkyMzMzMzMvNzcvcmF3L2JyYW5jaC9tYXN0ZXIvNjY2L2xpdmUudHh0"
 ]}]}],
 
 "sites":[
