@@ -42,7 +42,7 @@
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_xp_jLgyy","name":"💫蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fcd666/akys/raw/master/AAAAA/lgyy.json"},
-{"key":"csp_555","name":"5️⃣三五影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
+//{"key":"csp_555","name":"5️⃣三五影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"csp_xp_meiju56","name":"🦆影视剧啊","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/meiju562.json"},
 {"key":"csp_xp_nmys","name":" 🍂农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/nmys2.json"},
 {"key":"csp_xp_gongreng","name":" 🍄工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/gongreng.json"},
