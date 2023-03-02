@@ -64,10 +64,6 @@
 
           "filter":{
           "dianying":[
-        {
-          "key": "cateId",
-          "name": "类型",
-          "value": [
 
       {
         "name": "剧情",
