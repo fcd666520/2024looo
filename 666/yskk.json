@@ -7,6 +7,7 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
+  {"key":"csp_xpath_pipiya","name":"🦋皮皮鸭","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/pipiya.json"},
 //{"key":"csp_xBPQ_1142","name":"️ 🦖公众号:闪电狐OvO，不要相信视频中的广告，远离黄赌毒。","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"000"},
 
 {"key":"csp_xpath_pipiya","name":"  9️⃣皮皮鸭","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/pipiya.json"},
