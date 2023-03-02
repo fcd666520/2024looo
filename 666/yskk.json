@@ -8,7 +8,7 @@
 
 "sites":[
 {"key":"dr_豆瓣","name":"🍏公众号:闪电狐OvO，免费接口，不要相信视频中的广告。","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
-{"key":"csp_xBPQ_大米星球","name":"️🧀大米星球","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83xBPQ.json"},
+//{"key":"csp_xBPQ_大米星球","name":"️🧀大米星球","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83xBPQ.json"},
 {"key":"csp_xpath_HOHO01","name":" 🐠HOHO影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/HOHOTV.txt"},
 {"key":"csp_SP360","name":"  3️⃣三六官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_QQ","name":" 🐧腾讯官方","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
@@ -65,8 +65,8 @@
 //{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/hjysc/TVBox/raw/branch/master/token.txt"},
 //{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/hjysc/TVBox/raw/branch/master/token.txt"},
 //{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/hjysc/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
-{"key":"csp_XYQHiker_虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/hjysc/TVBox/raw/branch/master/sub/虎牙.json"},
-{"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/hjysc/TVBox/raw/branch/master/sub/斗鱼.json"},
+//{"key":"csp_XYQHiker_虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/hjysc/TVBox/raw/branch/master/sub/虎牙.json"},
+//{"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/hjysc/TVBox/raw/branch/master/sub/斗鱼.json"},
 
 
 
@@ -81,7 +81,7 @@
 //{"key":"csp_xp_dmw","name":"🎋动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dmw.json"},
 //。{"key":"csp_xbb_漫岛动漫","name":"🤗动漫岛","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/漫岛动漫.json"},
 {"key": "櫻花","name": " 🌸櫻花动漫","type": 3,"api": "csp_Ying","searchable": 1,"filterable": 1},
-{"key":"csp_xpath_17skr","name":"🐋路漫动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/AAAAA/%E8%B7%AF%E6%BC%AB%E6%BC%AB.txt","jar":"https://gitee.com/fcd666/akys/raw/master/TVBOX/XBiubiuLA3.jar"},
+{"key":"csp_xpath_17skr","name":"🐋路漫动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/17skr.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 
 //{"key":"csp_xpath_17skr","name":"🐋路漫动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/17skr.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"mtv_xp_动漫直链","name":"🌾动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫直链.json"},
@@ -243,11 +243,11 @@
 
 
 //Xbiubiu系列
-{"key":"csp_biubiu_6080影视","name":"📗6080影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/6080.txt"},
+{"key":"csp_biubiu_6080影视","name":"📗6080影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/6080.txt"},
 {"key":"csp_biubiu_九亿国语","name":"📗九亿国语（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/%E4%B9%9D%E4%BA%BF%E5%9B%BD%E8%AF%AD.txt"},
 
-{"key":"csp_biubiu_AB影视","name":"📗AB影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/AB%E5%BD%B1%E9%99%A2.json"},
-{"key":"csp_biubiu_80S磁力","name":"📗80S磁力（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/80S%E7%A3%81%E5%8A%9B.json"},
+{"key":"csp_biubiu_AB影视","name":"📗AB影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/AB%E5%BD%B1%E9%99%A2.json"},
+{"key":"csp_biubiu_80S磁力","name":"📗80S磁力（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/80S%E7%A3%81%E5%8A%9B.json"},
 {"key":"csp_biubiu_花猫影视","name":"📗花猫影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/花猫影视.json"},
 //{"key":"csp_XBiubiu看看影视","name":"📗看看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/看看影视.json"},
 {"key":"csp_XBiubiu_金眼影视","name":"📗金眼影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/金眼影视.json"},
@@ -256,7 +256,7 @@
 //{"key":"csp_biubiu_速搜影视","name":"📗速搜影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/速搜影视.json"},
 //{"key":"csp_biubiu_悟空影视","name":"📗悟空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/悟空影视.json"},
 //{"key":"csp_biubiu_AB影院","name":"📗AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/AB影院.json"},
-{"key":"csp_XBiubiu_600dvd","name":"📗600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/600%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_XBiubiu_600dvd","name":"📗600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/600%E5%BD%B1%E8%A7%86.json"},
 //{"key":"csp_XBiubiu_1080KKK","name":"📗1080KKK(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/1080Kkk.json"},
 //{"key":"csp_biubiu_歪片星球","name":"📗歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/歪片星球.json"},
 //{"key":"csp_biubiu_OmoFun动漫","name":"📗OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chiguren.github.io/MeowXB/OmoFun动漫.json"},
@@ -275,7 +275,7 @@
 {"key":"csp_biubiu_神马tv8","name":"📗神马TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/神马tv8.json"},
 {"key":"csp_biubiu_VIP1280","name":"📗VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/VIP1280.json"},
 //{"key":"csp_biubiu_GIMY影视","name":"📗GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/GIMY影视.json"},
-{"key":"csp_biubiu_COKEMV","name":"📗COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/cokemv.json"},
+{"key":"csp_biubiu_COKEMV","name":"📗COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/cokemv.json"},
 {"key":"csp_biubiu_YYDS影院","name":"📗YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/YYDS影院.json"},
 {"key":"csp_biubiu_思乐影视","name":"📗思乐影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/思乐影视.json"},
 {"key":"csp_biubiu_炫猫影视","name":"📗炫猫影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/炫猫影视.json"},
@@ -333,10 +333,10 @@
 {"key":"csp_biubiu_双十电影","name":"👍双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/65012833/Json/raw/branch/master/shuangshi.json"},
 
 //Xpath系列dd
-{"key":"csp_xpath_F7","name":"📕F7好看剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/F7%E5%A5%BD%E7%9C%8B%E5%89%A7.txt"},
+{"key":"csp_xpath_F7","name":"📕F7好看剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/F7%e5%a5%bd%e7%9c%8b%e5%89%a7.txt"},
 {"key":"云播看看","name":"📕云播看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/云播看看.json"},
-{"key":"csp_xpath_UM","name":"📕UM影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/UM%E5%BD%B1%E9%99%A2xp.txt"},
-{"key":"csp_xpath_007","name":"📕007(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fcd666/akys/raw/master/XB/007%E5%BD%B1%E8%A7%86.txt"},
+{"key":"csp_xpath_UM","name":"📕UM影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/UM%e5%bd%b1%e9%99%a2xp.txt"},
+{"key":"csp_xpath_007","name":"📕007(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XB/007%e5%bd%b1%e8%a7%86.txt"},
 {"key":"csp_xpath_蚂蚁影视","name":"📕蚂蚁影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/蚂蚁影视.json"},
 {"key":"csp_Xpath_bttwoo","name":"📕2BT(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/bttwoo.json"},
 //{"key":"csp_xpath_wmkk","name":"📕完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/wanmeikk.json"},
@@ -388,7 +388,7 @@
 {"key":"csp_xpath_网络搜集库03","name":"🎥影吧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/519-yingba.json"},
 //{"key":"csp_xpath_网络搜集库72","name":"🔨钉钉电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/519-dingzidy.json"},
 {"key":"csp_xpath_网络搜集源21","name":"🌸樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/樱花动漫.json"},
-{"key":"csp_xpath_A32","name":"🏝动漫岛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/XP/%E5%8A%A8%E6%BC%AB%E5%B2%9BXP.txt"},
+{"key":"csp_xpath_A32","name":"🏝动漫岛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/%e5%8a%a8%e6%bc%ab%e5%b2%9bXP.txt"},
 //{"key":"csp_xpath_网络搜集源22","name":"🚌巴士动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/604-dm84.js"},
 //{"key":"csp_xpath_网络搜集源23","name":"🅰AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXP/604-age.js"},
 //{"key":"csp_VOFLIX","name":"🐷VOFLIX(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXP/voflix.json"},
