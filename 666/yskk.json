@@ -40,7 +40,7 @@
 {"key":"csp_LiteApple","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "AppTT","name": "🐰图图影视","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_xp_jLgyy","name":"💫蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fcd666/akys/raw/master/AAAAA/lgyy.json"},
 //{"key":"csp_555","name":"5️⃣三五影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fcd666/akys/raw/master/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
 {"key":"csp_xp_meiju56","name":"🦆影视剧啊","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/meiju562.json"},
@@ -54,7 +54,7 @@
 {"key":"csp_app_天天视频","name":" 🌺天天视频","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_app_MX影视","name":" 🦀MX影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key": "快播","name": "💢快播影视","type": 1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 1,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺"]},
-{"key":"csp_biubiu_蓝光影院","name":"🥒蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/蓝光影院.json"},
+//{"key":"csp_biubiu_蓝光影院","name":"🥒蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/蓝光影院.json"},
 {"key":"Sp_直播合集","name":"🐬直播平台","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_虎牙直播","name":" 🐯虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
 //云盘搜
