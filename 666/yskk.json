@@ -3,7 +3,7 @@
 //https://gitee.com/fcd666/akys/raw/master/libs/drpy.min.js   https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/pipiya.json
 {"spider": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/JAR/Yoursmile.jar;md5;",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
+//https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
@@ -17,7 +17,7 @@
 {"key":"csp_SP360","name":"  3️⃣三六官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_QQ","name":" 🐧腾讯官方","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
 {"key":"csp_MGTV","name":"🍋芒果官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
-{"key":"js_优酷视频","name":" 🐟官源优酷","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/优酷.js"},
+{"key":"js_优酷视频","name":" 🐟官源优酷","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/优酷.js"},
 {"key":"js_菜狗视频","name":"🐶官源搜狗","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/菜狗.js"},
 {"key":"js_爱起艺官","name":"🥝官方奇艺","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/奇珍异兽.js"},
 {"key":"csp_SP2345","name":"2️⃣官源2345","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
