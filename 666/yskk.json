@@ -8,7 +8,7 @@
 
 "sites":[
 //{"key":"js_布雷蓝光","name":"🐶布雷","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/%e5%b8%83%e9%9b%b7%e8%93%9d%e5%85%89.js"},
-{"key":"dr_豆瓣","name":"🍏公众号:闪电狐OvO，免费接口，不要相信视频中的广告。","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
+{"key":"dr_豆瓣","name":"🍏免费接口，不要相信视频中的广告。","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
 //{"key":"csp_xBPQ_大米星球","name":"️🧀大米星球","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83xBPQ.json"},
 {"key":"csp_xpath_9eguoyu","name":"  9️⃣不能播放","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/9eguoyu.json"},
 {"key":"csp_xpath_HOHO01","name":" 🐠HOHO影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/HOHOTV.txt"},
