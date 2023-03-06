@@ -79,7 +79,7 @@
 //{"key":"csp_xpath_dm84","name":"⭐动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dm84.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"Ikey":"csp_xbb_维奇动漫","name":"🤔维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXB/维奇动漫.json"},
 {"key":"csp_xbb_风车动漫","name":"😑风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXB/风车动漫.json"},
-{"key":"csp_xbb_去看吧","name":"😯看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXB/"},
+{"key":"csp_xbb_去看吧","name":"😯看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXB/去看吧.json"},
 
 //不能分类，有相同源。
 //{"key":"csp_新视觉","name":"🍁新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"},
