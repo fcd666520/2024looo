@@ -11,10 +11,10 @@
 
 "sites":[
 {"key":"js_tva云播","name":" 影视|Tva云播","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tva云播.js"},
-{"key":"js_vidhub","name":" 影视|Tvidhub","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tvidhub.js"},
-{"key":"js_皮皮鸭","name":" 影视|皮皮鸭","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/皮皮鸭.js"},
+//{"key":"js_vidhub","name":" 影视|Tvidhub","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tvidhub.js"},
+//{"key":"js_皮皮鸭","name":" 影视|皮皮鸭","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/皮皮鸭.js"},
 {"key":"js_云镜影视","name":" 影视|云镜影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/云镜影视.js"},
-{"key":"js_云镜影视","name":" 影视|云镜影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/云镜影视.js"},
+//{"key":"js_云镜影视","name":" 影视|云镜影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/云镜影视.js"},
 {"key":"dr_豆瓣","name":"豆瓣|官方，免费接口","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/panda1123.jar;md5; b1106a30c00023fc614c127cea04a331"},
 {"key":"csp_SP360","name":"360影视|官方，请勿相信","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_MGTV","name":"芒果影视|官方,视频中的广告","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/ext/qq_qiyi_mgtv.jpg"},
