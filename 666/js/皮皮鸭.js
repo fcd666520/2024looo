@@ -1,8 +1,8 @@
 var rule = {
     title: '皮皮鸭',
     host: 'https://www.pipiya.cc/',
-    class_name:'电影&电视剧&综艺&动漫',
-    class_url:'20&37&45&43',
+    class_name:'电影&电视剧&美剧&日韩剧&动漫',
+    class_url:'20&26&21&28&25',
     homeUrl: '',
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
