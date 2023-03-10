@@ -11,22 +11,18 @@
 
 "sites":[
 
-{"key":"drpyjs_榜单荐片2"，"name":"公众号欧歌api"，"type"：3,"api":"http://tv.ouhaibo2.repl.co/m/js/drpy.js"，"ext":"http://tv.ouhaibo2.repl.co/m/MaooXX/欧歌聚合搜索。js"},
-{"key":"drpyjs_Alist"，"name"："网盘| Alist[js]"，"type"：3,'api"："http://tv.ouhaibo2.repl.co/m/js/lib/alist.min.js"，"ext"："http://tv.ouhaibo2. repl.co/m/js/js/alist.json"}，
-{"key":"紙條"，' "name":"紙條"， "type"：3, "api":"csp_Paper"，' "searchable"：1, "quickSearch"：1, "filterable"：1, "ext":"http://tv.nxog. top/m/api/token.txt"}，
-{"key":"易搜"，"name":"易搜"， "type"：3, "api":"csp_YiSo"， "searchable"：1, "quickSearch":1, "filterable":0, "ext":"http://tv.nxog.top/m/api/token.txt"}，
-{"key":"盤搜"，"name"："盤搜"，"type"：3,"api":"csp_PanSou"， "searchable"：1, "quickSearch"：1, "filterable":O, "ext":"http://tv.nxog.top/m/api/token.txt"}，
-{"key":"UP雲搜"，"name"："UP雲搜 "， "type"：3, "api":"csp_UpYun"， "searchable"：1, "quickSearch"：1, "filterable":0, "ext"："http://tv.nxog.top/m/api/token.txt"}，
-{"key":"找資源"，"name"："找資源"， "type"：3, "api":"csp_Zhaozy"， "searchable"：1, "quickSearch"：1, "filterable":0, "ext":"http://tv.nxog. top/m/api/token.txt$$$yingshi$$$abcd1234" }，
-{"key":"Yisou"，"name"："易搜|(仅搜索)"，"type"：3,"api"："csp_ Yisou"，"playerType"：1,"searchable"：1,"quickSearch"：1,"filterable"：0,"ext"："http://tv.nxog.top/m/api/token.txt"}，
-{"key":"Alips"，"name"："盘搜索|(仅搜索)"，"type"：3,"api"："csp_ AliPS"，"playerType"：1,"searchable"：1,"quickSearch":1,"filterable"：0,"ext"："http://tv.nxog. top/m/api/token.txt"}，
-{"key":"Zhaozy' "，"name"："找资源|(仅搜索)"，"type"：3,"api"："csp_ Zhaozy"，"playerType"：1,"searchable"：1 ，"quickSearch"：1,"filterable"：0,"ext" ："http://tv.nxog.top/m/api/token.txt"}，
-{"key":"Upyunso"，"name"："云搜|(仅搜索) "，"type"：3,"api"："csp_ Upyunso"，"playerType"：1,"searchable"：1,"quickSearch" ：1,"filterable"：0,"ext"："http://tv.nxog. top/m/api/token.txt"}，
-{"key":"csp_ Yiso"，"name"：" AB 易搜[仅搜索]"，"type"：3,"api"："csp_ Yiso"，"searchable"：1,"quickSearch"：1,"filterable"：0,"ext"："http://tv.nxog. top/m/api/token.txt"}，{"key"：' "Gitcafe"，"name"：" 'E 小纸条[SP]"，"type"：3,"api"："csp_ Gitcafe"，"searchable":1,"quickSearch":1,"filterable":1,"ext"："}， 
-{"key":"push_agent"，"name"："a "http://tv.nxog.top/m/api/token.txt' 推送[阿里推送/磁力推送]"，"type"：3,"ap >i"："csp_ PushAgent"，"searchable"：0,"quickSearch"：0,"filterable"：0,"ext":"http://tv.nxog.top/m/api/token.txt"}，
-{"key":"drpyjs_榜单荐片3"，"name"："长期维护，切勿贩卖。"， type"：3,"api"："。/m/js/drpy.js"，"ext":"http://tv.ouhaibo2. repl.co/m/MaooXX/欧歌聚合搜索。js"}，
-
-
+{"key":"drpyjs_Alist","name"："网盘| Alist[js]","type"：3,'api"："http://tv.ouhaibo2.repl.co/m/js/lib/alist.min.js","ext"："http://tv.ouhaibo2. repl.co/m/js/js/alist.json"},
+{"key":"紙條",' "name":"紙條", "type"：3, "api":"csp_Paper",' "searchable"：1, "quickSearch"：1, "filterable"：1, "ext":"http://tv.nxog. top/m/api/token.txt"},
+{"key":"易搜","name":"易搜", "type"：3, "api":"csp_YiSo", "searchable"：1, "quickSearch":1, "filterable":0, "ext":"http://tv.nxog.top/m/api/token.txt"},
+{"key":"盤搜","name"："盤搜","type"：3,"api":"csp_PanSou", "searchable"：1, "quickSearch"：1, "filterable":O, "ext":"http://tv.nxog.top/m/api/token.txt"},
+{"key":"UP雲搜","name"："UP雲搜 ", "type"：3, "api":"csp_UpYun", "searchable"：1, "quickSearch"：1, "filterable":0, "ext"："http://tv.nxog.top/m/api/token.txt"},
+{"key":"找資源","name"："找資源", "type"：3, "api":"csp_Zhaozy", "searchable"：1, "quickSearch"：1, "filterable":0, "ext":"http://tv.nxog. top/m/api/token.txt$$$yingshi$$$abcd1234" },
+{"key":"Yisou","name"："易搜|(仅搜索)","type"：3,"api"："csp_ Yisou","playerType"：1,"searchable"：1,"quickSearch"：1,"filterable"：0,"ext"："http://tv.nxog.top/m/api/token.txt"},
+{"key":"Alips","name"："盘搜索|(仅搜索)","type"：3,"api"："csp_ AliPS","playerType"：1,"searchable"：1,"quickSearch":1,"filterable"：0,"ext"："http://tv.nxog. top/m/api/token.txt"},
+{"key":"Zhaozy' ","name"："找资源|(仅搜索)","type"：3,"api"："csp_ Zhaozy","playerType"：1,"searchable"：1 ,"quickSearch"：1,"filterable"：0,"ext" ："http://tv.nxog.top/m/api/token.txt"},
+{"key":"Upyunso","name"："云搜|(仅搜索) ","type"：3,"api"："csp_ Upyunso","playerType"：1,"searchable"：1,"quickSearch" ：1,"filterable"：0,"ext"："http://tv.nxog. top/m/api/token.txt"},
+{"key":"csp_ Yiso","name"：" AB 易搜[仅搜索]","type"：3,"api"："csp_ Yiso","searchable"：1,"quickSearch"：1,"filterable"：0,"ext"："http://tv.nxog. top/m/api/token.txt"},
+{"key"：' "Gitcafe","name"：" 'E 小纸条[SP]","type"：3,"api"："csp_ Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext"："}, 
 
 {"key":"js_tva云播","name":" 影视|Tva云播","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tva云播.js"},
 //{"key":"js_vidhub","name":" 影视|Tvidhub","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tvidhub.js"},
