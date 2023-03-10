@@ -1,5 +1,5 @@
  { "storeHouse": [ 
-
+{ "sourceName": "💢影视看看", "sourceUrl": "https://www.agit.ai/liucn/box/raw/branch/main/dc.txt" }, 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://www.agit.ai/liucn/box/raw/branch/main/dc.txt" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
 { "sourceName": "🦆精品仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
