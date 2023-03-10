@@ -87,29 +87,7 @@
 
 
 
-{"sourceName":"  ①号库","sourceUrl":"      https://box.nxog.top/1"},
-  
-{"sourceName":"  ②号库","sourceUrl":"      https://box.nxog.top/2"},
-  
-{"sourceName":"  ③号库","sourceUrl":"      https://box.nxog.top/3"},
 
-{"sourceName":"  ④号库","sourceUrl":"      https://box.nxog.top/4"},
-
-{"sourceName":"  ⑤号库","sourceUrl":"      https://box.nxog.top/5"},
-
-{"sourceName":"  ⑥号库","sourceUrl":"      https://box.nxog.top/6"},
-
-{"sourceName":"  ⑦号库","sourceUrl":"      https://box.nxog.top/7"},
-
-{"sourceName":"  ⑧号库","sourceUrl":"      https://box.nxog.top/8"},
-
-{"sourceName":"  ⑨号库","sourceUrl":"      https://box.nxog.top/9"},
-
-{"sourceName":"  ⑩号库","sourceUrl":"      https://box.nxog.top/10"},
-
-{"sourceName":"  ⑪号库
-","sourceUrl":"      https://box.nxog.top/11
-"},
 
 {"sourceName":"  ⑫号库
 ","sourceUrl":"      https://box.nxog.top/12
