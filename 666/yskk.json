@@ -10,7 +10,13 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-
+{
+            "key" : "drpy_js_Alist",
+            "name" : "Alist（支持搜索）",
+            "type" : 3,
+            "api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js",
+            "ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"
+        },
 {"key":"js_tva云播","name":" 影视|Tva云播","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tva云播.js"},
 //{"key":"js_vidhub","name":" 影视|Tvidhub","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tvidhub.js"},
 //{"key":"js_皮皮鸭","name":" 影视|皮皮鸭","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/皮皮鸭.js"},
