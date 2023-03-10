@@ -11,10 +11,6 @@
 
 "sites":[
 {"key" : "drpy_js_Alist","name" : "Alist（支持搜索）","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
-{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"https://gitea.com/ygfxz/mao/raw/commit/143b7c87f057cc6f15b8e41c69738516ad8cf056/0822.jar"},
-{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"https://gitee.com/htlth/jar/raw/master/OriginPush.jar"},
-{"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"https://gitee.com/htlth/jar/raw/master/OriginPush.jar"},
-{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438","jar":"https://gitee.com/htlth/jar/raw/master/OriginPush.jar"},
 
 {"key" : "drpy_js_Alist","name" : "Alist（支持搜索）","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
 {"key":"js_tva云播","name":" 影视|Tva云播","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tva云播.js"},
