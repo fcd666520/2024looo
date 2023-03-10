@@ -22,6 +22,71 @@
 {"sourceName":"🌹PC软件库☁️安卓小小鸟仓库🌹","sourceUrl":"https:\/\/gitcode.net\/wzlyd1\/00\/-\/raw\/master\/0.txt"},
 {"sourceName":"🌹PC软件库☁️jgfx仓库🌹","sourceUrl":"https:\/\/codeberg.org\/jgfx\/box1\/src\/branch\/main\/main.json"},
 {"sourceName":"🌹PC软件库☁️大聪明仓库🌹","sourceUrl":"https:\/\/jihulab.com\/duomv\/apps\/-\/raw\/main\/1.txt"},
+
+ {
+           "sourceName": "🍓微信公众号🍓",
+           "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/lsnz.txt"
+      },
+      {
+           "sourceName": "🌹星河软件园🌹",
+           "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
+      },
+{
+           "sourceName": "🌹维护更新🌹",
+           "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"
+      },
+      {
+           "sourceName": "🌹星河仓库🌹",
+           "sourceUrl": "https://download.kstore.space/download/2888/XB/多仓库.txt"
+      },
+      {
+           "sourceName": "🌹网络精选🌹",
+           "sourceUrl": "https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt"
+      }，
+{
+           "sourceName": "🌹多多仓库🌹",
+           "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/2.txt"
+      },
+      {
+           "sourceName": "🌹多多精选🌹",
+           "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"
+      },
+      {
+           "sourceName": "🌹讴歌仓库🌹",
+           "sourceUrl": "http://1.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"
+      }，
+{
+           "sourceName": "🌹讴歌精选🌹",
+           "sourceUrl": "http://tv.nxog.top/api.php?id=26"
+      },
+      {
+           "sourceName": "🌹苹果仓库🌹",
+           "sourceUrl": "http://tv.nxog.top/api.php?id=25"
+      },
+      {
+           "sourceName": "🌹张弘仓库🌹",
+           "sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"
+      }，
+{
+           "sourceName": "🌹张弘精选🌹",
+           "sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/2"
+      },
+      {
+           "sourceName": "🌹星河精选🌹",
+           "sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"
+      },
+      {
+           "sourceName": "🌹星河测试🌹",
+           "sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"
+      }，
+      {
+           "sourceName": "🌹多多仓库3🌹",
+           "sourceUrl": "https://raw.iqiq.io/leevi0709/apps/main/3"
+     }，
+
+
+
+
 {"sourceName":"  ①号库","sourceUrl":"      https://box.nxog.top/1"},
   
 {"sourceName":"  ②号库","sourceUrl":"      https://box.nxog.top/2"},
