@@ -10,15 +10,6 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-//https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt,https://raw.iqiq.io/lmlmi/ooo/master/tok.txt
-//{"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/sub/Alist.json"},
-{"key" : "drpy_js_Alist","name" : "Alist4k|搜索","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
-{"key":"Paper","name":"小纸条|搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
-{"key":"YiSo","name":"易搜|搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
-{"key":"Zhaozy","name":"找资源|搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
-{"key":"PanSou","name":"盘搜|搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
-{"key":"UpYun","name":"云搜|搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
-{"key":"push_agent","name":"推送|搜索","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
 
 //{"key" : "drpy_js_Alist","name" : "Alist（支持搜索）","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
 //{"key":"js_vidhub","name":" Tvidhub丨影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/tvidhub.js"},
@@ -70,6 +61,16 @@
 {"key":"csp_Bttwoo","name":"两个2BT丨影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-12-20 16:20:17","jar":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
 {"key":"135看看","name":"135看看丨影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
 {"key":"csp_appysv2_M2_暖光影视","name":"暖光影视丨影视","type" : 3,"api" : "csp_AppYsV2","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/65012833/Json/raw/branch/master/luanguan.json"},
+
+//https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt,https://raw.iqiq.io/lmlmi/ooo/master/tok.txt
+//{"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.iqiq.io/lmlmi/ooo/master/sub/Alist.json"},
+{"key" : "drpy_js_Alist","name" : "Alist4k|搜索","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
+{"key":"Paper","name":"小纸条|搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
+{"key":"YiSo","name":"易搜|搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
+{"key":"Zhaozy","name":"找资源|搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
+{"key":"PanSou","name":"盘搜|搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
+{"key":"UpYun","name":"云搜|搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
+{"key":"push_agent","name":"推送|搜索","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
 
 // {"key": "drpy_js_AnFuns","name": "动漫|AnFuns","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/AnFuns.js"},
 {"key": "drpy_js_路漫漫","name": "路漫漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/路漫漫.js"},
