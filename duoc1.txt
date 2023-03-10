@@ -1,6 +1,11 @@
 {
     "urls": [
-        {
+{
+"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/yskk.json",
+"name":"🏡影视看看"
+},
+
+		 {
  "url":"https://raw.fastgit.org/leevi0709/duo/main/v.json",
   "name":"🔔点击选择下方线路"
 },
