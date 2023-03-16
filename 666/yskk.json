@@ -5,7 +5,7 @@
 //https://agit.ai/xiaowei233333/77/raw/branch/master/666/XP/pipiya.json
 //https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js
 
-{"spider": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/JAR/Yoursmile.jar;md5;386AB71902A176E89B5030C48906301B",
+{"spider": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/JAR/xm.jar;md5;164BDD0A2CE3CBCCB2C81133A020EB16",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
