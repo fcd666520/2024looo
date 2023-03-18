@@ -14,14 +14,13 @@
 {"sourceName":"💛多多公众仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"},
-
 {"sourceName":"🌹PC软件库主仓库🌹","sourceUrl":"http:\/\/tv.pcoof.com\/list.php"},
 {"sourceName":"🌹PC软件库超级仓库🌹","sourceUrl":"https:\/\/agit.ai\/hu\/hcr\/raw\/branch\/master\/99668.txt"},{"sourceName":"🌹PC软件库欧歌仓库🌹","sourceUrl":"http:\/\/tv.nxog.top\/m\/m\/1.php"},
 {"sourceName":"🌹PC软件库云星仓库🌹","sourceUrl":"https:\/\/maoyingshi.cc\/%E5%8F%AF%E8%A7%86TV\/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0\/%E4%BB%93%E5%BA%93\/api.json"},
 {"sourceName":"🌹PC软件库☁️gk0748仓库🌹","sourceUrl":"https:\/\/agit.ai\/gk0748\/gk0\/raw\/branch\/master\/ls.txt"},{"sourceName":"🌹PC软件库☁️安卓小小鸟仓库🌹","sourceUrl":"https:\/\/gitcode.net\/wzlyd1\/00\/-\/raw\/master\/0.txt"},{"sourceName":"🌹PC软件库☁️jgfx仓库🌹","sourceUrl":"https:\/\/codeberg.org\/jgfx\/box1\/src\/branch\/main\/main.json"},{"sourceName":"🌹PC软件库☁️大聪明仓库🌹","sourceUrl":"https:\/\/jihulab.com\/duomv\/apps\/-\/raw\/main\/1.txt"},
 
 
-
+{"sourceName":"kkljlk","sourceUrl":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/duoc2.json"},
 
 
 {"sourceName":"  ①号库
