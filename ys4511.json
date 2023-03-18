@@ -11,6 +11,11 @@
 
 "sites":[
   
+{"key":"js_1656","name":" 🐟官源优酷","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/1656.js"},
+
+{"key":"js_优酷视频","name":" 🐟官源优酷","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/888.js"},
+
+
 {"key": "drpy_js_NT动漫","name": "  🐇NT动漫","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/NT动漫.js"},
 {"key": "drpy_js_NY影院","name": "  🐇NT影视","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/NTNY影院.js"},
 {"key": "drpy_js_AnFuns","name": "  🐇AnFuns","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/AnFuns.js"},
