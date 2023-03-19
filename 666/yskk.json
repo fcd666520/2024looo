@@ -10,7 +10,80 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-
+    {"key": "csp_Alist1",
+      "name": "🗂Alist合集",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/Alist1.json"
+    },	
+    {
+      "key": "小纸条1",
+      "name": "🔖小纸条①",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0,
+	  "jar":"https://yydsys.top/duo/jar/ali.jar"
+    },
+    {
+      "key": "小纸条2",
+      "name": "🔖小纸条②",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0
+    },
+    {
+      "key": "易搜",
+      "name": "🎯4K易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "盘搜",
+      "name": "📀4K盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "云搜",
+      "name": "🌤️4K云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "找资源",
+      "name": "🔍4K找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"
+    },
+    {
+      "key": "push_agent",
+      "name": "📨推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    }
 //{"key": "csp_AppMr","name": "0310--Mr","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "BuLei","name": "布雷","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.bulei.cc"},
 //{"key" : "drpy_js_Alist","name" : "Alist（支持搜索）","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
