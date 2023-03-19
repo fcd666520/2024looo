@@ -76,7 +76,7 @@
 
 
     {"key": "csp_Alist1",
-      "name": "🗂Alist合集",
+      "name": "🗂Alist合集丨搜索",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -86,7 +86,7 @@
     },	
     {
       "key": "小纸条1",
-      "name": "🔖小纸条①",
+      "name": "🔖小纸条①丨搜索",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "小纸条2",
-      "name": "🔖小纸条②",
+      "name": "🔖小纸条②丨搜索",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "易搜",
-      "name": "🎯4K易搜",
+      "name": "🎯4K易搜丨搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -114,7 +114,7 @@
     },
     {
       "key": "盘搜",
-      "name": "📀4K盘搜",
+      "name": "📀4K盘搜丨搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -123,7 +123,7 @@
     },
     {
       "key": "云搜",
-      "name": "🌤️4K云搜",
+      "name": "🌤️4K云搜丨搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "找资源",
-      "name": "🔍4K找资源",
+      "name": "🔍4K找资源丨搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -142,7 +142,7 @@
     },
     {
       "key": "push_agent",
-      "name": "📨推送",
+      "name": "📨推送丨搜索",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
