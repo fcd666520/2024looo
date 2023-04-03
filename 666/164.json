@@ -3,7 +3,7 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key":"csp_XYQBiu_18","name":"18","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/XB/18.josn"},
+{"key":"drpy_js_18","name":" 🍋影渣15视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/XB/18.js"},
 
 {"key":"drpy_js_影渣渣","name":" 🍋影渣渣丨影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/影渣渣.js"},
 {"key":"drpy_js_LIBVIO","name":" 🍊LIBVIO丨影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"},
