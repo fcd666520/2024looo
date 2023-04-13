@@ -13,7 +13,17 @@
 {"sourceName":"💚多多优选仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
+
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"},
+
 {"sourceName":"🌹PC软件库主仓库🌹","sourceUrl":"http:\/\/tv.pcoof.com\/list.php"},
-{"sourceName":"🌹PC软件库超级仓库🌹","sourceUrl":"https:\/\/agit.ai\/hu\/hcr\/raw\/branch\/master\/99668.txt"},{"sourceName":"🌹PC软件库欧歌仓库🌹","sourceUrl":"http:\/\/tv.nxog.top\/m\/m\/1.php"},
-{"sourceName":"🌹PC软件库☁️gk0748仓库🌹","sourceUrl":"https:\/\/agit.ai\/gk0748\/gk0\/raw\/branch\/master\/ls.txt"},{"sourceName":"🌹PC软件库☁️安卓小小鸟仓库🌹","sourceUrl":"https:\/\/gitcode.net\/wzlyd1\/00\/-\/raw\/master\/0.txt"},{"sourceName":"🌹PC软件库☁️大聪明仓库🌹","sourceUrl":"https:\/\/jihulab.com\/duomv\/apps\/-\/raw\/main\/1.txt"} ] }
+
+{"sourceName":"🌹PC软件库超级仓库🌹","sourceUrl":"https:\/\/agit.ai\/hu\/hcr\/raw\/branch\/master\/99668.txt"},
+
+{"sourceName":"🌹PC软件库欧歌仓库🌹","sourceUrl":"http:\/\/tv.nxog.top\/m\/m\/1.php"},
+
+{"sourceName":"🌹PC软件库☁️gk0748仓库🌹","sourceUrl":"https:\/\/agit.ai\/gk0748\/gk0\/raw\/branch\/master\/ls.txt"},
+
+{"sourceName":"🌹PC软件库☁️安卓小小鸟仓库🌹","sourceUrl":"https:\/\/gitcode.net\/wzlyd1\/00\/-\/raw\/master\/0.txt"},
+
+{"sourceName":"🌹PC软件库☁️大聪明仓库🌹","sourceUrl":"https:\/\/jihulab.com\/duomv\/apps\/-\/raw\/main\/1.txt"} ] }
