@@ -19,7 +19,7 @@
 {"key":"js_优酷视频","name":"  🐳优酷视频丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/优酷.js"},
 {"key":"js_菜狗视频","name":"  🐶搜狗视频丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/菜狗.js"},
 {"key":"js_爱起艺官","name":" 🥝奇艺视频丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/奇珍异兽.js"},
-{"key":"csp_SP2345","name":" 🐠2345视频丨官方","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP2345","name":" 🐠2345视频丨官方","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_影渣渣","name":" 🍋影渣渣丨影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/影渣渣.js"},
 {"key":"drpy_js_LIBVIO","name":" 🍊LIBVIO丨影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/LIBVIO.js"},
 {"key":"drpy_js_厂长资源","name":" 🍐厂长资源丨影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/厂长资源.js"},
