@@ -1,6 +1,6 @@
+// host:'https://www.agemys.cc',
 var rule = {
 	    title:'AGE动漫',
-	    // host:'https://www.agemys.cc',
 	    host:'http://www.age.tv/',
 	    url:'/catalog/all-all-all-fyclass-all-fyfilter',
 	    searchUrl:'/search?query=**&page=fypage',
