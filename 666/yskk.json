@@ -70,8 +70,8 @@
 {"key":"csp_xpath_dmw","name":"🦍动漫岛丨动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xp_dm84","name":"🐚巴士丨动漫","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_agemys","name":"🐚AGE丨动漫","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/agemys.json"},
-
-
+{"key":"drpy_js_怡萱动漫","name":"🦄动漫怡萱[JS]","type":3,"api":"https://agit.ai/18503873514/NPXYS/raw/branch/master/LIB/drpy2.min.js","ext":"https://agit.ai/18503873514/NPXYS/raw/branch/master/JS/怡萱动漫.js"},
+{"key": "csp_Ysj","name": "🦄异界动漫[SP]","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"T4直播转点播","name": " 📺T4电视丨直播", "type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Sp_直播合集","name":" 📺直播丨直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
