@@ -10,6 +10,7 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
+{"key": "drpy_js_异世界动漫2","name": "🎥异世界丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/%e5%bc%82%e4%b8%96%e7%95%8c%e5%8a%a8%e6%bc%ab2.js"},
 
 {"key":"t4_公共","name":"📡热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_豆瓣","name":"🍏豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
