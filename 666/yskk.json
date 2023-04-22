@@ -10,25 +10,6 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key":"csp_xpath_dm84","name":"🚌动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/65012833/Json/raw/branch/master/dongmanbashi.json"},
-{"key":"小鸟动漫","name":"🦅小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_app_小鸟动漫","name":"🛁小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_小鸟动漫","name":"🍃小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_xpath_dmw","name":"🦍动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_xp_dmw","name":"🎋动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/dmw.json"},
-{"key":"csp_xbb_漫岛动漫","name":"🤗漫岛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/漫岛动漫.json"},
-{"key": "櫻花","name": " 🌸櫻花动漫","type": 3,"api": "csp_Ying","searchable": 1,"filterable": 1},
-{"key":"csp_xpath_17skr","name":"🐋路漫动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/17skr.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"mtv_xp_动漫直链","name":"🌾动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫直链.json"},
-{"key":"mtv_xp_动漫岛源","name":"🌷动漫岛源","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-动漫岛源.json"},
-{"key":"mtv_xp_维奇动漫","name":"💐维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-维奇动漫.json"},
-{"key": "巴士","name": " 🌤动漫巴士","type": 3,"api": "csp_Dm84","searchable": 1,"filterable": 1},
-{"key":"csp_xp_dm84","name":"🐚动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/dm84.json"},
-{"key":"mtv_xp_动漫巴士","name":"🍄动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫巴士.json"},
-{"key":"csp_xpath_dm84","name":"⭐动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dm84.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"Ikey":"csp_xbb_维奇动漫","name":"🤔维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/_edit/main/sub/MeowXB/维奇动漫.json"},
-{"key":"csp_xbb_风车动漫","name":"😑风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/_edit/main/sub/MeowXB/风车动漫.json"},
-{"key":"csp_xbb_去看吧","name":"😯看吧动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/_edit/main/sub/MeowXB/去看吧.json"},
 
 {"key":"t4_公共","name":"📡热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_豆瓣","name":"🍏豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
@@ -81,6 +62,15 @@
 {"key": "drpy_js_NT动漫","name": " 🎥NT动漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/NT动漫.js"},
 {"key": "drpy_js_动漫岛","name": " 🎥动漫岛丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/动漫岛.js"},
 {"key": "drpy_js_爱弹幕","name": "🎥爱弹幕丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://gitee.com/gouling/dr_py/raw/master/js/%E7%88%B1%E5%BC%B9%E5%B9%95.js"},
+
+{"key":"csp_xpath_dm84","name":"🚌动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/65012833/Json/raw/branch/master/dongmanbashi.json"},
+{"key":"csp_app_小鸟动漫","name":"🛁小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_小鸟动漫","name":"🍃小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
+{"key":"csp_xpath_dmw","name":"🦍动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
+{"key":"csp_xp_dm84","name":"🐚动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/dm84.json"},
+
+
+
 {"key":"T4直播转点播","name": " 📺T4电视丨直播", "type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Sp_直播合集","name":" 📺直播丨直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_虎牙直播","name":"  📺虎牙丨直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
