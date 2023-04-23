@@ -58,10 +58,10 @@
 //{"key": "drpy_js_AGE动漫","name": " 🎥AGE动漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy.min.js","ext": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/AGE动漫.js"},
 {"key":"Dm84r","name":"🎥巴士丨动漫","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/cs.jar"},
 {"key":"csp_Anime1","name":" 🎥樱花丨动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "666_js_路漫漫","name": " 🎥路漫漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/路漫漫.js"},
-{"key": "666_js_NT动漫","name": " 🎥NT动漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/NT动漫.js"},
+//{"key": "drpy_js_路漫漫","name": " 🎥路漫漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/路漫漫.js"},
+{"key": "drpy_js_NT动漫","name": " 🎥NT动漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/NT动漫.js"},
 {"key": "drpy_js_动漫岛","name": " 🎥动漫岛丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/动漫岛.js"},
-{"key": "drpy_js_爱弹幕","name": "🎥爱弹幕丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/爱弹幕.js"},
+//{"key": "drpy_js_爱弹幕","name": "🎥爱弹幕丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/爱弹幕.js"},
 //{"key":"csp_xpath_网络搜集源23","name":"🅰AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/604-age.js"},
 
 {"key":"csp_xpath_dm84","name":"🚌巴士丨动漫","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/65012833/Json/raw/branch/master/dongmanbashi.json"},
