@@ -10,6 +10,17 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
+
+{"key":"t4_公共","name":"📡热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_豆瓣","name":"🍏豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
+{"key":"csp_SP360","name":" 🍓360丨官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"csp_MGTV","name":"🍋芒果丨官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
+{"key":"js_腾云驾雾2","name":"🐧腾讯丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/腾云驾雾2.js"},
+{"key":"js_优酷视频","name":"🐳优酷丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/优酷.js"},
+{"key":"js_菜狗视频","name":"🐶搜狗丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.jss","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/菜狗.js"},
+{"key":"js_爱起艺官","name":"🥝奇艺丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/奇珍异兽.js"},
+//{"key":"csp_SP2345","name":"🐠2345视频丨官方","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key" : "drpy_js_Alist","name" :"📂Alist丨搜索","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
 {"key":"Paper","name":"📂纸条丨搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
 {"key":"YiSo","name":"📂易搜丨搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
@@ -25,16 +36,6 @@
 {"key": "云搜","name":"🌤️4K云搜丨搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0},
 {"key": "找资源","name":"🔍4K找资源丨搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"},
 {"key": "push_agent","name":"📨推送丨搜索","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0},
-
-{"key":"t4_公共","name":"📡热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_豆瓣","name":"🍏豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
-{"key":"csp_SP360","name":" 🍓360丨官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_MGTV","name":"🍋芒果丨官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
-{"key":"js_腾云驾雾2","name":"🐧腾讯丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/腾云驾雾2.js"},
-{"key":"js_优酷视频","name":"🐳优酷丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/优酷.js"},
-{"key":"js_菜狗视频","name":"🐶搜狗丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/菜狗.js"},
-{"key":"js_爱起艺官","name":"🥝奇艺丨官方","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/奇珍异兽.js"},
-//{"key":"csp_SP2345","name":"🐠2345视频丨官方","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"drpy_js_影渣渣","name":"🍋影渣丨影视","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/影渣渣.js"},
