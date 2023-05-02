@@ -85,8 +85,7 @@
 {"key":"drpy_js_9U电影","name":"🍒九U丨影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/9U电影.js"},
 {"key":"drpy_js_爱迪影视","name":"🦀爱迪|影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/爱迪影视.js"},
 {"key":"drpy_js_八蛋影视","name":"🦀八蛋|影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/八蛋影视.js"},
-{"key":"drpy_js_大米星球","name":"🦀大米|影视2","type":3,"api":"https://agit.ai/xiaowei233333/77/raw/branch/master/666/lib/drpy.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83.js"},
-{"key":"drpy_js_大米星球","name":"🦀大米|影视3","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83.js"},
+{"key":"drpy_js_大米星球","name":"🦀大米|影视3","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/大米星球.js"},
 
 {"key" : "drpy_js_Alist","name" :"📂Alist丨搜索","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
 {"key":"Paper","name":"📂纸条丨搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt"},
