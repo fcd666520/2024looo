@@ -11,7 +11,7 @@
 
 "sites":[
 
-{"key":"t4_公共","name":"📡热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"t4_公共","name":"📡热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_豆瓣","name":"🍏豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
 {"key":"csp_SP360","name":" 🍓360丨官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_MGTV","name":"🍋芒果丨官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
@@ -73,7 +73,7 @@
 {"key":"135看看","name":"🍹一三丨影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
 {"key":"csp_appysv2_M2_暖光影视","name":"🍾暖光丨影视","type" : 3,"api" : "csp_AppYsV2","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/65012833/Json/raw/branch/master/luanguan.json"},
 {"key":"drpy_js_哔哩影视","name":"🎥哔哩丨动漫","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/哔哩影视.js"},
-//{"key": "drpy_js_AGE动漫","name": "🎥AGE动漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy.min.js","ext": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/AGE动漫.js"},
+{"key": "drpy_js_AGE动漫","name": "🎥AGE动漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/js/AGE动漫.js"},
 //{"key":"Dm84r","name":"🎥巴士丨动漫","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/cs.jar"},
 {"key":"csp_Anime1","name":" 🎥樱花丨动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "drpy_js_路漫漫","name": " 🎥路漫漫丨动漫","type": 3,"api": "https://agit.ai/xiaowei233333/77/raw/branch/master/666/libs/drpy.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/路漫漫.js"},
