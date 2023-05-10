@@ -66,7 +66,7 @@
 //{"key":"csp_xpath_工人" ,"name":"‍工人丨影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/工人影视.json"}, 
 //{"key":"csp_Bttwoo","name":"2BT丨影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-12-20 16:20:17","jar":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
 {"key":"135看看","name":"一三丨影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
-{"key":"drpy_js_大米星球1","name":"大米丨影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/大米星球.js"},
+//{"key":"drpy_js_大米星球1","name":"大米丨影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/大米星球.js"},
 
 //{"key":"T4直播转点播","name":"T4电视丨直播", "type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"Sp_直播合集","name":"平台丨直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
