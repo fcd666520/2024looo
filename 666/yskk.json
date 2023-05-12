@@ -9,12 +9,13 @@
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
-"sites":[
+"sites":[https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/360影视.js
 {"key":"drpy_js_厂长资源","name":"厂长丨影视","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/厂长资源.js"},
 {"key":"csp_Kuaikan","name":"快看丨影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"t4_公共","name":"热门丨官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_豆瓣","name":"豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
 {"key":"csp_SP360","name":"360丨官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"js_360影视","name":"360丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/360影视.js"},
 {"key":"csp_MGTV","name":"芒果丨官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"js_腾云驾雾2","name":"腾讯丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/腾云驾雾2.js"},
 {"key":"js_优酷视频","name":"优酷丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/优酷.js"},
