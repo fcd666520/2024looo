@@ -8,6 +8,11 @@ var rule = {
     headers:{
         'User-Agent':'MOBILE_UA'
     },
+    
+    filterable:1,//是否启用分类筛选,
+	filter_url:'{{fl.cateId}}',
+	filter: {"dianying":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"dianying"},{"n":"动作片","v":"dongzuopian"},{"n":"喜剧片","v":"xijupian"},{"n":"爱情片","v":"aiqingpian"},{"n":"科幻片","v":"kehuanpian"},{"n":"言情片","v":"yanqingpian"},{"n":"恐怖片","v":"kongbupian"},{"n":"剧情片","v":"juqingpian"},{"n":"战争片","v":"zhanzhengpian"}]}],"lianxuju":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"lianxuju"},{"n":"国产剧","v":"guochanju"},{"n":"港台剧","v":"gangtaiju"},{"n":"日韩剧","v":"rihanju"},{"n":"欧美剧","v":"oumeiju"},{"n":"其他剧","v":"qitaju"}]}]},
+    
     timeout:5000,
     class_name:'电视剧&电影&综艺&动漫',
     class_url:'2&1&3&4',
