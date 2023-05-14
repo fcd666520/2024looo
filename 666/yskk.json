@@ -10,7 +10,16 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-
+        {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
 {"key":"dr_豆瓣","name":"豆瓣丨官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/豆瓣.js"},
 {"key":"drpy_js_厂长资源","name":"厂长丨影视","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/厂长资源.js"},
 {"key":"csp_Kuaikan","name":"快看丨影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
