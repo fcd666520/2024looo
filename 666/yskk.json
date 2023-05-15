@@ -120,7 +120,7 @@
 "ext":"./alitoken.txt"},
 {"key":"csp_Upyunso","name":"🔎云搜丨搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./alitoken.txt"},
-{"key":"csp_Zhaozy","name":"🔍找资源丨搜索1","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_Zhaozy","name":"🔍找资源丨搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./alitoken.txt"},
 {"key":"土狗搜索","name":"📒土狗丨搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/土狗搜索.json"},
