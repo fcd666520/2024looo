@@ -212,10 +212,10 @@
 {"key":"飘花电影","name":"🧲飘花┃资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 "parses":[
-{"name": "Json轮询","type": 2,"url": "Sequence"},
-{"name": "Json并发","type": 2,"url": "Parallel"},
-{"name": "解析聚合","type": 3,"url": "Demo"},
-{"name": "星辰云解析","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+{"name":"Json轮询","type": 2,"url": "Sequence"},
+{"name":"Json并发","type": 2,"url": "Parallel"},
+{"name":"解析聚合","type": 3,"url": "Demo"},
+{"name":"星辰云解析","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"Web4解析","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"flag":["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"Web5解析","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"冰豆解析","category":1,"url":"https://api.qianqi.net/vip/?url=","showType":3},
@@ -225,7 +225,7 @@
 {"name":"高速解析","category":1,"url":"https://jx.jsonplayer.com/player/?url=","showType":3},
 {"name":"综合解析","category":1,"url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
 {"name":"OK解析","category":1,"url":"https://okjx.cc/?url=","showType":3},
-{"name":"OKJX就","category":1,"url":"https://api.okjx.cc:3389/jx.php?url=","showType":3},
+{"name":"OKJX解析","category":1,"url":"https://api.okjx.cc:3389/jx.php?url=","showType":3},
 {"name":"夜幕解析","category":1,"url":"https://www.yemu.xyz/?url=","showType":3},
 {"name":"铭人解析","category":1,"url":"https://parse.123mingren.com/?url=","showType":3},
 {"name":"云解解析","category":1,"url":"https://jx.aidouer.net/?url=","showType":1},
