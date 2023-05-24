@@ -20,6 +20,9 @@
 {"key":"js_菜狗视频","name":"🐶搜狗┃官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.jss","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/菜狗.js"},
 {"key":"js_爱起艺官","name":"🥝奇艺┃官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/奇珍异兽.js"},
 {"key": "Xinsj","name": "🕶️视觉┃影视","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080dy3.com"},  
+{"key": "多米蓝光","name": "🌽️多米┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680//api.php/app/"},
+
+{"key": "csp_appys_酷影","name": "🥠️酷影┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 {"key": "csp_AppMr","name": "💎明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MeiJu69","name": "6️⃣美剧┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 {"key": "csp_FanYY","name": "🦄玩偶┃里盘","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
@@ -113,18 +116,18 @@
 
 
 
-{"key":"YiSo","name":"📀易搜2┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
-{"key":"Zhaozy","name":"🔍找资源2┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt$$$yingshi$$$abcd1234"},
-{"key":"PanSou","name":"💿盘搜2┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
-{"key":"UpYun","name":"🔎云搜2┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
-{"key":"PanSearch","name":"📑盘搜索2┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
-{"key": "csp_search_七夜","name": "📜七夜2┃搜索","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"小纸条1","name":"📁小纸条①┃搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"jar":"https://yydsys.top/duo/jar/ali.jar"},
-{"key":"小纸条2","name":"📁小纸条②┃搜索","type": 3,"api": "csp_Gitcafe","searchable": 1,"filterable": 1,"switchable": 0},
-{"key":"易搜","name":"🗂️4K易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0},
-{"key":"盘搜","name":"🗂️4K盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0},
-{"key":"云搜","name":"🗂️4K云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0},
-{"key":"找资源","name":"🗂️4K找资源┃搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"},
+{"key":"YiSo","name":"📀易二┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+{"key":"Zhaozy","name":"🔍资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt$$$yingshi$$$abcd1234"},
+{"key":"PanSou","name":"💿盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+{"key":"UpYun","name":"🔎云搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+{"key":"PanSearch","name":"📑盘搜┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+{"key": "csp_search_七夜","name": "📜七夜┃搜索","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
+{"key":"小纸条1","name":"📁纸条┃搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"jar":"https://yydsys.top/duo/jar/ali.jar"},
+{"key":"小纸条2","name":"📁纸条┃搜索","type": 3,"api": "csp_Gitcafe","searchable": 1,"filterable": 1,"switchable": 0},
+{"key":"易搜","name":"🗂️易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0},
+{"key":"盘搜","name":"🗂️盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0},
+{"key":"云搜","name":"🗂️云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0},
+{"key":"找资源","name":"🗂️资源┃搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"switchable": 0,"ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"},
 {"key":"push_agent","name":"🗂️推送┃搜索","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0},
 
 
