@@ -1,8 +1,6 @@
-//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为小白提供一个方便,仅供测试使用。在此感谢各位大佬无私奉献,如有冒犯请联系删除。
-//    
 
 
-{"spider": "https://jihulab.com/mml/yskk/-/raw/master/t.jar;md5;C10F9951F15FA3F4449F8CD2B9B94E4A",
+{"spider": "https://jihulab.com/mml/yskk/-/blob/241ab642af3231dd82e79b80205821854c8a7580/t.jar.jar;md5;C10F9951F15FA3F4449F8CD2B9B94E4A",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -132,33 +130,6 @@
 {"key":"push_agent","name":"🗂️推送┃搜索","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0},
 
 
-//{"key":"csp_xpath_工人" ,"name":"‍工人┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/工人影视.json"}, 
-//{"key":"csp_Bttwoo","name":"2BT┃影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-12-20 16:20:17","jar":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
-//{"key":"drpy_js_大米星球1","name":"大米┃影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/大米星球.js"},
-//{"key":"drpy_js_回响影视","name":"回响┃影视","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/回响影视.js"},
-//{"key":"csp_xp_6d","name":"六度┃影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/6d.json"},
-//{"key": "drpy_js_69美剧","name":"六九┃影视","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/69美剧.js"},
-//{"key": "drpy_js_539影院","name":"五三┃影视","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/539影院.js"},
-//{"key": "drpy_js_gaze","name":"Aaze┃影视","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/gaze.js"},
-//{"key":"drpy_js_KOK影视","name":"KOK┃影视","type": 3,"api": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/KOK影视.js"},
-//{"key":"T4直播转点播","name":"T4电视┃直播", "type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"Sp_直播合集","name":"平台┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"dr_虎牙直播","name":"虎牙┃直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
-//{"key":"csp_SP2345","name":"🐠2345视频┃官方","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"js_555影视[V2]","name":"五五┃影视","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/branch/master/js/555%E5%BD%B1%E8%A7%86%5BV2%5D.js"},
-//{"key":"t4_公共","name":"热门┃官方","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_SP360","name":"360┃官方","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//{"key":"js_360影视","name":"360┃官方","type":3,"api":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/lib/drpy2.min.js","ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/js/360影视.js"},
-//{"key": "csp_Ysj","name":"异界┃动漫","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"drpy_js_Alist","name":"Alist┃搜索","type" : 3,"api" : "https://agit.ai/66666/XC/raw/branch/master/js/M.js","ext" : "https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
-//{"key":"Paper","name":"纸条┃搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/token.txt"},
-//{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/token.txt"},
-//{"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
-//{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/token.txt"},
-//{"key":"UpYun","name":"云搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/token.txt"},
-//{"key":"push_agent","name":"推送┃搜索","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/token.txt"},
-//{"key":"csp_Alist1","name":"Alist┃搜索","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yydsys.top/duo/json/Alist1.json"},	
-
 
 
 {"key":"诺讯资源","name":"🧲诺讯┃资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -273,7 +244,7 @@
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 "ijk": [
    
- //X解码  
+
    {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
    {"category":4,"name":"overlay-format","value":"842225234"},
    {"category":4,"name":"framedrop","value":"1"},
