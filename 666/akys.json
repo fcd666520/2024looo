@@ -5,7 +5,7 @@
 
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/t.jar;md5;C10F9951F15FA3F4449F8CD2B9B94E4A",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-"lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "live","type": 0,"url": "https://jihulab.com/mml/yskk/-/raw/master/666/XP/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
 {"key":"dr_豆瓣","name":"🍏豆瓣┃备用三","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/豆瓣.js"},
@@ -60,8 +60,8 @@
 {"key":"drpy_js_LIBVIO","name":"💧ＬＩ┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/LIBVIO.js"},
 {"key":"js_云镜影视","name":"🌘云镜┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/云镜影视.js"},
 {"key":"js_tva云播","name":"🔥ＴＶ┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/tva云播.js"},
-{"key":"csp_xpath_9eguoyu","name":"🚀九亿┃影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/XP/9eguoyu.json"},
-{"key":"csp_xpath_HOHO01","name":"⌛ＨＯ┃影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/XP/HOHOTV.txt"},
+{"key":"csp_xpath_9eguoyu","name":"🚀九亿┃影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/mml/yskk/-/raw/master/666/XP/XP/9eguoyu.json"},
+{"key":"csp_xpath_HOHO01","name":"⌛ＨＯ┃影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/mml/yskk/-/raw/master/666/XP/XP/HOHOTV.txt"},
 {"key":"csp_Ysgc","name":"🌅工厂┃影视","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼可乐┃影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_哔嘀影视","name":"🐤哔嘀┃影视","type": 3,"api": "https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext": "https://jihulab.com/mml/yskk/-/raw/master/666/js/哔嘀影视.js"},
