@@ -2,7 +2,7 @@ muban.短视2.二级.title = '.slide-info-title&&Text;.hl-ma0&&Text';
 muban.短视2.二级.img = '.detail-pic&&img&&data-original';
 muban.短视2.二级.desc = '.fraction&&Text;;;.slide-info:eq(3)--strong&&Text;.slide-info:eq(2)--strong&&Text';
 var rule={
-    title:'NY影院',
+    title:'NY',
     模板:'短视2',
     host:'https://www.nycvod.com',
     homeUrl:'/index.php/label/rb.html',
