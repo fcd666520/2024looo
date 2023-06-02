@@ -11,7 +11,7 @@
 {"key":"drpy_js_厂长资源","name":"🎞️厂长┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/厂长资源.js"},
 {"key":"csp_AppMr","name":"👴明明┃影视","type":3,"api":"csp_AppMr","changeable":0},
 {"key":"csp_Kunyu77","name":"⭐七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
-{"key":"csp_LiteApple","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"小苹果","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"📽️平台┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key": "csp_SP360","name": "🍡三六┃官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
