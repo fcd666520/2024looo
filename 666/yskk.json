@@ -23,7 +23,9 @@
 {"key":"csp_MGTV","name":"芒果┃官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"js_腾云驾雾2","name":"腾讯┃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/腾云驾雾2.js"},
 {"key":"js_优酷视频","name":"优酷┃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/优酷.js"},
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
+{"key":"drpy_js_腾云驾雾2","name":"腾云┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
+
+{"key":"drpy_js_菜狗","name":"搜狗┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 //{"key":"js_菜狗视频","name":"🐶搜狗┃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.jss","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇珍┃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/奇珍异兽.js"},
 {"key": "Xinsj","name": "视觉┃影视","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080dy3.com"},  
