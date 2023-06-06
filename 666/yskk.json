@@ -5,10 +5,10 @@
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/Yoursmile.jar;md5;D7A2D3461DD8D7F7B26D4FAFFD2F9BB3",
 
 "sites":[
-{"key":"dr_豆瓣","name":"豆瓣┃免费备用二🔄","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/豆瓣.js"},
-{"key":"Czsapp","name":"厂长┃影视🔄","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
-{"key":"爱迪V2","name":"爱迪┃影视🔄","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
-{"key":"csp_fant","name":"饭团┃影视🔄","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"dr_豆瓣","name":"豆瓣┃免费备用二","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/豆瓣.js"},
+{"key":"Czsapp","name":"厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
+{"key":"爱迪V2","name":"爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
+{"key":"csp_fant","name":"饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "csp_appys_如意4K","name": "如意┃影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
 {"key":"csp_Bttoo","name":"ＴＯ┃影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
