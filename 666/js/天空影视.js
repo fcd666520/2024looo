@@ -13,10 +13,8 @@ var rule = {
 		1:{cateId:'1'},
 		2:{cateId:'2'},
 		3:{cateId:'3'},
-		4:{cateId:'4'},
-		15:{cateId:'15'},
-		16:{cateId:'16'},
-		29:{cateId:'29'}
+		4:{cateId:'4'}
+		
 	},
 	class_parse:'.navbar-items li:gt(1):lt(9);a&&Text;a&&href;/(\\d+).html',
 
