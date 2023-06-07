@@ -25,7 +25,7 @@
 {"key":"drpy_js_菜狗","name":"搜狗┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇珍┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_我爱跟剧","name":"我爱┃跟剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
-{"key":"drpy_js_天空影视","name":"影视 | 天空影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/天空影视.js"},
+{"key":"drpy_js_天空影视","name":"天空┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/天空影视.js"},
 
 {"key":"drpy_js_伊人追剧","name":"伊人┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/伊人追剧.js"},
 
