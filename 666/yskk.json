@@ -1,5 +1,3 @@
-//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为小白提供一个方便,仅供测试使用。在此感谢各位大佬无私奉献,如有冒犯请联系删除。
-//    
 
 
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/Yoursmile.jar;md5;D7A2D3461DD8D7F7B26D4FAFFD2F9BB3",
@@ -12,10 +10,7 @@
 {"key":"csp_fant","name":"饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "csp_appys_如意4K","name": "如意┃影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
 {"key":"csp_Bttoo","name":"ＴＯ┃影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "TV",  "name": "卫视┃直播",  "type": 3, "api": "csp_XBPQ", "ext": {"分类": "央视$1#卫视$2#地方$3#港澳$4#综艺$zhibo/zongyi#体育$zhibo/sports#新闻$zhibo/xinwen#影视$zhibo/yingshi#影视$zhibo/shaoer#财经$zhibo/caijing#科教$zhibo/kejiao", "编码": "GBK",  "图片": "http://hz752.love:63/pictu.php?type=302", "分类url": "http://tv.haoqu99.com/{cateId};;z", "数组": "<li class=\"p-item\">&&</li>"} },
-//{"key":"drpy_js_厂长资源","name":"厂长┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/厂长资源.js"},
 {"key":"csp_AppMr","name":"明明┃影视","type":3,"api":"csp_AppMr","changeable":0},
-//{"key":"csp_Kunyu77","name":"⭐七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 {"key": "csp_Kunyu77","name": "七七┃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小苹果","name":"苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"平台┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
@@ -24,10 +19,8 @@
 {"key":"csp_MGTV","name":"芒果┃官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"js_腾云驾雾2","name":"腾讯┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
 {"key":"js_优酷视频","name":"优酷┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
-//{"key":"drpy_js_腾云驾雾2","name":"腾云┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
 
 {"key":"drpy_js_菜狗","name":"搜狗┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
-//{"key":"js_菜狗视频","name":"🐶搜狗┃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.jss","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇异┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_我爱跟剧","name":"我爱┃跟剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
 {"key":"drpy_js_天空影视","name":"天空┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/天空影视.js"},
@@ -39,21 +32,17 @@
 {"key": "Xinsj","name": "视觉┃影视","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080dy3.com"},  
 {"key": "多米蓝光","name": "多米┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680//api.php/app/"},
 
-//{"key": "csp_appys_酷影","name":"酷影┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 {"key": "csp_AppMr","name": "明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_MeiJu69","name": "美剧┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 {"key": "玩偶1", "name": "玩偶┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/"}, 
 
 {"key": "csp_FanYY","name": "玩偶┃里盘","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
 {"key":"js_花猫TV","name":"花猫┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/花猫TV.js"},
-//{"key":"js_真不卡影视","name":"不卡┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/真不卡影视.js"},
 {"key": "csp_DiDuan","name":"低端┃电影","type": 3,"api": "csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "YQK_spider","name":"一起┃影视","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://hk-api-cf.yqk5659.com"},
 {"key": "csp_BuLei","name":"布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},    
 {"key": "csp_Lgyy","name":"蓝光┃影视","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.vip"},
 {"key":"看看","name":"看看┃影视", "type": 3, "api": "csp_XBPQ", "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340", "ext": {"主页url": "https://kankanju.cc", "副标题": "pic-text text-right\">&&</b>", "搜索模式": "1", "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=", "搜索数组": "stui-vodlist__box\">&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "alt=\"&&\"", "搜索副标题": "pic-text text-right\">&&</div>", "搜索链接": "href=\"&&\"", "搜索后缀": "/vod/", "影片类型": "<div class=\"module-info-tag\">&&立即播放", "导演": "导演：&&</div>",  "主演": "主演：&&</div>", "简介": "introduction-content\">&&</span>", "线路数组": "stui-vodlist__head\"&&/h3>", "线路标题": "class=\"title\"&&<", "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman", "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}}, 
 
-//{"key":"csp_Kuaikan","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_快看","name":"快看┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/快看.js"},
 {"key":"135看看","name":"一三┃影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
 {"key":"drpy_js_188看","name":"一八┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/188看.js"},
