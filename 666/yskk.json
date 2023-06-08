@@ -41,7 +41,31 @@
 //{"key": "csp_appys_酷影","name":"酷影┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 {"key": "csp_AppMr","name": "明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_MeiJu69","name": "美剧┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
-{"key": "玩偶", "name": "玩偶┃阿里", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"二次截取": "1&&-1+module-item-cover", "数组": "module-item-pic&&module-item-cover", "图片": "data-src\"&&\"", "副标题": "module-item-text*>&&</div", "链接": "href=\"&&\"", "导演": "导演：&&</div>", "主演": "主演：&&</div>", "简介": "剧情：&&</div>", "搜索url": "http://tvfan.xxooo.cf/index.php/vodsearch/-------------.html?wd={wd}", "分类url": "http://tvfan.xxooo.cf/index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里", "阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt", "分类": "电影$1#国产剧$21#日韩剧$23#欧美剧$22#综艺$28#动漫$24"}}, 
+
+        {
+            "key": "玩偶", 
+            "name": "玩偶┃阿里", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": {
+                "二次截取": "1&&-1+module-item-cover", 
+                "数组": "module-item-pic&&module-item-cover", 
+                "图片": "data-src\"&&\"", 
+                "副标题": "module-item-text*>&&</div", 
+                "链接": "href=\"&&\"", 
+                "导演": "导演：&&</div>", 
+                "主演": "主演：&&</div>", 
+                "简介": "剧情：&&</div>", 
+                "搜索url": "http://tvfan.xxooo.cf/index.php/vodsearch/-------------.html?wd={wd}", 
+                "分类url": "http://tvfan.xxooo.cf/index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里", 
+                "阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt", 
+                "分类": "电影$1#国产剧$21#日韩剧$23#欧美剧$22#综艺$28#动漫$24"
+            }
+        }, 
+
 {"key": "csp_FanYY","name": "玩偶┃里盘","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
 {"key":"js_花猫TV","name":"花猫┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/花猫TV.js"},
 //{"key":"js_真不卡影视","name":"不卡┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/真不卡影视.js"},
