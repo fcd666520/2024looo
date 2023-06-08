@@ -5,6 +5,34 @@
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/Yoursmile.jar;md5;D7A2D3461DD8D7F7B26D4FAFFD2F9BB3",
 
 "sites":[
+        {
+            "key": "看看", 
+            "name": "看看┃BPQ", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340", 
+            "ext": {
+                "主页url": "https://kankanju.cc", 
+                "副标题": "pic-text text-right\">&&</b>", 
+                "搜索模式": "1", 
+                "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=", 
+                "搜索数组": "stui-vodlist__box\">&&</a>", 
+                "搜索图片": "data-original=\"&&\"", 
+                "搜索标题": "alt=\"&&\"", 
+                "搜索副标题": "pic-text text-right\">&&</div>", 
+                "搜索链接": "href=\"&&\"", 
+                "搜索后缀": "/vod/", 
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放", 
+                "导演": "导演：&&</div>", 
+                "主演": "主演：&&</div>", 
+                "简介": "introduction-content\">&&</span>", 
+                "线路数组": "stui-vodlist__head\"&&/h3>", 
+                "线路标题": "class=\"title\"&&<", 
+                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman", 
+                "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
+            }
+        }, 
+
 {"key":"dr_豆瓣","name":"豆瓣┃免费备用二","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/豆瓣.js"},
 {"key":"Czsapp","name":"厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"爱迪V2","name":"爱迪┃影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
@@ -42,29 +70,6 @@
 {"key": "csp_AppMr","name": "明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_MeiJu69","name": "美剧┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 
-        {
-            "key": "玩偶", 
-            "name": "玩偶┃阿里", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": {
-                "二次截取": "1&&-1+module-item-cover", 
-                "数组": "module-item-pic&&module-item-cover", 
-                "图片": "data-src\"&&\"", 
-                "副标题": "module-item-text*>&&</div", 
-                "链接": "href=\"&&\"", 
-                "导演": "导演：&&</div>", 
-                "主演": "主演：&&</div>", 
-                "简介": "剧情：&&</div>", 
-                "搜索url": "http://tvfan.xxooo.cf/index.php/vodsearch/-------------.html?wd={wd}", 
-                "分类url": "http://tvfan.xxooo.cf/index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里", 
-                "阿里token": "http://127.0.0.1:9978/file/tvfan/token.txt", 
-                "分类": "电影$1#国产剧$21#日韩剧$23#欧美剧$22#综艺$28#动漫$24"
-            }
-        }, 
 
 {"key": "csp_FanYY","name": "玩偶┃里盘","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
 {"key":"js_花猫TV","name":"花猫┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/花猫TV.js"},
