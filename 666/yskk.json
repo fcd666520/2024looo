@@ -42,7 +42,7 @@
 //{"key": "csp_appys_酷影","name":"酷影┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kuyun.realku.cn/api.php/app/"},
 {"key": "csp_AppMr","name": "明明┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_MeiJu69","name": "美剧┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
-
+{"key": "玩偶1", "name": "玩偶┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/"}, 
 
 {"key": "csp_FanYY","name": "玩偶┃里盘","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
 {"key":"js_花猫TV","name":"花猫┃影视","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/花猫TV.js"},
