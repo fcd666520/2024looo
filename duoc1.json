@@ -18,12 +18,12 @@
         },   
         {
             "url": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/1001.json",
-            "name": "💖零一分享〔分享线路〕"
+            "name": "💖零一线路〔分享线路〕"
         },  
 
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐼云星日记〔分享线路〕"
+            "name": "🐼云星线路〔分享线路〕"
         },         
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
@@ -35,12 +35,12 @@
         },
         {
             "url": "https://agit.ai/VivoMax/gao/raw/branch/master/XYQ.json",
-            "name": "🐎高天流云〔分享线路〕"
+            "name": "🐎高天线路〔分享线路〕"
         },          
 
         {
             "url": "https://yydsys.top/duo",
-            "name": "🐏多多家庭〔分享线路〕"
+            "name": "🐏多多线路〔分享线路〕"
         },
        {
             "url": "https://calendre.top/TVBox/YXHC.json",
@@ -68,11 +68,11 @@
         }, 
         {
             "url": "https://yydsys.top/duo/lm.json",
-            "name": "🐺龙门影视〔分享线路〕"
+            "name": "🐺龙门线路〔分享线路〕"
         },
 {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🐎高天流云〔分享线路〕"
+            "name": "🐎皮皮线路〔分享线路〕"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
@@ -80,19 +80,16 @@
         },        
         {
             "url": "http://rihou.cc/荷城茶秀",
-            "name": "🐸荷城茶秀〔分享线路〕"
+            "name": "🐸荷城线路〔分享线路〕"
         },
         {
             "url": "https://agit.ai/wifi/ts/raw/branch/master/210.bmp",
-            "name": "🐙warnig线路〔分享线路〕"
+            "name": "🐙瓦日线路〔分享线路〕"
         },        
-        {
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/hua",
-            "name": "🐯宝真影视〔分享线路〕"
-        },
+//{"url": "https://agit.ai/sejinan/app/raw/branch/box/hua","name": "🐯宝真影视〔分享线路〕"},
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "♎月光宝盒〔分享线路〕"
+            "name": "♎宝盒线路〔分享线路〕"
         },
         {
             "url": "https://d.looks.wang/我爱夜猫子",
@@ -112,11 +109,11 @@
         },
         {
             "url": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json",
-            "name": "🐔喵影视〔分享线路〕"
+            "name": "🐔老喵线路〔分享线路〕"
         },
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "♐老刘备〔分享线路〕"
+            "name": "♐刘备线路〔分享线路〕"
         }
 ]
 }
