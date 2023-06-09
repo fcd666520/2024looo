@@ -105,9 +105,9 @@
 {"key":"土狗搜索","name":"土狗🔃搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/土狗搜索.json"},
 
-{"key":"DOVX搜索","name":"七夜🔃搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"DOVX搜索","name":"七一🔃搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/DOVX搜索.json"},
-{"key": "csp_search_七夜","name": "七夜🔃搜索","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
+{"key": "csp_search_七夜","name": "七二🔃搜索","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
 
 {"key":"Gitcafe","name":"纸一🔃搜索","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./alitoken.txt"},
