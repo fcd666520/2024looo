@@ -276,7 +276,7 @@
 {"key":"速影","name":"速影🔃资源","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花🔃资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"接口完全免费，切勿付费购买。",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"接口完全免费，切勿付费购买。2023-6-11 10:36:46",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "parses":[
