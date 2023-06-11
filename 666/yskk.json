@@ -1,8 +1,8 @@
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/Yoursmile.jar;md5;D7A2D3461DD8D7F7B26D4FAFFD2F9BB3",
 
 "sites":[
-{"key":"js_腾云驾雾2","name":"免费接口🔃请勿贩卖。","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
-{"key":"js_腾云驾雾2","name":"更新时间🔃2023-6-11 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
+{"key":"js_腾云","name":"免费接口🔃请勿贩卖。","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
+{"key":"js_腾云2","name":"更新时间🔃2023-6-11 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 
 {"key":"dr_豆瓣","name":"豆瓣🔃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/豆瓣.js"},
 
