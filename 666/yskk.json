@@ -32,7 +32,6 @@
 {"key":"csp_AppMr","name":"明明🔃影视","type":3,"api":"csp_AppMr","changeable":0},
 {"key": "csp_Kunyu77","name": "七七🔃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小苹果","name":"苹果🔃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Miaobo","name": "秒播🔃⒉Ｋ","type": 3,"api": "csp_Miaobo","searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key":"drpy_js_我爱跟剧","name":"我爱🔃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
 {"key":"drpy_js_天空影视","name":"天空🔃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/天空影视.js"},
 {"key":"drpy_js_四个圈儿","name":"圈儿🔃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/四个圈影视.js"},
