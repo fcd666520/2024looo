@@ -3,16 +3,7 @@
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
 
 "sites":[
-           {
-            "key": "公告",
-            "name": "欧歌公告",
-            "type": 3,
-            "api": "https://jihulab.com/mml/yskk/-/raw/master/666/GG123.jar",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://jihulab.com/mml/yskk/-/raw/master/666/GG123.jar",
-            "jar": "https://jihulab.com/mml/yskk/-/raw/master/666/GG123.jar;md5;c3e2510edc5812050474007bb69a9c49"
-        },
+
 {"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
 {"key":"js_更新时间闪电狐ovo","name":"更新时间🔃2023-6-12 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_公众号闪电狐ovo","name":"公众号🔃闪电狐ovo","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
