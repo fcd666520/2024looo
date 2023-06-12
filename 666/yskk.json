@@ -87,9 +87,9 @@
 {"key":"csp_xp_meiju56","name":"美剧🔃影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/meiju562.json"},
 //{"key":"csp_xp_nmys","name":"农民🔃影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/nmys2.json"},
 //{"key":"csp_xp_gongreng","name":"工人🔃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/gongreng.json"},
-{"key":"csp_app_天天视频","name":"天天🔃影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
-{"key": "快播","name": "乐播🔃影视","type": 1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 1,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺"]},
-{"key":"神马电影","name":"神马🔃电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_app_天天视频","name":"天天🔃影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+//{"key": "快播","name": "乐播🔃影视","type": 1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 1,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺"]},
+//{"key":"神马电影","name":"神马🔃电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"drpy_js_9U电影","name":"九Ｕ🔃影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/9U电影.js"},
 {"key":"drpy_js_爱迪影视","name":"爱迪🔃影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/爱迪影视.js"},
