@@ -45,7 +45,9 @@
 {"key": "Xinsj","name": "视觉🔃影视","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080dy3.com"},  
 {"key": "偶偶","name": "偶偶🔃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 
- {"key":"大米星球1","name":"大米🔃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
+{"key":"大米星球1","name":"大米🔃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
+{"key":"555dy","name":"五五🔃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
+
 {"key":"多米蓝光","name":"多米🔃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 {"key": "csp_AppMr","name": "明明🔃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "玩偶1", "name": "玩偶🔃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/"}, 
