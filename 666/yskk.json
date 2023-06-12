@@ -4,9 +4,10 @@
 
 "sites":[
 {"key":"js_免费接口","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
-{"key":"js_更新时间","name":"更新时间🔃2023-6-11 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
+{"key":"js_更新时间","name":"更新时间🔃2023-6-12 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_公众号","name":"公众号🔃闪电狐ovo","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
-{"key":"js_公众号","name":"视频广告🔃去不了","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
+{"key":"js_公众号2","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
+{"key":"js_公众号2","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_公众号2","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 
 {"key":"dr_豆瓣","name":"豆瓣🔃官方","type":3,"api":"https://jihulab.com/mml/yskk/-/raw/master/666/lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/豆瓣.js"},
