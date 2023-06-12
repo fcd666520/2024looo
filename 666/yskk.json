@@ -1,6 +1,6 @@
 //接口收集网络
 
-{"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
+{"spider": "./JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
 
 "sites":[
 
