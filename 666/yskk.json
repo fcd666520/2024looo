@@ -3,6 +3,7 @@
 {"spider": "./JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
 
 "sites":[
+ {"key":"大米星球","name":"大米星球(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},
 
 {"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
 {"key":"js_更新时间闪电狐ovo","name":"更新时间🔃2023-6-12 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
