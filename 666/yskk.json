@@ -58,7 +58,7 @@
 {"key": "csp_DiDuan","name":"低端🐯电影","type": 3,"api": "csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "YQK_spider","name":"一起🐯影视","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://hk-api-cf.yqk5659.com"},
 {"key": "csp_BuLei","name":"布雷🐯影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},    
-{"key": "csp_Lgyy","name":"蓝光🔃影视","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.vip"},
+{"key": "csp_Lgyy","name":"蓝光🐯影视","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.vip"},
 //{"key":"看看","name":"看看🔃影视", "type": 3, "api": "csp_XBPQ", "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340", "ext": {"主页url": "https://kankanju.cc", "副标题": "pic-text text-right\">&&</b>", "搜索模式": "1", "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=", "搜索数组": "stui-vodlist__box\">&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "alt=\"&&\"", "搜索副标题": "pic-text text-right\">&&</div>", "搜索链接": "href=\"&&\"", "搜索后缀": "/vod/", "影片类型": "<div class=\"module-info-tag\">&&立即播放", "导演": "导演：&&</div>",  "主演": "主演：&&</div>", "简介": "introduction-content\">&&</span>", "线路数组": "stui-vodlist__head\"&&/h3>", "线路标题": "class=\"title\"&&<", "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman", "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}}, 
 
 {"key":"drpy_js_快看","name":"快看🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
