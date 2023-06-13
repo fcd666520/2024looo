@@ -44,6 +44,7 @@
 {"key":"drpy_js_伊人追剧","name":"伊人🔃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/伊人追剧.js"},
 {"key": "Xinsj","name": "视觉🔃影视","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080dy3.com"},  
 {"key": "偶偶","name": "偶偶🔃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
+{"key":"宝仙","name":"宝仙🔃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/宝仙.json"},
 
 {"key":"大米星球1","name":"大米🔃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
 {"key":"555dy","name":"五五🔃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
