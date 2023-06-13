@@ -6,7 +6,7 @@
 
 
 {"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
-{"key":"js_更新时间闪电狐ovo","name":"更新时间🔃2023-6-12 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
+{"key":"js_更新时间闪电狐ovo","name":"更新时间🔃2023-6-13 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_1214闪电狐ovo","name":"长按图片🔃快速搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_1214闪电狐11ovo","name":"祝您观🔃影愉快","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 
@@ -219,7 +219,7 @@
 {"key":"速影","name":"速影🔃资源","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花🔃资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"接口完全免费，切勿付费购买。2023-6-11 10:36:46",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"接口完全免费，切勿付费购买。",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "parses":[
