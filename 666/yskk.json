@@ -56,7 +56,7 @@
 {"key": "csp_BuLei","name":"布雷🐯影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},    
 {"key": "csp_Lgyy","name":"蓝光🐯影视","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.vip"},
 //{"key":"看看","name":"看看🔃影视", "type": 3, "api": "csp_XBPQ", "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340", "ext": {"主页url": "https://kankanju.cc", "副标题": "pic-text text-right\">&&</b>", "搜索模式": "1", "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=", "搜索数组": "stui-vodlist__box\">&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "alt=\"&&\"", "搜索副标题": "pic-text text-right\">&&</div>", "搜索链接": "href=\"&&\"", "搜索后缀": "/vod/", "影片类型": "<div class=\"module-info-tag\">&&立即播放", "导演": "导演：&&</div>",  "主演": "主演：&&</div>", "简介": "introduction-content\">&&</span>", "线路数组": "stui-vodlist__head\"&&/h3>", "线路标题": "class=\"title\"&&<", "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman", "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}}, 
-
+{"key":"Kuaikan","name":"快看🐯影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"drpy_js_快看","name":"快看🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"135看看","name":"一三🐯影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
 {"key":"drpy_js_188看","name":"一八🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/188看.js"},
@@ -66,7 +66,7 @@
 {"key":"drpy_js_555影视V2","name":"五五🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视V2.js"},
 {"key":"csp_xp_789kp","name":"七八🐯影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/789kp.json"},
 {"key":"drpy_js_9u电影","name":"九Ｕ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/9u电影.js"},
-{"key":"drpy_js_NY影院","name":"纽约🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NY%E5%BD%B1%E9%99%A2.js"},
+{"key":"drpy_js_NY影院","name":"纽约🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NY影院.js"},
 {"key":"drpy_js_7喜影院","name":"七喜🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/7喜影院.js"},
 {"key":"drpy_js_Nike影视","name":"奈克🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/Nike影视.js"},
 {"key":"drpy_js_HG影视","name":"ＨＧ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HG影视.js"},
