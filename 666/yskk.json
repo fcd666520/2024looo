@@ -1,12 +1,13 @@
 //接口收集网络
 {"spider": "./JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
 "sites":[
-{"key":"csp_XBPQ_苹果电影","name":"🍏苹果|XB","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext":"./XBPQ/苹果电影.json"},
 {"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
 {"key":"js_1214闪电狐ovo","name":"长按图片🔃快速搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_公众号1闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_公众号2闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+// {"key":"网红直播","name":"平台🐯直播","type":3,"searchable":0,"api":"csp_Yj1211","playerType":1},
+
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key": "csp_SP360","name": "三六🐯官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
