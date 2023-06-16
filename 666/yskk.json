@@ -1,27 +1,12 @@
 //接口收集网络
-
 {"spider": "./JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
-
 "sites":[
-     {
-            "key": "csp_苹果",
-            "name": "🅱️苹果影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./xBPQ/苹果影视.json"
-        },
-
+{"key":"csp_XBPQ_苹果电影","name":"🍏苹果|XB","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext":"./XBPQ/苹果电影.json"},
 {"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
 {"key":"js_1214闪电狐ovo","name":"长按图片🔃快速搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
-
 {"key":"js_公众号1闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"js_公众号2闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
-
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key": "csp_SP360","name": "三六🐯官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
@@ -30,10 +15,6 @@
 {"key":"js_优酷视频","name":"优酷🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_菜狗","name":"搜狗🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇异🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
-
-
-
-
 {"key":"Czsapp","name":"厂长🐯影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"爱迪V2","name":"爱迪🐯影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
 {"key":"csp_fant","name":"饭团🐯影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
@@ -64,7 +45,7 @@
 {"key": "YQK_spider","name":"一起🐯影视","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://hk-api-cf.yqk5659.com"},
 {"key": "csp_BuLei","name":"布雷🐯影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},    
 {"key": "csp_Lgyy","name":"蓝光🐯影视","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lgyy.vip"},
-//{"key":"看看","name":"看看🔃影视", "type": 3, "api": "csp_XBPQ", "jar": "http://xiaohewanwan.love/jar/zy0425.jar;md5;975c8ac43a0f8513bb4d32ca0de03340", "ext": {"主页url": "https://kankanju.cc", "副标题": "pic-text text-right\">&&</b>", "搜索模式": "1", "搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=", "搜索数组": "stui-vodlist__box\">&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "alt=\"&&\"", "搜索副标题": "pic-text text-right\">&&</div>", "搜索链接": "href=\"&&\"", "搜索后缀": "/vod/", "影片类型": "<div class=\"module-info-tag\">&&立即播放", "导演": "导演：&&</div>",  "主演": "主演：&&</div>", "简介": "introduction-content\">&&</span>", "线路数组": "stui-vodlist__head\"&&/h3>", "线路标题": "class=\"title\"&&<", "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman", "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}}, 
+
 {"key":"drpy_js_快看","name":"快看🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"135看看","name":"一三🐯影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
 {"key":"drpy_js_188看","name":"一八🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/188看.js"},
@@ -96,16 +77,8 @@
 {"key":"csp_xp_meiju56","name":"美剧🐯影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/meiju562.json"},
 {"key":"csp_xpath_HOHOTV","name":"ＨＯ🐯影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XP/HOHOTV.json"},
 
-//{"key":"csp_xp_nmys","name":"农民🔃影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/nmys2.json"},
-//{"key":"csp_xp_gongreng","name":"工人🔃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/box/raw/branch/main/sub/MeowXP/gongreng.json"},
-//{"key":"csp_app_天天视频","name":"天天🔃影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
-//{"key": "快播","name": "乐播🔃影视","type": 1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 1,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺"]},
-//{"key":"神马电影","name":"神马🔃电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"drpy_js_9U电影","name":"九右🔃影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/9U电影.js"},
 {"key" : "爱迪","name" : "爱迪🐯影视","type" : 3,"api" : "csp_AppYsV2","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://aidiapp.xyz/xgapp.php/v2/"},
-//{"key":"drpy_js_八蛋影视","name":"八蛋🔃影视","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/八蛋影视.js"},
-//{"key":"drpy_js_大米星球3","name":"大米🔃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球3.js"},
 
 {"key": "csp_Ying","name": "樱花🐉动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"drpy_js_动漫岛","name":"漫岛🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/动漫岛.js"},
@@ -126,7 +99,6 @@
 {"key":"drpy_js_AnFuns","name":"ＡＮ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
-//{"key": "csp_魔力","name": "🅱️魔力高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/魔力影视.json"},
 {"key":"push_agent","name":"推送🔍搜索","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0},
 {"key":"土狗搜索","name":"土狗🔍搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/土狗搜索.json"},
