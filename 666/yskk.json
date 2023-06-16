@@ -3,7 +3,16 @@
 {"spider": "./JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
 
 "sites":[
-
+     {
+            "key": "csp_苹果",
+            "name": "🅱️苹果影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./xBPQ/苹果影视.json"
+        },
 
 {"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
 {"key":"js_1214闪电狐ovo","name":"长按图片🔃快速搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
