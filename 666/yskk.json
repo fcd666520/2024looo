@@ -19,6 +19,7 @@
 {"key":"Czsapp","name":"厂长🐯影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"爱迪V2","name":"爱迪🐯影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
 {"key":"csp_fant","name":"饭团🐯影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"drpy_js_LIBVIO","name":"ＬＩ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key": "csp_appys_如意4K","name": "如意🐯影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
 {"key":"csp_Bttoo","name":"ＴＯ🐯影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppMr","name":"明明🐯影视","type":3,"api":"csp_AppMr","changeable":0},
