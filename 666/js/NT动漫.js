@@ -1,7 +1,7 @@
 // http://www.ntdm.tv
 var rule={
     title:'NT动漫',
-    host:'http://www.ntdm8.com',
+    host:'http://www.ntdm.tv ',
     homeUrl:'/type/riben.html',
     // url:'/show/fyclass--------fypage---.html',
     url:'/show/fyclassfyfilter.html',
