@@ -1,10 +1,6 @@
 //接口收集网络
 {"spider": "./JAR/lolss.jar;md5;f33cbf5602d741fad2e007e78aff7c4d",
 "sites":[
-{"key":"js_免费接口闪电狐ovo","name":"免费接口🔃请勿贩卖","type":3,"api":"./lib/drpy2.min.js","ext":"./js/"},
-{"key":"js_1214闪电狐ovo","name":"长按图片🔃快速搜索","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
-{"key":"js_公众号1闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
-{"key":"js_公众号2闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 // {"key":"网红直播","name":"平台🐯直播","type":3,"searchable":0,"api":"csp_Yj1211","playerType":1},
 //{"key": "csp_appys_多米蓝光","name": "多米🐯影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://v.dmdh.top/api.php/app/"},
@@ -214,7 +210,7 @@
 {"key":"速影","name":"速影🔃资源","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花🔃资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"接口完全免费，切勿付费购买。",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"接口完全免费，切勿付费购买",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "parses":[
