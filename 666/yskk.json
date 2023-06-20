@@ -1,4 +1,3 @@
-
 {"spider": "./JAR/lolss.jar;md5;f33cbf5602d741fad2e007e78aff7c4d",
 "sites":[
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
@@ -36,7 +35,7 @@
 {"key":"555dy","name":"五五🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 {"key": "csp_AppMr","name": "明明🐯影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_FanYY","name": "玩偶🐯影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
+//101.34.7.151{"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
 {"key": "csp_WoGG","name": "🅱️玩偶哥哥|T追剧","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 {"key":"js_花猫TV","name":"花猫🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 {"key": "csp_DiDuan","name":"低端🐯电影","type": 3,"api": "csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable": 1,"quickSearch": 1,"filterable": 0},
