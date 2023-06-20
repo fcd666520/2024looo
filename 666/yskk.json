@@ -49,7 +49,7 @@
 {"key":"drpy_js_348电影网","name":"四八🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/348电影网.js"},
 {"key":"drpy_js_555影视V2","name":"五五🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视V2.js"},
 {"key":"csp_xp_348z","name":"三四🐯影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/348z.json"},
-{"key":"csp_xp_789kp","name":"七八🐯影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/789kp.json"},
+{"key":"csp_xp_789kp","name":"七八🐯影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/789kp.json"},
 {"key":"drpy_js_9u电影","name":"九Ｕ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/9u电影.js"},
 {"key":"drpy_js_NY影院","name":"纽约🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NY影院.js"},
 {"key":"drpy_js_7喜影院","name":"七喜🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/7喜影院.js"},
