@@ -78,11 +78,8 @@
             "url": "https://tvbox.cainisi.cf",
             "name": "🐸妮丝线路〔分享线路〕"
         }, 
-        {
-            "url": "https://yydsys.top/duo/lm.json",
-            "name": "🐺龙门线路〔分享线路〕"
-        },
-{
+        //{"url": "https://yydsys.top/duo/lm.json","name": "🐺龙门线路〔分享线路〕"},
+       {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🐎皮皮线路〔分享线路〕"
         },
