@@ -3,16 +3,7 @@
 //学习自用，缝合网上多个大佬
 {"spider": "./JAR/yydsys.jar;md5;49598b0a48d702e214929df54d6dde72",
 "sites":[   
-    {
-      "key": "LIBVIO",
-      "name": "LIBVIO┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tv.libvio.cc/"
-    },
+
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
@@ -32,7 +23,8 @@
 {"key":"Czsapp","name":"厂长🐯影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"爱迪V2","name":"爱迪🐯影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
 {"key":"csp_fant","name":"饭团🐯影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
-{"key":"drpy_js_LIBVIO","name":"ＬＩ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
+{"key": "LIBVIO","name": "ＬＩ🐯影视","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
+//{"key":"drpy_js_LIBVIO","name":"ＬＩ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key": "csp_appys_如意4K","name": "如意🐯影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
 {"key":"csp_Bttoo","name":"ＴＯ🐯影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppMr","name":"明明🐯影视","type":3,"api":"csp_AppMr","changeable":0},
