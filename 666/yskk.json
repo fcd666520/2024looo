@@ -38,7 +38,7 @@
 //{"key": "csp_FanYY","name": "玩偶🐯影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},    
 {"key": "csp_WoGG","name": "🅱️玩偶哥哥|T追剧", "type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 //{"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},
-{"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
+//{"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 {"key": "csp_DiDuan","name":"低端🐯电影","type": 3,"api": "csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "YQK_spider","name":"一起🐯影视","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://hk-api-cf.yqk5659.com"},
 {"key": "csp_BuLei","name":"布雷🐯影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},    
