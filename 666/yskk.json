@@ -1,13 +1,12 @@
-
 {"spider": "./JAR/lolss.jar;md5;f33cbf5602d741fad2e007e78aff7c4d",
 "sites":[   
-{"key": "Gitcafe","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
-{"key": "七夜","name": "🔍阿里|七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
-{"key": "Yisou","name": "🔍阿里|易搜索","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
-{"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
-{"key": "Upyunso","name": "🔍阿里|云搜索", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
-{"key": "PanSearch","name": "🔍阿里|网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "8258ace56b504539bcf66620364cacf2"},
-{"key": "csp_WoGG","name": "🅱️玩偶哥哥|T追剧","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
+{"key": "Gitcafe","name": "阿里🔍纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "Yisou","name": "阿里🔍易搜索","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "Zhaozy","name": "阿里🔍找资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b$$$ygfxz$$$66666"},
+{"key": "Upyunso","name": "阿里🔍云搜索", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "PanSearch","name": "阿里🔍网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "8258ace56b504539bcf66620364cacf2"},
+{"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 
 {"key": "csp_yayaya","name": "耐菲🐯影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
