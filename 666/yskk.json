@@ -1,11 +1,8 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
+//本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
 {"spider": "./JAR/lolss.jar;md5;f33cbf5602d741fad2e007e78aff7c4d",
 "sites":[   
-{"key": "Gitcafe","name": "阿里🔍纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "Yisou","name": "阿里🔍易搜索","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "Zhaozy","name": "阿里🔍找资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b$$$ygfxz$$$66666"},
-{"key": "Upyunso","name": "阿里🔍云搜索", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "PanSearch","name": "阿里🔍网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "8258ace56b504539bcf66620364cacf2"},
+
 {"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 
@@ -105,6 +102,12 @@
 {"key":"drpy_js_AnFuns","name":"ＡＮ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
+{"key": "Gitcafe","name": "阿里🔍纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "Yisou","name": "阿里🔍易搜索","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "Zhaozy","name": "阿里🔍找资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b$$$ygfxz$$$66666"},
+{"key": "Upyunso","name": "阿里🔍云搜索", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "PanSearch","name": "阿里🔍网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "8258ace56b504539bcf66620364cacf2"},
 
 {"key":"诺讯资源","name":"诺讯🔃资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空资源站","name":"天空🔃资源","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1},
