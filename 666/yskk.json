@@ -35,7 +35,8 @@
 {"key":"csp_AppMr","name":"明明🐯影视","type":3,"api":"csp_AppMr","changeable":0},
 {"key": "csp_Kunyu77","name": "七七🐯影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小苹果","name":"苹果🐯影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},{"key": "csp_AppMr","name": "明明🐯影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_FanYY","name": "玩偶🐯影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},    {
+//{"key": "csp_FanYY","name": "玩偶🐯影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"},    
+{
       "key": "csp_WoGG",
       "name": "🅱️玩偶哥哥|T追剧",
       "type": 3,
