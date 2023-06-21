@@ -102,7 +102,7 @@
 {"key":"drpy_js_AnFuns","name":"ＡＮ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
-{"key": "Gitcafe","name": "🔍阿里|纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
+{"key": "Gitcafe","name": "阿里🔍纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "Yisou","name": "阿里🔍易搜索","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "Zhaozy","name": "阿里🔍找资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b$$$ygfxz$$$66666"},
