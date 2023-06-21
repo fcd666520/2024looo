@@ -114,7 +114,7 @@
 {"key": "Gitcafe","name": "阿里🔍纸条搜","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 //{"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "Yisou","name": "阿里🔍易搜索","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
-
+{"key": "UpYun","name": "😻Up搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0613.jar"},
 
 {"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 {"key": "Zhaozy","name": "阿里🔍找资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b$$$ygfxz$$$66666"},
