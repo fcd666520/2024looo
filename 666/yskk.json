@@ -81,9 +81,16 @@
 {"key":"drpy_js_哔嘀影视","name":"哔嘀🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/哔嘀影视.js"},
 {"key":"csp_xp_meiju56","name":"美剧🐯影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/meiju562.json"},
 {"key":"csp_xpath_HOHOTV","name":"ＨＯ🐯影视","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XP/HOHOTV.json"},
-
-
 {"key" : "爱迪","name" : "爱迪🐯影视","type" : 3,"api" : "csp_AppYsV2","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://aidiapp.xyz/xgapp.php/v2/"},
+
+
+{"key": "Gitcafe","name": "阿里🔍纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
+{"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
+{"key": "Yisou","name": "阿里🔍易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
+{"key": "UpYun","name": "ＵＰ🔍搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0613.jar"},
+{"key": "Zhaozy","name": "阿里🔍资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt$$$ygfxz$$$66666"},
+{"key": "Upyunso","name": "阿里🔍云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
+{"key": "PanSearch","name": "阿里🔍网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
 
 {"key": "csp_Ying","name": "樱花🐉动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"drpy_js_动漫岛","name":"漫岛🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/动漫岛.js"},
@@ -112,16 +119,9 @@
 //{"key": "Alips","name": "阿里🔍盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 //{"key": "Yisou","name": "阿里🔍易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 //{"key": "Zhaozy","name": "阿里🔍找片","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "Gitcafe","name": "阿里🔍纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 //{"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 
 
-{"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
-{"key": "Yisou","name": "阿里🔍易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "UpYun","name": "ＵＰ🔍搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0613.jar"},
-{"key": "Zhaozy","name": "阿里🔍资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt$$$ygfxz$$$66666"},
-{"key": "Upyunso","name": "阿里🔍云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
-{"key": "PanSearch","name": "阿里🔍网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
 
 {"key":"诺讯资源","name":"诺讯🔃资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空资源站","name":"天空🔃资源","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1},
