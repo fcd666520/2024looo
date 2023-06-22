@@ -5,7 +5,7 @@
 "sites":[  
 
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key":"苹果电影网","name":"宝仙🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果电影网.json"},
+{"key":"苹果电影网","name":"苹果🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果电影网.json"},
 
 {"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 {"key": "Yisou","name": "阿里🔍易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
