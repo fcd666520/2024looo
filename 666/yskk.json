@@ -12,9 +12,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "playUrl": "json:https://jx.4kdv.com/?url="
-    },
-    
+      "playUrl": "json:https://jx.4kdv.com/?url="},
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
