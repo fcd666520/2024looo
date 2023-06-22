@@ -3,8 +3,7 @@
 //学习自用，缝合网上多个大佬
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmile2023.jar;md5;15fb4d9538b195a54683d2064b77b0b0",
 "sites":[  
-{"key":"苹果电影网","name":"苹果电影网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果电影网.json"},
-
+{"key":"苹果电影网","name":"苹果🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果电影网.json"},
 {"key":"dr_豆瓣","name":"豆瓣Ｄ官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key": "Gitcafe","name": "阿里🔍纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 {"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
@@ -14,9 +13,6 @@
 {"key": "Upyunso","name": "阿里🔍云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 {"key": "PanSearch","name": "阿里🔍网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},       
 {"key": "csp_七夜","name": "阿里🔍七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
-        {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./token.txt"},
- 
-        {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/mml/yskk/-/raw/master/666/XYQHiker/%E8%B1%86%E8%B1%86%E9%A3%9E.json"},
 
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
@@ -55,7 +51,7 @@
 {"key":"drpy_js_伊人追剧","name":"伊人🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/伊人追剧.js"},
 {"key": "Xinsj","name": "视觉🐯影视","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080dy3.com"},  
 
-{"key":"宝仙","name":"宝仙🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/宝仙.json"},
+{"key":"宝仙","name":"苹果🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/宝仙.json"},
 
 {"key":"大米星球1","name":"大米🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
 {"key":"555dy","name":"五五🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
