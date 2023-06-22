@@ -3,7 +3,18 @@
 //学习自用，缝合网上多个大佬
 {"spider": "./JAR/yydsys.jar;md5;49598b0a48d702e214929df54d6dde72",
 "sites":[   
-
+   {
+      "key": "csp_appys_如意4K",
+      "name": "🐵️┃如意┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.maoyingshi.cc/api.php/app/",
+      "playUrl": "json:https://jx.4kdv.com/?url="
+    },
+    
 {"key":"dr_豆瓣","name":"豆瓣🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
@@ -15,10 +26,10 @@
 {"key":"js_爱起艺官","name":"奇异🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "csp_yayaya","name": "耐菲🐯影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key": "csp_ruyi","name": "棍子🐯影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
+//{"key": "csp_ruyi","name": "棍子🐯影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"key": "csp_beijihu","name": "极狐🐯影视", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
-{"key":"多米蓝光","name":"多米🐯影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},	
+//{"key":"多米蓝光","name":"多米🐯影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},	
 
 {"key":"Czsapp","name":"厂长🐯影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"爱迪V2","name":"爱迪🐯影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
