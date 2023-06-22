@@ -4,8 +4,8 @@
 {"spider": "./JAR/yydsys.jar;md5;49598b0a48d702e214929df54d6dde72",
 "sites":[  
 
-{"key":"dr_豆瓣","name":"豆瓣Ｄ官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key": "Gitcafe","name": "阿里🔍纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
+{"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+
 {"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 {"key": "Yisou","name": "阿里🔍易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "UpYun","name": "ＵＰ🔍搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0613.jar"},
@@ -13,10 +13,6 @@
 {"key": "Upyunso","name": "阿里🔍云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 {"key": "PanSearch","name": "阿里🔍网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},       
 {"key": "csp_七夜","name": "阿里🔍七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
-        {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./token.txt"},
- 
-        {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/mml/yskk/-/raw/master/666/XYQHiker/%E8%B1%86%E8%B1%86%E9%A3%9E.json"},
-
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key": "csp_SP360","name": "三六🐯官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
@@ -31,8 +27,6 @@
 
 
 {"key": "csp_yayaya","name": "耐菲🐯影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
-//{"key": "csp_ruyi","name": "棍子🐯影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
-//"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"key": "csp_beijihu","name": "极狐🐯影视", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 //{"key":"多米蓝光","name":"多米🐯影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},	
 {"key": "Kuaikan","name": "快看🐯影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -42,7 +36,7 @@
 {"key":"csp_fant","name":"饭团🐯影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "LIBVIO","name": "ＬＩ🐯影视","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 //{"key":"drpy_js_LIBVIO","name":"ＬＩ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
-//{"key": "csp_appys_如意4K","name": "如意🐯影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
+{"key": "csp_appys_如意4K","name": "如意🐯影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
 {"key":"csp_Bttoo","name":"ＴＯ🐯影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppMr","name":"明明🐯影视","type":3,"api":"csp_AppMr","changeable":0},
 {"key": "csp_Kunyu77","name": "七七🐯影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -130,7 +124,7 @@
 //{"key": "Zhaozy","name": "阿里🔍找片","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 //{"key": "七夜","name": "阿里🔍七夜搜","type": 3,"api": "csp_Dovx","searchable": 1, "quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 
-
+//{"key": "Gitcafe","name": "阿里🔍纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 
 {"key":"诺讯资源","name":"诺讯🔃资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空资源站","name":"天空🔃资源","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":1,"quickSearch":1},
