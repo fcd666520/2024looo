@@ -3,6 +3,7 @@
 //学习自用，缝合网上多个大佬
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmile2023.jar;md5;15fb4d9538b195a54683d2064b77b0b0",
 "sites":[  
+{"key":"苹果电影网","name":"苹果电影网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果电影网.json"},
 
 {"key":"dr_豆瓣","name":"豆瓣Ｄ官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key": "Gitcafe","name": "阿里🔍纸条","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
