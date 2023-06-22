@@ -1,7 +1,7 @@
 //以下全部网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
 //学习自用，缝合网上多个大佬
-{"spider": "./JAR/yydsys.jar;md5;49598b0a48d702e214929df54d6dde72",
+{"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/XYQ.jar;md5;15fb4d9538b195a54683d2064b77b0b0",
 "sites":[  
 
 {"key":"dr_豆瓣","name":"豆瓣Ｄ官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
