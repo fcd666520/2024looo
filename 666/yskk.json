@@ -5,9 +5,9 @@
 "sites":[  
 
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key":"苹果","name":"苹果🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
+{"key":"苹果","name":"苹果🍎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 {"key":"csp_Yj1211","name":"平台▶️直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
+{"key": "直播转点播","name": "电视⏯️直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key": "csp_SP360","name": "三六3️⃣官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
 {"key":"csp_MGTV","name":"芒果🥭官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"js_腾云驾雾2","name":"腾讯🐧官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
@@ -23,25 +23,21 @@
 {"key": "PanSearch","name": "阿里🗒️网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},       
 {"key": "csp_七夜","name": "阿里📅七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
 
-
-
-
-
-{"key": "csp_yayaya","name": "耐菲🐯影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key": "csp_beijihu","name": "极狐🐯影视", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
+{"key": "csp_yayaya","name": "耐菲🎒影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key": "csp_beijihu","name": "极狐🦊影视", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 //{"key":"多米蓝光","name":"多米🐯影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},	
-{"key": "Kuaikan","name": "快看🐯影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": "快看👁️影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"Czsapp","name":"厂长🐯影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
-{"key":"爱迪V2","name":"爱迪🐯影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
-{"key":"csp_fant","name":"饭团🐯影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
-{"key": "LIBVIO","name": "ＬＩ🐯影视","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
+{"key":"Czsapp","name":"厂长🏭影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
+{"key":"爱迪V2","name":"爱迪🧸影视","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
+{"key":"csp_fant","name":"饭团🍙影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
+{"key": "LIBVIO","name": "ＬＩ🐉影视","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 //{"key":"drpy_js_LIBVIO","name":"ＬＩ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key": "csp_appys_如意4K","name": "如意🐯影视", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},        
 {"key":"csp_Bttoo","name":"ＴＯ🐯影视","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppMr","name":"明明🐯影视","type":3,"api":"csp_AppMr","changeable":0},
 {"key": "csp_Kunyu77","name": "七七🐯影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"小苹果","name":"苹果🐯影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"小苹果","name":"苹果🍏影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_我爱跟剧","name":"我爱🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
 {"key":"drpy_js_天空影视","name":"天空🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/天空影视.js"},
 {"key":"drpy_js_四个圈儿","name":"圈儿🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/四个圈影视.js"},
