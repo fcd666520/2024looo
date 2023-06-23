@@ -4,7 +4,7 @@
 {"spider": "./JAR/pandaQ230614c.jar?inline=false.jar;md5;3c776fd8a11b17449a387445567a0aec",
 "sites":[  
 
-{"key":"dr_豆瓣","name":"豆瓣🫒官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"苹果","name":"苹果🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 
 {"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
@@ -16,11 +16,11 @@
 {"key": "csp_七夜","name": "阿里🔍七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
 {"key":"csp_Yj1211","name":"平台🐯直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视🐯直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
-{"key": "csp_SP360","name": "三六🐯官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
-{"key":"csp_MGTV","name":"芒果🐯官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
-{"key":"js_腾云驾雾2","name":"腾讯🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
-{"key":"js_优酷视频","name":"优酷🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
-{"key":"drpy_js_菜狗","name":"搜狗🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
+{"key": "csp_SP360","name": "三六3️⃣官方","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
+{"key":"csp_MGTV","name":"芒果🥭官方","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
+{"key":"js_腾云驾雾2","name":"腾讯🐧官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
+{"key":"js_优酷视频","name":"优酷🐋官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+{"key":"drpy_js_菜狗","name":"搜狗🐶官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇异🥝官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 
