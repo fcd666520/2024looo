@@ -25,7 +25,7 @@
 {"key": "Upyunso","name": "阿里📊云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 {"key": "PanSearch","name": "阿里🗒️网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},       
 {"key": "csp_七夜","name": "阿里📅七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
-
+{"key":"纸条","name": "📜纸条搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./ali.jar"},
 {"key": "csp_yayaya","name": "耐菲🎒影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key": "csp_beijihu","name": "极狐🦊影视", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 //{"key":"多米蓝光","name":"多米🐯影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},	
