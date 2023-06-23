@@ -1,10 +1,10 @@
 //以下全部网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
 //学习自用，缝合网上多个大佬
-{"spider": "./JAR/Yoursmile2023.jar;md5;0061a1937293f68395fbdb2b6bde1d4e",
+{"spider": "./JAR/pandaQ230614c.jar?inline=false.jar;md5;3c776fd8a11b17449a387445567a0aec",
 "sites":[  
 
-{"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"豆瓣🫒官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"苹果","name":"苹果🐯影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 
 {"key": "cps_aliyunpan","name": "玩偶🔍妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
@@ -21,7 +21,7 @@
 {"key":"js_腾云驾雾2","name":"腾讯🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾2.js"},
 {"key":"js_优酷视频","name":"优酷🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_菜狗","name":"搜狗🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
-{"key":"js_爱起艺官","name":"奇异🐯官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"js_爱起艺官","name":"奇异🥝官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key": "csp_WoGG","name": "玩偶🐯哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 
 
