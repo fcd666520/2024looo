@@ -50,8 +50,8 @@
 
 {"key":"宝仙","name":"宝仙🍒影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/宝仙.json"},
 
-{"key":"大米星球1","name":"大米🫐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
-{"key":"555dy","name":"五五🫑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
+{"key":"大米星球1","name":"大米🍌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
+{"key":"555dy","name":"五五🍉影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 
 {"key": "csp_AppMr","name": "明明🐯影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 
