@@ -29,7 +29,7 @@
 {"key": "csp_七夜","name": "阿里📅七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
 {"key":"纸条","name": "纸条📜搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./JAR/ali.jar"},
 {"key": "csp_KungFu404","name": "４Ｋ🐲聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/ali.jar"},
-{"key": "土狗搜索","name": "阿里🐕土狗","type": 3,"api": "csp_TuGou","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/ali.jar"},
+{"key": "土狗搜索","name": "阿里🐕土狗","type": 3,"api": "csp_TuGou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt"},
 
 
 {"key": "csp_yayaya","name": "耐菲🎒影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
