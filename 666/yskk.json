@@ -28,6 +28,7 @@
 {"key":"纸条","name": "纸条📜搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./JAR/ali.jar"},
 {"key": "csp_KungFu404","name": "４Ｋ🐲聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/ali.jar"},
 {"key": "土狗搜索","name": "阿里❤️土狗","type": 3,"api": "csp_TuGou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt"},
+{"key": "XYQaL_4kHDR","name": "玩偶🔍姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.txt;md5;dafe0f3d44bb4b07bb30b38dae2b191a","ext": "./XYQHiker/玩偶姐姐.json"},
 
 {"key": "csp_yayaya","name": "耐菲🎒影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key": "csp_beijihu","name": "极狐🦊影视", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
@@ -118,7 +119,6 @@
 {"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
 //{"key": "PanSearch","name": "Search┃云盘","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"},
-//{"key": "XYQaL_4kHDR","name": "玩偶🔍姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"},
 //{"key": "csp_七夜","name": "阿里🔍七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/mml/yskk/-/raw/master/token.txt"},	
 //{"key": "PanSearch","name": "阿里🔍PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto" },
 //{"key": "Upyunso","name": "阿里🔍云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
