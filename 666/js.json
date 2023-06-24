@@ -190,16 +190,6 @@
 {"key":"drpy_js_有声小说","name":"有声小说[听书js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/有声小说吧.js","playerType":"2"},
 {"key":"drpy_js_幻听网听书","name":"幻听网听书[听书js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/幻听网听书.js","playerType":"2"},
 
-{"key":"drpy_js_短视频","name":"短视频[聚合js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/短视频.js"},
-
-{"key":"drpy_js_猫了个咪","name":"猫了个咪[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/猫了个咪.js"},
-{"key":"drpy_js_吸瓜","name":"吸瓜[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/吸瓜.js"},
-{"key":"drpy_js_黄瓜TV","name":"黄瓜TV[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜TV.js"},
-{"key":"drpy_js_banan","name":"banan[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/banan.js"},
-{"key":"drpy_js_18av","name":"18av[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/18av.js"},
-{"key":"drpy_js_Missav","name":"Missav[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/Missav.js"},
-{"key":"drpy_js_朱古力","name":"朱古力[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/朱古力.js"},
-{"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐[18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/玩偶姐姐.js"},
 {"key":"Live","name":"影视直播","type":3,"api": "csp_Live","ext":"2000"},
 {"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "./JS/lib/token.txt","jar":"./JS/fm.jar"}],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
