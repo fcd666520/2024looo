@@ -1,4 +1,4 @@
-{"spider":"./https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmile230621.jar;md5;638f011e84c05871ef13be67c245feda",
+{"spider":"https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmile230621.jar;md5;638f011e84c05871ef13be67c245feda",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣[搜索js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"Bili[B站jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
