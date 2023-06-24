@@ -161,7 +161,7 @@
 {"key":"drpy_js_爱弹幕","name":"爱弹幕[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱弹幕.js"},
 {"key":"drpy_js_兔小贝","name":"兔小贝[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"AnFuns[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/AnFuns.js"},
-{"key":"drpy_js_AGE动漫","name":"AGE动漫[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/AGE动漫.js"},
+{"key":"drpy_js_AGE动漫","name":"AGE动漫[动漫js]","type":3,"api":"https://jihulab.com/mml/llds/-/raw/master/lib/drpy2.min.js","ext":"https://jihulab.com/mml/llds/-/raw/master/js/AGE动漫.js"},
 {"key":"drpy_js_动漫岛","name":"动漫岛[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/动漫岛.js"},
 {"key":"drpy_js_嘶哩嘶哩","name":"嘶哩嘶哩[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/嘶哩嘶哩.js"},
 {"key":"drpy_js_奇米动漫","name":"奇米动漫[动漫js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇米动漫.js"},
