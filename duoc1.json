@@ -2,30 +2,35 @@
 "urls": [      
         {
             "url": "https://jihulab.com/mml/yskk/-/raw/master/666/yskk.json",
-            "name": "😆极狐看看〔网上线路〕"
+            "name": "🦊极狐看看推荐"
         },  
-                 {
+        {
             "url": "https://jihulab.com/mml/yskk/-/raw/master/666/js.json ",
-            "name": "😄极狐爱看V2〔网上线路〕"
+            "name": "🦊极狐爱看JS"
         },         
         {
            "url": "https://jihulab.com/mml/yskk/-/raw/master/666/akys.json",
-            "name": "😄极狐爱看〔网上线路〕"
-        },      
-                 
-        {
-            "url": "https://agit.ai/xiaowei233333/kkli/raw/branch/master/666/yskk.json ",
-            "name": "😄极狐爱看V2〔网上线路〕"
-        },   
-   
-        {
-            "url": "https://jihulab.com/mml/yskk/-/raw/master/k",
-            "name": "😛极狐KK〔网上线路〕"
-        },   
+            "name": "🦊极狐爱看备用"
+        },
+                    
+        { "url": "https://agit.ai/xiaowei233333/kkli/raw/branch/master/666/yskk.json",
+            "name": "🦊极狐爱看Agit"
+        },
         {
             "url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/yskk.json",
-            "name": "😀AG线路〔网上线路〕"
+            "name": "🦊极狐爱看备用Agit"
+        },          
+        {
+           "url": "https://pan.shangui.cc/f/v2Lsk/yyfx.json",
+           "name": "😄业余线路〔网上线路〕"
+        },         
+ 
+   
+        {
+            "url": "",
+            "name": ""
         },   
+ 
         {
             "url": "http://ysc.weixine.net:33/",
             "name": "😀微信线路〔网上线路〕"
@@ -49,8 +54,20 @@
 
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐼云星线路〔网上线路〕"
-        },         
+            "name": "🐼云星线路"
+        },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8",
+            "name": "🐼云星线路V2"
+        },          
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🐼云星线路V3"
+        },           
+                {
+            "url": "https://yydsys.top/duo/ali",
+            "name": "🐼云星云盘"
+        },
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "🐧肥猫线路〔分享线路〕"
@@ -65,7 +82,7 @@
         },          
 
         {
-            "url": "https://yydsys.top/duo",
+            "url": "http://yydsys.top/duo",
             "name": "🐏多多线路〔分享线路〕"
         },
        {
