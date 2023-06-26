@@ -100,18 +100,80 @@
 {"key":"drpy_js_菜狗","name":"搜狗🐶官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇异🥝官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key": "csp_WoGG","name": "玩偶👨‍👧哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-//
-{"key": "csp_4kHDR","name": "玩偶🏃‍♀️姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶姐姐.json"},
-{"key": "cps_aliyunpan","name": "玩偶👩‍👧妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
-{"key": "Yisou","name": "阿里📁易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "UpYun","name": "ＵＰ📂搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt","jar": "./JAR/pandaQ230614c.jar"},
-{"key": "Zhaozy","name": "阿里🗂️资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt$$$ygfxz$$$66666"},
-{"key": "Upyunso","name": "阿里📊云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
-{"key": "PanSearch","name": "阿里🗒️网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},       
-{"key": "csp_七夜","name": "阿里📅七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
-{"key":"纸条","name": "纸条📜搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./JAR/ali.jar"},
-{"key": "csp_KungFu404","name": "４Ｋ🐲聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/ali.jar"},
-{"key": "土狗搜索","name": "阿里🐕土狗","type": 3,"api": "csp_TuGou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt"},
+
+
+
+{ {"key":"Gitcafe","name":"☁️小纸条云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
+        {"key":"csp_Zhaozy","name":"☁️找资源云盘","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
+        {"key":"csp_AliPS","name":"☁️盘搜云盘","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
+        {"key":"csp_Yisou","name":"☁️易搜云盘","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
+        {"key":"csp_Upyunso","name":"☁️云搜云盘","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
+        {"key": "csp_XYQHiker_土拨鼠","name":"☁️土拨鼠云盘","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json"},
+        
+        {"key": "csp_XYQHikerAL_我的小站","name":"☁️小站云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E6%88%91%E7%9A%84%E5%B0%8F%E7%AB%99.json"},
+        {"key": "csp_XYQHikerAL_阿里云盘网","name":"☁️阿里云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98.json"},
+        {"key": "csp_XYQHikerAL_豆豆飞","name":"☁️豆豆飞云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E8%B1%86%E8%B1%86%E9%A3%9E.json"},
+        {"key": "csp_XYQHikerAL_橘子盘搜","name":"☁️橘子盘搜云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C_1.json"},
+        {"key": "csp_XYQHiker_DOVX搜索","name":"☁️DOVX云盘","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/DOVX%E6%90%9C%E7%B4%A2.json"},
+        {"key": "csp_XYQBiu_云盘分享","name":"☁️云盘分享云盘","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E4%BA%91%E7%9B%98%E5%88%86%E4%BA%AB.json"},
+        {"key": "csp_XYQHiker_盘搜索","name":"☁️盘搜索云盘","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E7%9B%98%E6%90%9C%E7%B4%A2.json"},
+ 
+{"key":"csp_KungFu404","name":"🥧有效聚合","type":3,"api":"csp_KungFu404","searchable":1,"filterable":0,"changeable":0,"ext":"484536ca5ca34cac8aafe371c3d2e982","jar":"https://jihulab.com/ymz1231/jar/-/raw/main/ali.jar"},
+  {
+      "key": "YiSo",
+      "name": "😹易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "484536ca5ca34cac8aafe371c3d2e982+4k|fhd|auto"
+    },
+  
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "484536ca5ca34cac8aafe371c3d2e982+4k|fhd|auto"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "484536ca5ca34cac8aafe371c3d2e982+4k|fhd|auto"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "484536ca5ca34cac8aafe371c3d2e982+4k|fhd|auto"
+    },
+    {
+      "key": "七夜",
+      "name": "😾七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "484536ca5ca34cac8aafe371c3d2e982+4k|fhd|auto"
+    },
 
 
 {"key": "csp_yayaya","name": "耐菲🎒影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
