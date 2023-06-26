@@ -103,7 +103,7 @@
 
 
 
-{ {"key":"Gitcafe","name":"☁️小纸条云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
+ {"key":"Gitcafe","name":"☁️小纸条云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
         {"key":"csp_Zhaozy","name":"☁️找资源云盘","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
         {"key":"csp_AliPS","name":"☁️盘搜云盘","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
         {"key":"csp_Yisou","name":"☁️易搜云盘","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"2d4d4374e706414a883064e6d4cc20aa"},
