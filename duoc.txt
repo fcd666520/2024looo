@@ -1,4 +1,5 @@
  { "storeHouse": [ 
+{ "sourceName": "💢极狐多仓库", "sourceUrl": "https://jihulab.com/mml/yskk/-/raw/master/duoc1.json" }, 
 { "sourceName": "💢闪电狐仓库", "sourceUrl": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/duoc1.json" }, 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://www.agit.ai/liucn/box/raw/branch/main/dc.txt" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
