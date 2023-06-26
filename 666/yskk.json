@@ -6,7 +6,7 @@
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key": "ity","name": "爱TV丨4k","type": 3,"api": "csp_XBPQ","playerType":2,"ext": {"数组":"<div class=\"stui-vodlist__box\">&&</div>","副标题":"<span class=\"pic-text text-right\"><b>&&</b></span>","分类":"电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6","分类url":"https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},   
     
-{"key": "csp_玩偶哥哥","name": "👺玩偶表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶哥哥.json"},
+{"key": "csp_大表哥哥","name": "玩偶表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/大表哥哥.json"},
 
 
 {"key":"苹果","name":"苹果🍎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
