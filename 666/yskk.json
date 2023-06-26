@@ -3,6 +3,8 @@
 //学习自用，缝合网上多个大佬
 {"spider": "./JAR/Yoursmile20230626.jar;md5;40eab352432952f74c3a60d8d16f1782",
 "sites":[   
+{"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+  
 {"key":"csp_xym","name":"夜猫🙀云盘","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dpg.laoxie.icu/api.php/app/",
 "categories":["4K蓝光","电视剧","电影","动漫","综艺"]},                  
 {"key": "csp_appys","name": "夜猫😺子盘","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://big.lfytyl.com/api.php/app/","categories":["新电影4K","新剧4K","好莱坞精选4K","豆瓣Top250电影4K","豆瓣Top100影视剧4K","明星专辑4K","老电影","电影综合","电视剧综合","动漫","综艺"]},
@@ -21,7 +23,6 @@
 
 
 
-{"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"苹果","name":"苹果🍎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 {"key":"csp_Yj1211","name":"平台▶️直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视⏯️直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
