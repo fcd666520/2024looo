@@ -1,29 +1,20 @@
  { "storeHouse": [ 
-{ "sourceName": "💢极狐多仓库", "sourceUrl": "https://jihulab.com/mml/yskk/-/raw/master/duoc1.json" }, 
-{ "sourceName": "💢自用仓库", "sourceUrl": "https://www.agit.ai/liucn/box/raw/branch/main/dc.txt" }, 
-{ "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
-{ "sourceName": "🦆精品仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
-{ "sourceName": "🎀精品仓库102", "sourceUrl": " https://pan.css.lc/api/v3/file/get/89920/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%BF%E8%89%B2%E4%BB%93%E5%BA%93.txt?sign=kHRUFbInXSY091BK6bzSDmd2gReOQI6Az7AuxS6yPbc%3D%3A0 " }, 
-{ "sourceName": "👒嘟嘟仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt" }, 
-{"sourceName":"☁️云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库.json"},
-{"sourceName":"🌙影视仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
-{"sourceName":"🌙影视仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
-{"sourceName":"🌙影视仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
-{"sourceName":"🌙影视仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
-{"sourceName":"💚多多优选仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
-{"sourceName":"💛多多公众仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
-{"sourceName":"❤️多多聚合仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
-
-{"sourceName":"🥕多多预备仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"},
-
-{"sourceName":"🌹PC软件库主仓库🌹","sourceUrl":"http:\/\/tv.pcoof.com\/list.php"},
-
-{"sourceName":"🌹PC软件库超级仓库🌹","sourceUrl":"https:\/\/agit.ai\/hu\/hcr\/raw\/branch\/master\/99668.txt"},
-
-{"sourceName":"🌹PC软件库欧歌仓库🌹","sourceUrl":"http:\/\/tv.nxog.top\/m\/m\/1.php"},
-
-{"sourceName":"🌹PC软件库☁️gk0748仓库🌹","sourceUrl":"https:\/\/agit.ai\/gk0748\/gk0\/raw\/branch\/master\/ls.txt"},
-
-{"sourceName":"🌹PC软件库☁️安卓小小鸟仓库🌹","sourceUrl":"https:\/\/gitcode.net\/wzlyd1\/00\/-\/raw\/master\/0.txt"},
-
-{"sourceName":"🌹PC软件库☁️大聪明仓库🌹","sourceUrl":"https:\/\/jihulab.com\/duomv\/apps\/-\/raw\/main\/1.txt"} ] }
+{ "sourceName": "🦊极狐多仓库", "sourceUrl": "https://jihulab.com/mml/yskk/-/raw/master/duoc1.json" }, 
+{ "sourceName": "💢影音仓库A", "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/a.txt" }, 
+{ "sourceName": "💢影音仓库B", "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/b.txt" }, 
+{ "sourceName": "💢影音仓库C", "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/c.txt" }, 
+{ "sourceName": "💢影音仓库D", "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/d.txt" }, 
+{ "sourceName": "💢讴歌仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=1&b=欧歌" }, 
+{ "sourceName": "💢派大星仓库","sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=2&b=派大星" }, 
+{ "sourceName": "💢日后仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=23&b=欧歌" }, 
+{ "sourceName": "💢小胡仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=19&b=欧歌" }, 
+{ "sourceName": "💢可视仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=7&b=欧歌" },
+{ "sourceName": "💢月光宝盒",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=15&b=欧歌" },
+{ "sourceName": "💢懒猫仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=14&b=欧歌" },
+{ "sourceName": "💢星河仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=10&b=欧歌" },
+{ "sourceName": "💢𝓡 io仓库", "sourceUrl":"http://5.nxog.top/api.php?mz=xb&id=17&b=欧歌" },
+{ "sourceName": "💢无名仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=18&b=欧歌" },
+{ "sourceName": "💢玉玉仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=22&b=欧歌" },
+{ "sourceName": "💢吾爱仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=13&b=欧歌" },
+{ "sourceName": "💢龙爪仓库",  "sourceUrl": "http://5.nxog.top/api.php?mz=xb&id=16&b=欧歌" },
+{ "sourceName": "💢多多仓库","  sourceUrl":  "http://5.nxog.top/api.php?mz=xb&id=8&b=欧歌"} ] }
