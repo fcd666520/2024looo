@@ -1,7 +1,7 @@
 //以下全部网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
 //学习自用，缝合网上多个大佬
-{"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmilebaolics.jar;md5;4d4380042fef81c42982b03a6822953a",
+{"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/ali628.jar;md5;ca6b4f613c28bd854aaec1157fd87c32",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口完全免费",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -15,7 +15,7 @@
 {"key": "dr_ruyi","name": "👑夜猫如意4K👑","type": 3,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%A6%82%E6%84%8F_V2_.js"},
 {"key": "狐狸", "name": "🦊狐狸┃4k", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/"}, 
 
-{"key": "csp_WoGG","name": "🤡玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "2d4d4374e706414a883064e6d4cc20aa","jar":"https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmile230621.jar;md5;aa5a6fc6f920621f4d7cced94a7f348d"},
+{"key": "csp_WoGG","name": "🤡玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "2d4d4374e706414a883064e6d4cc20aa","jar":"https://jihulab.com/mml/yskk/-/raw/master/666/JAR/ali628.jar;md5;ca6b4f613c28bd854aaec1157fd87c32"},
 {"key": "csp_XYQHikerAL_玩偶哥哥","name":"🤖玩偶弟弟4k","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
 { "key": "csp_XYQHikerlg4k","name": "💋玩偶姐姐4k","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/4KHDR.json"}, 
 {"key": "csp_XYQHiker4klg","name": "💅🏻玩偶妹妹4k", "type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json"}, 
@@ -39,15 +39,15 @@
 {"key": "csp_WoGG","name": "玩偶👨‍👧哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 
 {"key": "csp_4kHDR","name": "玩偶🏃‍♀️姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶姐姐.json"},
-{"key": "cps_aliyunpan","name": "玩偶👩‍👧妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/mml/yskk/-/raw/master/666/JAR/Yoursmilebaolics.jar;md5;4d4380042fef81c42982b03a6822953a","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
+{"key": "cps_aliyunpan","name": "玩偶👩‍👧妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/mml/yskk/-/raw/master/666/JAR/ali628.jar;md5;ca6b4f613c28bd854aaec1157fd87c32","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 {"key": "Yisou","name": "阿里📁易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "UpYun","name": "ＵＰ📂搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt","jar": "./JAR/pandaQ230614c.jar"},
 {"key": "Zhaozy","name": "阿里🗂️资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt$$$ygfxz$$$66666"},
 {"key": "Upyunso","name": "阿里📊云搜", "type": 3,"api": "csp_UpYun", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
 {"key": "PanSearch","name": "阿里🗒️网盘","type": 3,"api": "csp_PanSearch","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./token.txt"},       
 {"key": "csp_七夜","name": "阿里📅七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./token.txt"},
-{"key":"纸条","name": "纸条📜搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./JAR/Yoursmilebaolics.jar"},
-{"key": "csp_KungFu404","name": "４Ｋ🐲聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/Yoursmilebaolics.jar"},
+{"key":"纸条","name": "纸条📜搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./JAR/ali628.jar.jar"},
+{"key": "csp_KungFu404","name": "４Ｋ🐲聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/ali628.jar"},
 {"key": "土狗搜索","name": "阿里🐕土狗","type": 3,"api": "csp_TuGou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt"},
 
 
