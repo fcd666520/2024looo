@@ -3,7 +3,7 @@
 {"spider": "https://jihulab.com/mml/yskk/-/raw/master/666/JAR/lolss.jar;md5;c7d40938972e234d4815eebbf81769fd",
 
 "sites":[
-{"key":"js_miss789","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./miss789.js"},
+{"key":"js_miss789","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/miss789.js"},
 {"key":"js_公众号3闪电狐ovo","name":"请勿相信🔃视频中广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js"},
 
 {"key":"js_missav","name":"miss","type":3,"api":"./lib/drpy2.min.js","ext":"https://jihulab.com/mml/yskk/-/raw/master/666/js/missav123.js"},
