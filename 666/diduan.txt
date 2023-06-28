@@ -1,6 +1,4 @@
-//以下全部网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
-//本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
-//学习自用，缝合网上多个大佬
+
 {"spider": "./JAR/Yoursmile2023627.jar;md5;fa9dad1d5b55e590e8bc764f904f09ed",
 "sites":[   
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
@@ -17,16 +15,8 @@
 {"key":"drpy_js_菜狗","name":"搜狗🐶官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
 {"key":"js_爱起艺官","name":"奇异🥝官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key": "csp_WoGG","name": "玩偶👨哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-
-//{"key": "csp_大表哥哥","name": "玩偶🧚表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/大表哥哥.json","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e"},
-
-
 {"key": "csp_大表哥哥","name": "玩偶🧚表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/大表哥哥.json","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e"},
-//{"key": "csp_大表哥哥","name": "玩偶🧚表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/大表哥哥.json"},
-
-
 {"key": "csp_4kHDR","name": "玩偶🏃姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶姐姐.json"},
-
 {"key": "cps_aliyunpan","name": "玩偶👩妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 {"key": "Yisou","name": "阿里📁易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "UpYun","name": "ＵＰ📂搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt","jar": "./JAR/pandaQ230614c.jar"},
@@ -72,28 +62,6 @@
 {"key":"555dy","name":"五五🍉影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 
 
-{"key":"drpy_js_快看","name":"快看🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
-{"key":"135看看","name":"一三🐯影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/65012833/Json/raw/branch/master/135.json"},
-{"key":"drpy_js_188看","name":"一八🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/188看.js"},
-{"key":"drpy_js_333影视","name":"三三🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/333影视.js"},
-{"key":"csp_xp_348z","name":"三四🐯影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/348z.json"},
-{"key":"drpy_js_348电影网","name":"四八🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/348电影网.js"},
-{"key":"drpy_js_555影视V2","name":"五五🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视V2.js"},
-{"key":"csp_xp_789kp","name":"七八🐯影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/789kp.json"},
-{"key":"drpy_js_9u电影","name":"九Ｕ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/9u电影.js"},
-{"key":"drpy_js_NY影院","name":"纽约🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NY影院.js"},
-{"key":"drpy_js_7喜影院","name":"七喜🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/7喜影院.js"},
-{"key":"drpy_js_Nike影视","name":"奈克🐯影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/Nike影视.js"},
-{"key":"drpy_js_HG影视","name":"ＨＧ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HG影视.js"},
-{"key":"drpy_js_电影先生","name":"电影🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/电影先生.js"},
-{"key":"drpy_js_皮皮鸭","name":"皮鸭🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
-{"key":"drpy_js_KOK影视","name":"ＫＯ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/KOK影视.js"},
-{"key":"drpy_js_l0l","name":"ＬＯ🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/l0l.js"},
-{"key":"js_看看屋","name":"看屋🐯影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看屋.js"},
-
-
-
-
 {"key": "csp_Ying","name": "樱花🐉动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"drpy_js_动漫岛","name":"漫岛🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/动漫岛.js"},
 {"key":"drpy_js_爱弹幕","name":"弹幕🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱弹幕.js"},
@@ -111,10 +79,7 @@
 {"key":"drpy_js_怡萱动漫","name":"怡萱🐉动漫","type":3,"api":"https://agit.ai/18503873514/NPXYS/raw/branch/master/LIB/drpy2.min.js","ext":"https://agit.ai/18503873514/NPXYS/raw/branch/master/JS/怡萱动漫.js"},
 {"key":"drpy_js_萌番2","name":"萌番🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番2.js"},
 {"key":"drpy_js_AnFuns","name":"ＡＮ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
-{"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
-
-{"key":"飘花电影","name":"飘花🔃资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
-],
+{"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"}],
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口完全免费",
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/xiaowei233333/yskk/raw/branch/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
