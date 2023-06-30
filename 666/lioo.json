@@ -1,7 +1,7 @@
 //以下全部网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
-//学习自用，缝合网上多个大佬
-{"spider": "./JAR/yscxiug.jar;md5;fa9dad1d5b55e590e8bc764f904f09ed",
+//学习自用，缝合网上多个大佬https://jihulab.com/mml/yskk/-/raw/master/666/JAR/yscxiug.jar?inline=false
+{"spider": "./JAR//ymz520230627.jar;md5;079a42fe7522200a23d1b1291881087a",
 "sites":[   
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key": "ity","name": "ＴＶ🐸影视","type": 3,"api": "csp_XBPQ","playerType":2,"ext": {"数组":"<div class=\"stui-vodlist__box\">&&</div>","副标题":"<span class=\"pic-text text-right\"><b>&&</b></span>","分类":"电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6","分类url":"https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},   
