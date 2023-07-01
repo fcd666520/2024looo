@@ -9,7 +9,7 @@
 
 {"key":"大米星球1","name":"大米🍌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
 {"key":"555dy","name":"五五🍉影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
-"key":"drpy_js_路漫漫","name":"漫漫🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/路漫漫.js"},
+{"key":"drpy_js_路漫漫","name":"漫漫🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/路漫漫.js"},
 {"key":"drpy_js_哔哩影视","name":"哔哩🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
 {"key":"drpy_js_AGE动漫","name":"ＡＧ🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/AGE动漫.js"},
 {"key":"csp_Anime1","name":"樱花🐉动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
@@ -57,7 +57,7 @@
 {"key":"drpy_js_动漫岛","name":"漫岛🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/动漫岛.js"},
 {"key":"drpy_js_爱弹幕","name":"弹幕🐉动漫","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱弹幕.js"},
 {"key":"Dm84r","name":"巴士🐉动漫","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/cs.jar"},
-{
+
 {"key":"csp_xpath_dm84","name":"巴士🐉动漫","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/65012833/Json/raw/branch/master/dongmanbashi.json"},
 {"key":"csp_app_小鸟动漫","name":"小鸟🐉动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟🐉动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
