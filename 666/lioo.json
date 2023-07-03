@@ -240,14 +240,14 @@
 
     {
       "key": "apv2_瑞丰",
-      "name": "⛄┃瑞丰┃影视",
+      "name": "瑞丰⛄影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
        {
       "key": "csp_mdd",
-      "name": "🥚┃蛋蛋┃影视",
+      "name": "蛋蛋🥚影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -257,7 +257,7 @@
     },
         {
       "key": "csp_beijihu",
-      "name": "🎪┃极狐┃影视",
+      "name": "极狐🥚影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
