@@ -1,12 +1,29 @@
-
 {"spider": "./JAR//ymz520230627.jar;md5;c68748a7c68d1799902162e53fea0506","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 
 "sites":[   
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 
 {"key": "csp_WoGG","name": "玩偶👨哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-
-
+       {
+      "key": "csp_mdd",
+      "name": "蛋蛋🥚影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    },
+        {
+      "key": "csp_beijihu",
+      "name": "极狐🥚影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
 
 {"key": "csp_大表哥哥","name": "玩偶🧚表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/大表哥哥.json","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e"},
 
@@ -205,29 +222,10 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-       {
-      "key": "csp_mdd",
-      "name": "蛋蛋🥚影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    },
-        {
-      "key": "csp_beijihu",
-      "name": "极狐🥚影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
+    }
 
-{"key":"飘花电影","name":"飘花🔃资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+
+
 ],
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 "lives": [{"name": "live","type": 0,"url": "https://jihulab.com/mml/yskk/-/raw/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -241,43 +239,88 @@
 {"name":"星辰云解析","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"Web4解析","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"flag":["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"Web5解析","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"冰豆解析","category":1,"url":"https://api.qianqi.net/vip/?url=","showType":3},
-{"name":"点我吧解析","type":3,"url":"Web"},
-{"name":"m3u8解析","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷", "letv", "乐视", "xigua", "西瓜"]}},
-{"name":"M3U8解析","category":1,"url":"https://dmjx.m3u8.tv/?url=","showType":3},
-{"name":"高速解析","category":1,"url":"https://jx.jsonplayer.com/player/?url=","showType":3},
-{"name":"综合解析","category":1,"url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
-{"name":"OK解析","category":1,"url":"https://okjx.cc/?url=","showType":3},
-{"name":"OKJX解析","category":1,"url":"https://api.okjx.cc:3389/jx.php?url=","showType":3},
-{"name":"夜幕解析","category":1,"url":"https://www.yemu.xyz/?url=","showType":3},
-{"name":"铭人解析","category":1,"url":"https://parse.123mingren.com/?url=","showType":3},
-{"name":"云解解析","category":1,"url":"https://jx.aidouer.net/?url=","showType":1},
-{"name":"虾米解析","category":1,"url":"https://jx.xmflv.com/?url=","showType":1},
-{"name":"七哥解析","category":1,"url":"https://jx.mmkv.cn/tv.php?url=","showType":3},
-{"name":"全网解析","category":1,"url":"https://jx.iztyy.com/Bei/?url=","showType":1},
-{"name":"诺迅解析","type":0,"url":"https://www.nxflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"H8解析","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"云解解析","type":0,"url":"https://yparse.jn1.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"醉仙解析","type":0,"url":"https://jx.zui.cm/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"M3u8解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"MaoPlayer","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"盘古解析","type":0,"url":"https://go.yh0523.cn/y.cy?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"云解析","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"全民解析","type":0,"url":"http://api.wpsseo.cn/?v=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"私人解析","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"无名小站解析","type":0,"url":"https://www.administratorw.com/video.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"8090解析","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"1717解析","type":0,"url":"https://www.1717yun.com/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"全民解析","type":0,"url":"https://www.daga.cc/vip1/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"剖云解析","type":0,"url":"https://www.pouyun.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"Ckplayer解析","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"kingtail解析","type":0,"url":"https://jx.kingtail.xyz/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"Mtosz解析⒉","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"虾米解析⒉","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"盘古解析","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"Ckmov解析","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}],
-    
+
+  {
+      "name": "但行好事",
+      "type": 1,
+      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+    },
+    {
+      "name": "莫问前程",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },
+    {
+      "name": "左岸解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+    {
+      "name": "小城解析",
+      "type": 1,
+      "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
+    },
+    {
+      "name": "星辰云解析",
+      "type": 1,
+      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
+    },
+    {
+      "name": "小新解析",
+      "type": 1,
+      "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=eijkoqxBDFGILRTUWZ&url="
+    },
+    {
+      "name": "小鱼解析",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+    },
+    {
+      "name": "夜曲解析",
+      "type": 1,
+      "url": "http://xhww.fun:63/小米爱肥猫.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua",
+          "nongmin",
+          "CL4K",
+          "xfyun",
+          "ffm3u8",
+          "lzm3u8",
+          "netease",
+          "pgyer",
+          "TD",
+          "qzone",
+          "FY",
+          "ppayun",
+          "Feiyun",
+          "zhibo"
+        ],
+        "header": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
+        }
+      }
+    }
+  ],
+
 "rules": [
 {"host": "*","rule": ["default.365yg.com"]},
 {"host": "dyxs20.com","rule": [".m3u8"]},
