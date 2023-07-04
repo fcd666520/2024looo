@@ -195,16 +195,7 @@
        "filterable":0,
        "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
       "jar": "https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"
-    },
-
-    {
-      "key": "apv2_瑞丰",
-      "name": "瑞丰⛄影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
     }
-
 
 
 ],
