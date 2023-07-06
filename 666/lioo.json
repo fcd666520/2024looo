@@ -1,7 +1,7 @@
 //以下全部网络和大佬资源，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
 //学习自用，缝合网上多个大佬https://jihulab.com/mml/yskk/-/raw/master/666/JAR/yscxiug.jar?inline=false
-{"spider": "./JAR//ali2.jar;md5;c68748a7c68d1799902162e53fea0506","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+{"spider": "./JAR/ali2.jar;md5;c68748a7c68d1799902162e53fea0506","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 
 "sites":[   
 {"key":"dr_豆瓣","name":"豆瓣🥑官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
