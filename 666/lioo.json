@@ -51,8 +51,7 @@
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar": "https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
 {"key": "csp_XYQHikerAL_玩偶哥哥","name":"玩偶☁️香佬","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json","jar": "https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
 {"key":"push_agent","name":"推送☁️香佬","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar": "https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"}
-
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar": "https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
 {"key":"苹果","name":"苹果🍎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 {"key":"csp_Yj1211","name":"平台▶️直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "电视⏯️直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
@@ -140,7 +139,6 @@
 {"key":"drpy_js_萌番2","name":"萌番🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番2.js"},
 {"key":"drpy_js_AnFuns","name":"ＡＮ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_cokemv","name":"ＣＯ🐉动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"}
-
 ],
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 "lives": [{"name": "live","type": 0,"url": "https://jihulab.com/mml/yskk/-/raw/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
