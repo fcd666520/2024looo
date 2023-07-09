@@ -4,18 +4,8 @@
 
 {"spider": "./JAR/Yoursmile_gai_ali.jar;md5;c68748a7c68d1799902162e53fea0506","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 
-"sites":[   
- {
-            "key": "If_js_douban",
-                    "name": "豆瓣┃If_douban",
-                            "type": 3,
-                                    "searchable": 0,
-                                            "quickSearch": 0,
-                                                    "filterable": 1,
-                                                            "api": "./dr_js/js/lf_douban1_min.js"
-                                                                     },
- 
-// {"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+"sites":[
+ {"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"Czsapp","name":"♒厂长┃厂解","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"苹果","name":"♒苹果┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 {"key":"csp_Yj1211","name":"♒平台┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
