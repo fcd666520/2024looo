@@ -13,7 +13,7 @@
 {"key":"大米星球1","name":"♒大米┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
 {"key":"555dy","name":"♒五五┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 {"key":"drpy_js_AGE动漫","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "https://jihulab.com/mml/lomj/-/raw/main/JS/AGE动漫.js"},
-
+{"key": "js_侦探TV","name": "♒侦探┃盒子","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zhentan.js"},
 {"key": "csp_WoGG","name": "☁️玩偶┃哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "csp_大表哥哥","name": "☁️玩偶┃表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/大表哥哥.json","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e"},
 {"key": "csp_4kHDR","name": "☁️玩偶┃姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶姐姐.json"},
@@ -68,7 +68,7 @@
 {"key": "csp_beijihu","name": "♒极狐┃多解","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "https://www.kuin.one/api.php/app/"},
 {"key": "csp_yayaya","name": "♒耐菲┃多解","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key": "csp_beijihu","name": "♒极狐┃多解", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
+// {"key": "csp_beijihu","name": "♒极狐┃多解", "type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 {"key": "Kuaikan","name": "♒快看┃多解","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱迪V2","name":"♒爱迪┃多解","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},             
 {"key":"csp_fant","name":"♒饭团┃多解","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
@@ -144,7 +144,7 @@
 {"key":"js_爱起艺官","name":"🥝奇异┃解析","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"}
 ],
 
-"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 "lives": [{"name": "live","type": 0,"url": "https://jihulab.com/mml/yskk/-/raw/master/666/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
