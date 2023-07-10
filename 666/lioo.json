@@ -5,7 +5,7 @@
 {"spider": "./JAR/Yoursmile_gai_ali.jar;md5;c68748a7c68d1799902162e53fea0506","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 
 "sites":[
- {"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/douban2.js","ext":"./js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/douban2.js","ext":"./js/豆瓣.js"},
 {"key":"Czsapp","name":"♒厂长┃厂解","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"苹果","name":"♒苹果┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 {"key":"csp_Yj1211","name":"♒平台┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
@@ -121,7 +121,7 @@
 {"key":"drpy_js_爱弹幕","name": "♒弹幕┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱弹幕.js"},
 {"key":"Dm84r","name": "♒巴士┃多解","api":"csp_Dm84","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/65012833/Jar/raw/branch/master/cs.jar"},
 {"key":"drpy_js_路漫漫","name": "♒漫漫┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/路漫漫.js"},
-{"key":"drpy_js_AGE动漫","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "https://jihulab.com/mml/g0a/-/raw/master/js/AGE%E5%8A%A8%E6%BC%AB.js"},
+{"key":"drpy_js_AGE动漫","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./mml/lomj/-/raw/main/JS/AGE动漫.js"},
 {"key":"csp_Anime1","name": "♒樱花┃多解","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_NT动漫","name": "♒ＮＴ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NT动漫.js"},
 {"key":"csp_xpath_dm84","name": "♒巴士┃多解","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/65012833/Json/raw/branch/master/dongmanbashi.json"},
