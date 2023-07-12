@@ -14,7 +14,7 @@
 {"key":"555dy","name":"♒五五┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 {"key":"drpy_js_AGE","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/AGE.js"},
 {"key": "LIBVIO","name": "♒ＬＩ┃多解","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-{"key": "js_侦探TV","name": "♒侦探┃盒子","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zhentan.js"},
+//{"key": "js_侦探TV","name": "♒侦探┃盒子","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zhentan.js"},
 
 {"key":"苹果","name":"♒苹果┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果.json"},
 
@@ -29,7 +29,7 @@
 {"key":"csp_fant","name":"♒饭团┃多解","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
 {"key": "csp_Lib","name": "♒利奥┃多解","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},       
 //{"key":"csp_Bttoo","name":"♒ＴＯ┃多解","api":"csp_Bttwoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
+{"key":"影探4K","name":"♒影探┃４Ｋ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"http://ytcms.lfytyl.com/api.php/app/"},
 {"key":"drpy_js_555影视V2","name": "♒五五┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视V2.js"},
 
 {"key":"drpy_js_我爱跟剧","name":"♒我爱┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我爱跟剧.js"},
