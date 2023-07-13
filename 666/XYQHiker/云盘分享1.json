@@ -1,0 +1,19 @@
+{
+  "title": "云盘分享",
+  "author": "聆听优美旋律",
+  "SUserAgent": "PC_UA",
+  "search_url": "https://www.yunpanfenxiang.cn/api/bbs/api/getdata2?key={wd}",
+  "sea_PtBody": "",
+  "search_mode": "1",
+  "sea_YN_twice": "0",
+  "sea_twice_pre": "空",
+  "sea_twice_suf": "</ul>",
+  "sea_arr_pre": "page_",
+  "sea_arr_suf": "content",
+  "sea_pic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+  "sea_title": "title\":\"&&\"",
+  "sea_url": "url\":\"&&\"",
+  "sea_subtitle": "",
+  "search_prefix": "",
+  "search_suffix": ""
+}
