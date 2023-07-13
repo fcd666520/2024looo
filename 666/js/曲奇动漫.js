@@ -1,3 +1,4 @@
+//嗯
 var rule={
     title:'曲奇动漫',
     // host:'https://www.quqidm.net',
