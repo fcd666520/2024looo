@@ -2,7 +2,7 @@
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。接口完全免费，切勿付费购买！
 //学习自用，缝合网上多个大佬https://jihulab.com/mml/yskk/-/raw/master/666/JAR/yscxiug.jar?inline=false
 
-{"spider": "./JAR/Yoursmile0711.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+{"spider": "./JAR/Yoursmile-blfh0713.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 
 "sites":[
 {"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/douban2.js","ext":"./js/豆瓣.js"},
@@ -78,12 +78,10 @@
 {"key":"drpy_js_路漫漫","name": "♒漫漫┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/路漫漫.js"},
 {"key":"csp_Anime1","name": "♒樱花┃多解","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_NT动漫","name": "♒ＮＴ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NT动漫.js"},
-{"key":"csp_app_小鸟动漫","name": "♒小鸟┃多解","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_小鸟动漫","name": "♒小鸟┃多解","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xpath_dmw","name": "♒漫岛┃多解","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xp_dm84","name": "♒巴士┃多解","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/dm84.json"},
 {"key":"drpy_js_怡萱动漫","name": "♒怡萱┃多解","type":3,"api":"https://agit.ai/18503873514/NPXYS/raw/branch/master/LIB/drpy2.min.js","ext":"https://agit.ai/18503873514/NPXYS/raw/branch/master/JS/怡萱动漫.js"},
-{"key":"drpy_js_萌番2","name": "♒萌番┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番2.js"},
+{"key":"drpy_js_萌番","name": "♒萌番┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番.js"},
 {"key":"drpy_js_AnFuns","name": "♒ＡＮ┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_cokemv","name": "♒ＣＯ┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"土拨鼠","name":"☁️拨鼠┃分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土拨鼠.json"},
