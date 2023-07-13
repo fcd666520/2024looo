@@ -11,8 +11,6 @@
 {"key": "直播转点播","name": "♒电视┃直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key":"drpy_js_哔哩影视","name": "♒Ｂ站┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
 {"key":"大米星球1","name":"♒大米┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
-{"key":"xiaoxiongys","name":"♒小熊┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/xiaoxiongys.json"},
-
 {"key":"555dy","name":"♒五五┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 {"key":"drpy_js_AGE","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/AGE.js"},
 {"key": "LIBVIO","name": "♒ＬＩ┃多解","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
