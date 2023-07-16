@@ -1,8 +1,6 @@
+
 {
-"urls": [   
-        {   "url":"http://rihou.vip:88/荷城茶秀",
-            "name":"🏄️荷城茶秀"
-        },   
+"urls": [
         {
             "url": "https://jihulab.com/mml/looo/-/raw/master/666/lioo.json",
             "name": "🦊极狐看看推荐"
@@ -39,6 +37,15 @@
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🦊云星日记"
         },
+                {   "url":"https://jihulab.com/laoz/xyqtvbox0703/-/raw/main/XYQTVBox0714.json",
+            "name":"🏄️XTQ tvbox"
+        },    
+        {   "url":"http://rihou.vip:88/荷城茶秀",
+            "name":"🏄️荷城茶秀"
+        },
+                {   "url":"http://rihou.vip:99/荷城茶秀",
+            "name":"🏄️荷城茶秀"
+        },      
                 {
             "url": "http://yydsys.top/duo/v.json",
             "name": "🔔切换线路后务必刷新接口"
