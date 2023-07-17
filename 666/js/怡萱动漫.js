@@ -1,4 +1,3 @@
-//https://rentry.org/yxdm
 var rule={
 	title:'怡萱动漫',
 	host:'https://www.yxdmgo.com',
