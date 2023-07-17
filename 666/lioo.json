@@ -14,7 +14,7 @@
 {"key": "csp_WoGG","name": "☁️玩偶┃哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "csp_大表哥哥","name": "☁️玩偶┃表哥","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/大表哥哥.json","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e"},
 {"key": "csp_4kHDR","name": "☁️玩偶┃姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶姐姐.json"},
-{"key": "cps_aliyunpan","name": "☁️玩偶┃妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"./JAR/Yoursmile-blfh0715.jar;md5","ext": "./XYQHiker/阿里云盘网.json"},
+{"key": "cps_阿里云盘网","name": "☁️玩偶┃妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar","ext": "./XYQHiker/阿里云盘网.json"},
 {"key": "Yisou","name": "☁️阿里┃易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "UpYun","name": "☁️ＵＰ┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt","jar": "./JAR/pandaQ230614c.jar"},
 {"key": "Zhaozy","name": "☁️阿里┃资源","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt$$$ygfxz$$$66666"},
