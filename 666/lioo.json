@@ -132,7 +132,7 @@
 {"key":"csp_xpath_dmw","name": "♒漫岛┃多解","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xp_dm84","name": "♒巴士┃多解","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XP/dm84.json"},
 {"key":"drpy_js_怡萱动漫","name": "♒怡萱┃多解","type":3,"api":"https://agit.ai/18503873514/NPXYS/raw/branch/master/LIB/drpy2.min.js","ext":"https://agit.ai/18503873514/NPXYS/raw/branch/master/JS/怡萱动漫.js"},
-{"key":"drpy_js_萌番","name": "♒萌番┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番.js"},
+{"key":"drpy_js_萌番2","name": "♒萌番┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/萌番2.js"},
 {"key":"drpy_js_AnFuns","name": "♒ＡＮ┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_cokemv","name": "♒ＣＯ┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
 
