@@ -1,7 +1,7 @@
 //https://rentry.org/yxdm
 var rule={
 	title:'怡萱动漫',
-	host:'https://www.yxdm.tv',
+	host:'https://www.yxdmgo.com',
 	// url:'/category.html?channel=17&zhonglei=fyclass&orderby=pubdate&totalresult=2999&pageno=fypage',
 	url:'/category.html?channel=17&zhonglei=fyclassfyfilter&pageno=fypage',
 	filterable:1,//是否启用分类筛选,
