@@ -91,6 +91,8 @@
 {"key" : "爱迪","name" : "♒爱迪┃多解","type" : 3,"api" : "csp_AppYsV2","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://aidiapp.xyz/xgapp.php/v2/"},
 {"key": "csp_Ying","name": "♒樱花┃多解","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"drpy_js_曲奇动漫","name": "♒曲奇┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "https://jihulab.com/mml/lomj/-/raw/main/JS/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
+{"key":"drpy_js_萌蛋蛋[V2]","name": "♒萌蛋┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/萌蛋蛋[V2].js"},
+{"key":"drpy_js_奇米动漫","name": "♒奇米┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/奇米动漫.js"},
 {"key":"drpy_js_动漫岛","name": "♒漫岛┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/动漫岛.js"},
 {"key":"drpy_js_爱弹幕","name": "♒弹幕┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱弹幕.js"},
 {"key":"drpy_js_路漫漫","name": "♒漫漫┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/路漫漫.js"},
