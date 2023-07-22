@@ -9,9 +9,9 @@
       "show": true
     },
     {
-      "name": "海贼王",
+      "name": "布莱泽奥特曼",
       "pic": "",
-      "url": "",
+      "url": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/%E5%B8%83%E8%8E%B1%E6%B3%BD%E5%A5%A5%E7%89%B9%E6%9B%BC.jpg?inline=false",
       "type": "search",
       "desc": "",
       "show": true
