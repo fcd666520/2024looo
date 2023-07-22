@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "接口大全",
-      "pic": "",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/主页.jpg",
       "url": "https://jihulab.com/mml/looo/-/raw/master/duoc1.json",
       "type": "web",
       "desc": "",
