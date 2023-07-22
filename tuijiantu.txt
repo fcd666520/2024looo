@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "公众号 日后魔改",
-      "pic": "http://rihou.cc:66/轮播图/日后.jpg",
+      "pic": "",
       "url": "https://jihulab.com/mml/looo/-/raw/master/duoc1.json",
       "type": "web",
       "desc": "多仓地址：https://jihulab.com/mml/looo/-/raw/master/duoc1.json",
