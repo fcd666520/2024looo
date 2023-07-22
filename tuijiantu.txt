@@ -9,8 +9,8 @@
       "show": true
     },
     {
-      "name": "五哈3",
-      "pic": "http://rihou.cc:66/轮播图/五哈3.jpg",
+      "name": "名侦探柯南",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/名侦探柯南.jpg",
       "url": "",
       "type": "search",
       "desc": "",
@@ -18,8 +18,8 @@
     },
 
         {
-      "name": "凡人修仙传",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/%E5%B8%83%E8%8E%B1%E6%B3%BD%E5%A5%A5%E7%89%B9%E6%9B%BC.jpg",
+      "name": "布莱泽奥特曼",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/布莱泽奥特曼.jpg",
       "url": "",
       "type": "search",
       "desc": "",
@@ -27,7 +27,7 @@
     },
         {
       "name": "凡人修仙传",
-      "pic": "",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/凡人修仙传.jpg",
       "url": "",
       "type": "search",
       "desc": "",
