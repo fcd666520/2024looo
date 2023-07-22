@@ -10,7 +10,7 @@
     },
     {
       "name": "五哈3",
-      "pic": "http://rihou.cc:66/轮播图/五哈3.jpg",
+      "pic": "",
       "url": "",
       "type": "search",
       "desc": "",
@@ -18,7 +18,7 @@
     },
     {
       "name": "无间",
-      "pic": "http://rihou.cc:66/轮播图/无间.jpg",
+      "pic": "",
       "url": "",
       "type": "search",
       "desc": "",
@@ -26,7 +26,7 @@
     },
     {
       "name": "欢乐颂4",
-      "pic": "http://rihou.cc:66/轮播图/欢乐颂4.jpg",
+      "pic": "",
       "url": "",
       "type": "search",
       "desc": "",
