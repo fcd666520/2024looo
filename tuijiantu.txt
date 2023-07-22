@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "公众号 日后魔改",
+      "name": "接口",
       "pic": "",
       "url": "https://jihulab.com/mml/looo/-/raw/master/duoc1.json",
       "type": "web",
@@ -9,7 +9,31 @@
       "show": true
     },
     {
-      "name": "五哈3",
+      "name": "海贼王",
+      "pic": "",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+        {
+      "name": "凡人修仙传",
+      "pic": "",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+        {
+      "name": "三体",
+      "pic": "",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+        {
+      "name": "假面骑士",
       "pic": "",
       "url": "",
       "type": "search",
