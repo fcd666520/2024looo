@@ -3,7 +3,7 @@
     {
       "name": "公众号 日后魔改",
       "pic": "http://rihou.cc:66/轮播图/日后.jpg",
-      "url": "http://rihou.cc:66/",
+      "url": "",
       "type": "web",
       "desc": "多仓地址：http://rihou.cc:66/",
       "show": true
