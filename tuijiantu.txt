@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "公众号 日后魔改",
+      "pic": "http://rihou.cc:66/轮播图/日后.jpg",
+      "url": "http://rihou.cc:66/",
+      "type": "web",
+      "desc": "多仓地址：http://rihou.cc:66/",
+      "show": true
+    },
+    {
+      "name": "五哈3",
+      "pic": "http://rihou.cc:66/轮播图/五哈3.jpg",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "无间",
+      "pic": "http://rihou.cc:66/轮播图/无间.jpg",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "欢乐颂4",
+      "pic": "http://rihou.cc:66/轮播图/欢乐颂4.jpg",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    }
+  ]
+}
