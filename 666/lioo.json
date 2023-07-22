@@ -1,13 +1,12 @@
 {"spider": "./JAR/Yoursmile-blfh0722.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 "sites":[
-{"key":"dr_荐片","name":"♒荐片┃推荐","type":3,"api":"./lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
-
 {"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/douban2.js","ext":"./js/豆瓣.js"},
 {"key":"Czsapp","name":"♒厂长┃厂解","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_Yj1211","name":"♒平台┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "直播转点播","name": "♒电视┃直播","type": 3,"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js","ext": "http://我不是.肥猫.love:63/lives/直播仓.json"},
 {"key":"drpy_js_哔哩影视","name": "♒Ｂ站┃多解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
-{"key":"大米星球1","name":"♒大米┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球1.json"},
+{"key":"大米星球","name":"♒大米┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/大米星球.json"},
+{"key":"dr_荐片","name":"♒荐片┃吃内存","type":3,"api":"./lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
 {"key":"555dy","name":"♒五五┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 {"key":"drpy_js_AGE","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/AGE.js"},
 {"key": "LIBVIO","name": "♒ＬＩ┃多解","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
