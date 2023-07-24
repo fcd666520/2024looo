@@ -1,8 +1,7 @@
 {"spider": "./JAR/Yoursmile-blfh0722.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
 "sites":[
 {"key":"csp_XPathMacFilter","name":"♒独播┃影库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./XYQ/duboku.json"},
-{"key":"csp_XPathMacFilter","name":"♒独播┃影库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./XYQH/电影港磁力.json"},
-
+{"key": "csp_XYQHiker_电影港","name":"电影港[H]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影港磁力.json"},
 {"key":"农民影视","name":"♒农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/农民影视.json"},
 {"key":"电影港磁力","name":"♒电影┃磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影港磁力.json"},
 {"key":"dr_豆瓣","name":"♒豆瓣┃官方","type":3,"api":"./lib/douban2.js","ext":"./js/豆瓣.js"},
