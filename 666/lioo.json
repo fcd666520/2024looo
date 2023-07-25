@@ -16,7 +16,7 @@
 {"key":"555dy","name":"♒五五┃多解","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555dy.json"},
 //{"key":"drpy_js_AGE","name": "♒ＡＧ┃多解","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/AGE.js"},
 {"key": "LIBVIO","name": "♒ＬＩ┃多解","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-{"key": "csp_KungFu404","name": "☁️４Ｋ┃聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./ali.jar"},
+{"key": "csp_KungFu404","name": "４Ｋ🐲聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/ali2.jar"},
 {"key":"小站分享","name":"☁️小站┃分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/小站分享.json"},
 {"key":"云盘分享1","name":"☁️云盘┃分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘分享1.json"},
 {"key": "csp_WoGG","name": "☁️玩偶┃哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
