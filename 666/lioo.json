@@ -4,7 +4,6 @@
 {"key":"csp_XPathMacFilter","name":"♒独播┃影库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./XYQ/duboku.json"},
 {"key": "csp_XYQHiker_电影港磁力","name":"♒影港┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影港磁力.json"},
 {"key":"农民影视","name":"♒农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/农民影视.json"},
-{"key": "蓝猫动漫","name": "♒ＬＩ┃多解","type": 3,"api": "csp_lmfun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.lmfun.vip/"},
 {"key":"yinfans","name":"🧲磁力┃音范","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./cili/yinfans.json"},
 {"key":"4k","name":"🧲磁力┃4KHDR","type": 3,"api": "csp_XPathAli","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./cili/4khdr.json"},
 {"key":"mp4ba","name":"🧲磁力┃MP4","type": 3,"api": "csp_XPathT2M","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./cili/mp4ba.json"},
