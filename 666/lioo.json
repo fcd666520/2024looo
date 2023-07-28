@@ -6,16 +6,7 @@
     "type":3,
     "api":"./lib/douban2.js",
     "ext":"./js/豆瓣.js"},
-    {
-            "key": "廠長",
-                  "name": "廠長",
-                        "type": 3,
-                              "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
-                                    "searchable": 1,
-                                          "changeable": 1
-                                              },
-    
-    {
+   {
     "key":"csp_KungFu404",
     "name":"♒有效┃聚合",
     "type":3,
@@ -70,14 +61,7 @@
     "quickSearch":1
     ,"filterable":1,
     "ext":"./XYQH/农民影视.json"},
-    {
-    "key":"Czsapp",
-    "name":"♒厂长┃厂解",
-    "type":"3",
-    "api":"csp_Czsapp",
-    "searchable":"1",
-    "quickSearch":"1",
-    "filterable":"1"},
+{"key":"Czsapp","name":"♒厂长┃厂解","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
     {
     "key":"csp_Yj1211",
     "name":"♒平台┃直播",
