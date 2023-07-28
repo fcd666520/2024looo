@@ -189,15 +189,7 @@
    "searchable":1,
    "quickSearch":1,
    "filterable":1},
-{
-   "key": "csp_Mp4Mov",
-   "name": "🧲磁力┃Mp4",
-   "type": 3,
-   "playerType":2,
-   "api": "csp_Mp4Mov",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1},
+
 {
    "key":"Czsapp",
    "name":"♒厂长┃厂解",
