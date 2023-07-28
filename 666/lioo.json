@@ -31,7 +31,7 @@
 {"key":"小站分享","name":"☁️小站┃分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/小站分享.json"},
 {"key":"云盘分享1","name":"☁️云盘┃分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘分享1.json"},
 {"key": "csp_WoGG","name": "☁️玩偶┃哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "c3860da7713b41dbae01fefb28e9c36b"},
-{"key": "csp_4kHDR","name": "☁️玩偶┃姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "./XYQHiker/玩偶姐姐.json"},
+{"key": "csp_4kHDR","name": "☁️玩偶┃姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"./JAR/spider.jar;md5;935ab25d8128452af7f3fedd7bb3d71e","ext": "https://jihulab.com/mml/looo/-/raw/master/666/XYQHiker/%E7%8E%A9%E5%81%B6%E5%A7%90%E5%A7%90.json"},
 {"key": "cps_aliyunpan","name": "☁️玩偶┃妹妹","type": 3,"api": "csp_XYQHikerAL","jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 {"key": "Yisou","name": "☁️阿里┃易搜","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "c3860da7713b41dbae01fefb28e9c36b"},
 {"key": "UpYun","name": "☁️ＵＰ┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./token.txt","jar": "./JAR/pandaQ230614c.jar"},
