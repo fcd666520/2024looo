@@ -7,7 +7,7 @@
     "api":"./lib/douban2.js",
     "ext":"./js/豆瓣.js"},
 
-    {"key":"厂长",
+    {"key":"drpy_js_changzhang",
     "name":"🚛厂长",
     "type":3,
     "api":"./js/lib/drpy2.min.js","ext":"./js/changzhang.js"},
