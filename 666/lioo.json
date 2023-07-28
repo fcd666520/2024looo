@@ -60,6 +60,7 @@
     "quickSearch":1
     ,"filterable":1,
     "ext":"./XYQH/农民影视.json"},
+    
     {
     "key":"csp_Mp4Mov",
     "name":"🧲Mp4电影",
@@ -406,16 +407,6 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"},
     {
-    "key":"csp_yt",
-    "name":"☁️玩偶┃表姐",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "m3u8ads":"hd.youyhn.com",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.lfytv.cn/api.php/app/"},
-    {
     "key":"csp_饭团",
     "name":"☁️玩偶┃表妹",
     "type":3,
@@ -537,7 +528,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"csp_Zhaozy",
     "name":"☁️资源┃香佬",
