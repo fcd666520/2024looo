@@ -358,15 +358,6 @@
     "filterable":0,
     "ext":"./token.txt"},
     {
-    "key":"纸条",
-    "name":"☁️纸条┃搜索",
-    "type":3,
-    "api":"csp_Paper",
-    "searchable":1,
-    "filterable":1,
-    "changeable":0,
-    "jar":"./JAR/ali.jar"},
-    {
     "key":"csp_xym",
     "name":"☁️夜猫┃云盘",
     "type":3,
@@ -448,7 +439,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/njAEt2/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"狐狸",
     "name":"☁️云盘┃狐狸",
@@ -468,7 +459,7 @@
     "quickSearch":0,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/b8RaU1/4KHDR.json",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"YiSo",
     "name":"☁️易搜┃饭佬",
@@ -539,7 +530,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"csp_AliPS",
     "name":"☁️喵狸┃香佬",
@@ -550,7 +541,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"csp_Yisou",
     "name":"☁️易搜┃香佬",
@@ -561,7 +552,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"csp_Upyunso",
     "name":"☁️云搜┃香佬",
@@ -572,7 +563,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"csp_XYQHikerAL_玩偶哥哥",
     "name":"☁️玩偶┃香佬",
@@ -583,7 +574,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"push_agent",
     "name":"☁️推送┃香佬",
@@ -594,7 +585,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
-    "jar":"https://pan.shangui.cc/f/p6eYuL/xyq0626.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"苹果",
     "name":"♒苹果┃多解",
