@@ -277,17 +277,6 @@
     "filterable":1,
     "ext":"./XYQHiker/小站分享.json"},
     {
-      "key": "csp_XYQBiu_云盘分享",
-      "name": "📀云盘分享(搜索)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,    
-      "ext": "/XYQHiker/云盘分享.json"
-    },
-    {
     "key":"csp_WoGG",
     "name":"☁️玩偶┃４Ｋ",
     "type":3,
