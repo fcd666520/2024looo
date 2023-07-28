@@ -277,14 +277,17 @@
     "filterable":1,
     "ext":"./XYQHiker/小站分享.json"},
     {
-    "key":"云盘分享1",
-    "name":"☁️云盘┃分享",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./XYQHiker/云盘分享1.json"},
+      "key": "csp_XYQBiu_云盘分享",
+      "name": "📀云盘分享(搜索)",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,    
+      "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
+      "ext": "/XYQHiker/云盘分享.json"
+    },
     {
     "key":"csp_WoGG",
     "name":"☁️玩偶┃４Ｋ",
@@ -566,7 +569,7 @@
     },
     {
     "key":"csp_XYQHikerAL_玩偶哥哥",
-    "name":"☁️香佬玩偶哥哥",
+    "name":"☁️玩偶哥哥",
     "type":3,
     "api":"csp_XYQHikerAL",
     "playerType":1,
@@ -575,6 +578,7 @@
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
+
     {
     "key":"苹果",
     "name":"♒苹果┃多解",
