@@ -1,4 +1,4 @@
-    {"spider":"./JAR/XYQ.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+    {"spider":"./JAR/baoli0726.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
     "key":"drpy_js_豆瓣",
@@ -287,6 +287,14 @@
       "filterable": 1,    
       "ext": "/XYQHiker/云盘分享.json"
     },
+        {
+    "key":"csp_XYQBiu_云盘分享",
+    "name":"云盘分享",
+    "type":3,
+    "playerType":1,
+    "api":"csp_XYQHikerAL",
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
+    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQHiker/云盘分享.json"},
     {
     "key":"csp_WoGG",
     "name":"☁️玩偶┃４Ｋ",
