@@ -8,7 +8,7 @@
    "ext":"./js/豆瓣.js"},
    {
    "key": "lf_js_search",
-   "name": "搜索 | lf_search",
+   "name": "♒更新┃片单",
    "type": 3,
    "searchable": 0,
    "changeable": 1,
@@ -52,7 +52,7 @@
    "ext": "https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"},
 {
    "key":"4k",
-   "name":"🧲磁力┃4KHDR",
+   "name":"🧲４Ｋ┃ＨＤ",
    "type": 3,
    "api": "csp_XPathAli",
    "searchable": 1,
@@ -61,7 +61,7 @@
    "ext": "https://jihulab.com/mml/looo/-/raw/master/666/cili/4khdr.json"},
 {
    "key":"my4k",
-   "name":"🧲磁力┃蚂蚁4K",
+   "name":"🧲磁力┃蚂蚁",
    "type": 3,
    "api": "csp_XPathAli",
    "searchable": 1,
@@ -70,7 +70,7 @@
    "ext": "https://jihulab.com/mml/looo/-/raw/master/666/cili/my4k.json"},
 {
    "key":"bt0",
-   "name":"🧲磁力搜",
+   "name":"🧲磁力┃搜索",
    "type": 3,
    "playerType":3,
    "api": "csp_Bt0",
@@ -87,14 +87,14 @@
    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
 {
    "key":"6V",
-   "name":"🏹6v磁力搜",
+   "name":"🏹６Ｖ┃磁力",
    "type":3,
    "api":"csp_XYQHiker",
    "playerType":2,
    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/6vcili.json"},
 {
    "key":"seedhub",
-   "name":"🧲磁力|SEED",
+   "name":"🧲磁力┃SEED",
    "type": 3,
    "playerType":2,
    "api": "csp_Seedhub",
@@ -103,7 +103,7 @@
    "filterable": 0},
 {
    "key":"csp_KubaCL",
-   "name":"🧲磁力酷吧电影",
+   "name":"🧲酷吧┃电影",
    "type":3,
    "api":"csp_KubaCL",
    "playerType":1,
@@ -112,7 +112,7 @@
    "filterable":1},
 {
    "key":"csp_MeijuTT",
-   "name":"🧲磁力美剧天堂",
+   "name":"🧲美剧┃天堂",
    "type":3,
    "api":"csp_MeijuTT",
    "playerType":1,
@@ -121,7 +121,7 @@
    "filterable":1},
 {
    "key":"csp_MeijuMi",
-   "name":"🧲磁力美剧迷",
+   "name":"🧲磁力┃剧迷",
    "type":3,
    "api":"csp_MeijuMi",
    "playerType":1,
@@ -130,7 +130,7 @@
    "filterable":1},
 {
    "key": "csp_Mp4Mov",
-   "name": "🧲磁力Mp4电影",
+   "name": "🧲磁力┃Mp4",
    "type": 3,
    "playerType":2,
    "api": "csp_Mp4Mov",
