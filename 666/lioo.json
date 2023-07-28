@@ -6,6 +6,17 @@
    "type":3,
    "api":"./lib/douban2.js",
    "ext":"./js/豆瓣.js"},
+   
+{
+	"key": "csp_XYQHiker_蓝猫动漫",
+	"name": "🧲蓝猫磁力┃(XYQH)",
+	"type": 3,
+	"api": "csp_XYQHiker",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+   "jar": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
+	"ext": "https://jihulab.com/mml/looo/-/raw/master/666/XYQH/%E8%93%9D%E7%8C%AB%E5%8A%A8%E6%BC%AB.json"},
    {
    "key": "lf_js_search",
    "name": "♒更新┃片单",
@@ -146,20 +157,10 @@
    "api":"csp_XYQHiker",
    "playerType":2,
    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
-{
-	"key": "csp_New6v",
-	"name": "🧲新6V",
-	"jar": "https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
-	"type": 3,
-	"api": "csp_New6v",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://www.xb6v.com"
-},
+
 {
 	"key": "csp_XYQHiker_6V磁力",
-	"name": "6V磁力(XYQH)",
+	"name": "🧲6V磁力┃(XYQH)",
 	"type": 3,
 	"api": "csp_XYQHiker",
 	"searchable": 1,
