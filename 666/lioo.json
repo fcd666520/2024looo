@@ -15,9 +15,10 @@
     "filterable":1,
     "changeable":0
     },
+    //(XYQH)
     {
     "key":"csp_XYQHiker_蓝猫动漫",
-    "name":"蓝猫动漫┃(XYQH)",
+    "name":"♒蓝猫┃动漫",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -63,7 +64,7 @@
     
     {
     "key":"csp_Mp4Mov",
-    "name":"🧲Mp4电影",
+    "name":"🧲Mp4┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -72,7 +73,7 @@
     "filterable":1
     },{
     "key":"csp_New6v",
-    "name":"🧲新6V",
+    "name":"🧲新磁┃6V",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
@@ -82,7 +83,7 @@
     "ext":"http://www.xb6v.com"
     },{
     "key":"csp_SeedHub",
-    "name":"🧲SeedHub",
+    "name":"🧲See┃dHub",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_SeedHub",
@@ -92,7 +93,7 @@
     "filterable":1
     },{
     "key":"csp_KubaCL",
-    "name":"🧲酷吧电影",
+    "name":"🧲酷吧┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_KubaCL",
@@ -102,7 +103,7 @@
     "filterable":1
     },{
     "key":"csp_MeijuTT",
-    "name":"🧲美剧天堂",
+    "name":"🧲美剧┃天堂",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuTT",
@@ -112,7 +113,7 @@
     "filterable":1
     },{
     "key":"csp_MeijuMi",
-    "name":"🧲美剧迷",
+    "name":"🧲美剧┃迷啊",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuMi",
@@ -165,9 +166,10 @@
     "api":"csp_XYQHiker",
     "playerType":2,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
+    //(XYQH)
     {
     "key":"csp_XYQHiker_6V磁力",
-    "name":"🧲6V磁力┃(XYQH)",
+    "name":"🧲旧6V┃磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -222,8 +224,8 @@
     "api":"./lib/drpy2.min.js",
     "ext":"./js/哔哩影视.js"},
     {
-    "key":"大米星球","name":
-    "♒大米┃多解",
+    "key":"大米星球",
+    "name":"♒大米┃多解",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
