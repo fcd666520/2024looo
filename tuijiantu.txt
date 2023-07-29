@@ -10,7 +10,7 @@
     },
     {
       "name": "布莱泽奥特曼",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/布莱泽奥特曼.jpg",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/布莱泽奥特曼.png",
       "url": "",
       "type": "search",
       "desc": "",
@@ -51,7 +51,7 @@
     },
     {
       "name": "假面骑士极狐",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/假面骑士极狐.jpg",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/假面骑士极狐.png",
       "url": "",
       "type": "search",
       "desc": "",
