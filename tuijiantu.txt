@@ -51,7 +51,7 @@
     },
     {
       "name": "假面骑士极狐",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/假面骑士极狐.png",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/假面骑士极狐.jpg",
       "url": "",
       "type": "search",
       "desc": "",
