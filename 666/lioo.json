@@ -258,15 +258,6 @@
     "filterable":1,
     "ext":"https://tv.libvio.cc/"},
     {
-    "key":"csp_KungFu404",
-    "name":"♒４Ｋ┃聚合",
-    "type":3,
-    "api":"csp_KungFu404",
-    "searchable":1,
-    "filterable":0,
-    "changeable":0,
-    "jar":"./JAR/ali.jar"},
-    {
     "key":"小站分享",
     "name":"☁️小站┃分享",
     "type":3,
