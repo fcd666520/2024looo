@@ -17,8 +17,8 @@
       "show": true
     },
     {
-      "name": "死神千年血战篇",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/死神千年血战篇.jpg",
+      "name": "白圣女与黑牧师",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/白圣女与黑牧师.png",
       "url": "",
       "type": "search",
       "desc": "",
@@ -26,8 +26,8 @@
     },
     
     {
-      "name": "海贼王",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/海贼王.jpg",
+      "name": "总之就是非常可爱",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/总之就是非常可爱.png",
       "url": "",
       "type": "search",
       "desc": "",
