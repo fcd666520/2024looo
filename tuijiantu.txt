@@ -34,8 +34,8 @@
       "show": true
     },
     {
-      "name": "名侦探柯南",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/名侦探柯南.jpg",
+      "name": "凡人修仙传",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/凡人修仙传.png",
       "url": "",
       "type": "search",
       "desc": "",
