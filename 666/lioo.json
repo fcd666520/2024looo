@@ -173,7 +173,6 @@
     "api":"csp_XYQHiker",
     "playerType":2,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
-  
     {
     "key":"csp_XYQHiker_6V磁力",
     "name":"🧲旧6V┃磁力",
@@ -186,12 +185,12 @@
     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/6v磁力.json"},
     {
     "key":"csp_Yj1211",
-    "name":"♒平台┃直播",
+    "name":"♒直播┃合集",
     "type":3,
     "api":"csp_Yj1211",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1},
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1},
     {
     "key":"直播转点播",
     "name":"♒电视┃直播",
@@ -278,30 +277,13 @@
     "filterable":1,
     "ext":"./token.txt"},
     {
-    "key":"csp_4kHDR",
-    "name":"☁️玩偶┃姐姐",
-    "type":3,
-    "playerType":1,
-    "api":"csp_XYQHikerAL",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQHiker/%E7%8E%A9%E5%81%B6%E5%A7%90%E5%A7%90.json"},
-    {
     "key":"cps_aliyunpan",
     "name":"☁️玩偶┃妹妹",
     "type":3,
     "api":"csp_XYQHikerAL",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
     "ext":"https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
-    {
-    "key":"Yisou",
-    "name":"☁️阿里┃易搜",
-    "type":3,
-    "api":"csp_Yisou",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./token.txt"},
+
     {
     "key":"Zhaozy",
     "name":"☁️阿里┃资源",
