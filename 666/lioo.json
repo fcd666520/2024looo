@@ -68,7 +68,7 @@
     "ext":"./XYQH/农民影视.json"},
     {
     "key":"csp_Mp4Mov",
-    "name":"🧲Mp4┃电影",
+    "name":"🧲┃Mp4┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -77,7 +77,7 @@
     "filterable":1
     },{
     "key":"csp_New6v",
-    "name":"🧲新6V┃磁力",
+    "name":"🧲┃新6V┃磁力",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
@@ -87,7 +87,7 @@
     "ext":"http://www.xb6v.com"
     },{
     "key":"csp_SeedHub",
-    "name":"🧲See┃dHub",
+    "name":"🧲┃See┃dHub",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_SeedHub",
@@ -97,7 +97,7 @@
     "filterable":1
     },{
     "key":"csp_KubaCL",
-    "name":"🧲酷吧┃电影",
+    "name":"🧲┃酷吧┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_KubaCL",
@@ -107,7 +107,7 @@
     "filterable":1
     },{
     "key":"csp_MeijuTT",
-    "name":"🧲美剧┃天堂",
+    "name":"🧲┃美剧┃天堂",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuTT",
@@ -117,7 +117,7 @@
     "filterable":1
     },{
     "key":"csp_MeijuMi",
-    "name":"🧲美剧┃迷啊",
+    "name":"🧲┃美剧┃迷啊",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuMi",
@@ -128,7 +128,7 @@
     },
     {
     "key":"yinfans",
-    "name":"🧲磁力┃音范",
+    "name":"🧲┃磁力┃音范",
     "type":3,
     "api":"csp_XPath",
     "searchable":1,
@@ -137,7 +137,7 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"},
     {
     "key":"4k",
-    "name":"🧲４Ｋ┃ＨＤ",
+    "name":"🧲┃４Ｋ┃ＨＤ",
     "type":3,
     "api":"csp_XPathAli",
     "searchable":1,
@@ -146,7 +146,7 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/4khdr.json"},
     {
     "key":"my4k",
-    "name":"🧲磁力┃蚂蚁",
+    "name":"🧲┃磁力┃蚂蚁",
     "type":3,
     "api":"csp_XPathAli",
     "searchable":1,
@@ -155,7 +155,7 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/my4k.json"},
     {
     "key":"bt0",
-    "name":"🧲磁力┃搜索",
+    "name":"🧲┃磁力┃搜索",
     "type":3,
     "playerType":3,
     "api":"csp_Bt0",
@@ -165,14 +165,14 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"},
     {
     "key":"mp4",
-    "name":"🧲MP4┃磁力",
+    "name":"🧲┃MP4┃磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "playerType":2,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
     {
     "key":"csp_XYQHiker_6V磁力",
-    "name":"🧲旧6V┃磁力",
+    "name":"🧲┃旧6V┃磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
