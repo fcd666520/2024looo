@@ -295,14 +295,6 @@
       "filterable": 1,    
       "ext": "/XYQHiker/云盘分享.json"
     },
-        {
-    "key":"csp_XYQBiu_云盘分享",
-    "name":"云盘分享",
-    "type":3,
-    "playerType":1,
-    "api":"csp_XYQBiu",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQHiker/云盘分享.json"},
     {
     "key":"csp_WoGG",
     "name":"☁️玩偶┃４Ｋ",
