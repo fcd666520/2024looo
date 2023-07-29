@@ -182,18 +182,6 @@
     "filterable":1,
     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
     "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/6v磁力.json"},
-    
-    {
-      "key": "csp_KungFu404",
-      "name": "４Ｋ🐲聚合",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./JAR/alibaba.jar"},
-
-
     {
     "key":"csp_Yj1211",
     "name":"♒平台┃直播",
