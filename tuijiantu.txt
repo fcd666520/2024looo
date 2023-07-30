@@ -42,8 +42,8 @@
       "show": true
     },
     {
-      "name": "火影忍者疾风传",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/火影忍者疾风传.jpg",
+      "name": "海贼王",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/海贼王.png",
       "url": "",
       "type": "search",
       "desc": "",
