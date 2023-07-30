@@ -50,24 +50,8 @@
       "show": true
     },
     {
-      "name": "假面骑士极狐",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/假面骑士极狐.png",
-      "url": "",
-      "type": "search",
-      "desc": "",
-      "show": true
-    },
-    {
-      "name": "凡人修仙传",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/凡人修仙传.jpg",
-      "url": "",
-      "type": "search",
-      "desc": "",
-      "show": true
-    },
-    {
-      "name": "时光代理人",
-      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/时光代理人.jpg",
+      "name": "大宋少年志2",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/大宋少年志2.png",
       "url": "",
       "type": "search",
       "desc": "",
