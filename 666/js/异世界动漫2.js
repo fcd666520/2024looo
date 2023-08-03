@@ -1,6 +1,6 @@
 var rule={
     title:'异世界动漫2',
-    host:'http://http://ysjdm8.com/',
+    host:'http://sbdm.net',
     homeUrl:'/index.php/vod/show/id/20.html',
     // url:'/index.php/vod/show/class/fyclass/id/20/page/fypage.html',
     url:'/index.php/vod/show/fyclassfyfilter.html',
