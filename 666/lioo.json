@@ -1,9 +1,24 @@
     /**/
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
+      
+    {
+    "key":"drpy_js_豆瓣",
+    "name":"🆔┃豆瓣┃官方",
+    "type":3,
+    "api":"./lib/douban2.js",
+    "ext":"./js/豆瓣.js"
+    },
+    {
+    "key":"厂长",
+    "name":"🆔┃厂长┃官方",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/changzhang.js"
+    },
           {
     "key":"drpy_js_异世界动漫2",
-    "name":"🆔┃豆瓣┃官方",
+    "name":"🆔┃异界┃动漫",
     "type":3,
     "api":"./lib/drpy2.min.js",
     "ext":"./js/异世界动漫2.js"
@@ -106,19 +121,6 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
 
-    {
-    "key":"drpy_js_豆瓣",
-    "name":"🆔┃豆瓣┃官方",
-    "type":3,
-    "api":"./lib/douban2.js",
-    "ext":"./js/豆瓣.js"
-    },
-    {
-    "key":"厂长",
-    "name":"🆔┃厂长┃官方",
-    "type":3,
-    "api":"./lib/drpy2.min.js",
-    "ext":"./js/changzhang.js"},
     {
     "key":"csp_KungFu404",
     "name":"🆔┃４Ｋ┃聚合",
