@@ -237,15 +237,6 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"./js/荐片.js"},
-   {
-   "key": "csp_JianPian",
-   "name": "♒┃荐片┃缓存",
-   "type": 3,
-   "api": "csp_JianPian",
-   "playerType": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1},
     {
     "key":"555dy",
     "name":"🆔┃五五┃多解",
