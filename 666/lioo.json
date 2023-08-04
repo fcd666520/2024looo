@@ -16,16 +16,10 @@
     "api":"./lib/drpy2.min.js",
     "ext":"./js/changzhang.js"
     },
-          {
-    "key":"drpy_js_异世界动漫2",
-    "name":"🆔┃异界┃动漫",
-    "type":3,
-    "api":"./lib/drpy2.min.js",
-    "ext":"./js/异世界动漫2.js"
-    },
+
            {
       "key": "磁力熊",
-      "name": "🐻┃熊熊┃磁力",
+      "name": "🆔┃熊熊┃磁力",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
@@ -35,7 +29,7 @@
     },
       {
       "key": "夜夜",
-      "name": "🦉┃夜夜┃影视",
+      "name": "🆔┃夜夜┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -65,14 +59,14 @@
     },
      {
       "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
+      "name": "🆔┃虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
     },
     {
       "key": "yyds",
-      "name": "🔥┃杳音┃影院",
+      "name": "🆔┃杳音┃影院",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "searchable": 1,
@@ -83,7 +77,7 @@
     },
         {
       "key": "飞速",
-      "name": "🚄┃影探┃影视",
+      "name": "🆔┃影探┃影视",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
       "searchable": 1,
@@ -93,7 +87,7 @@
     },
         {
       "key": "小艺",
-      "name": "🥩┃小艺┃影视",
+      "name": "🆔┃小艺┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -103,13 +97,22 @@
     },
          {
       "key": "陌陌",
-      "name": "🍄┃陌陌┃直连",
+      "name": "🆔┃陌陌┃直连",
       "type": 3,
       "api": "csp_MmYs",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
+        {
+    "key":"爱迪",
+    "name":"🆔┃爱迪┃多解",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://aidiapp.xyz/xgapp.php/v2/"},
     {
     "key":"csp_KungFu404",
     "name":"🆔┃４Ｋ┃聚合",
@@ -166,7 +169,7 @@
     "ext":"./XYQH/农民影视.json"},
     {
     "key":"csp_Mp4Mov",
-    "name":"🧲┃Mp4┃电影",
+    "name":"🆔┃Mp4┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -175,7 +178,7 @@
     "filterable":1
     },{
     "key":"csp_New6v",
-    "name":"🧲┃新6V┃磁力",
+    "name":"🆔┃新6V┃磁力",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
@@ -185,7 +188,7 @@
     "ext":"http://www.xb6v.com"
     },{
     "key":"csp_SeedHub",
-    "name":"🧲┃See┃dHub",
+    "name":"🆔┃See┃dHub",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_SeedHub",
@@ -195,7 +198,7 @@
     "filterable":1
     },{
     "key":"csp_KubaCL",
-    "name":"🧲┃酷吧┃电影",
+    "name":"🆔┃酷吧┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_KubaCL",
@@ -205,7 +208,7 @@
     "filterable":1
     },{
     "key":"csp_MeijuTT",
-    "name":"🧲┃美剧┃天堂",
+    "name":"🆔┃美剧┃天堂",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuTT",
@@ -215,7 +218,7 @@
     "filterable":1
     },{
     "key":"csp_MeijuMi",
-    "name":"🧲┃美剧┃迷啊",
+    "name":"🆔┃美剧┃迷啊",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuMi",
@@ -226,7 +229,7 @@
     },
     {
     "key":"yinfans",
-    "name":"🧲┃磁力┃音范",
+    "name":"🆔┃磁力┃音范",
     "type":3,
     "api":"csp_XPath",
     "searchable":1,
@@ -235,7 +238,7 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"},
     {
     "key":"4k",
-    "name":"🧲┃４Ｋ┃ＨＤ",
+    "name":"🆔┃４Ｋ┃ＨＤ",
     "type":3,
     "api":"csp_XPathAli",
     "searchable":1,
@@ -244,7 +247,7 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/4khdr.json"},
     {
     "key":"my4k",
-    "name":"🧲┃磁力┃蚂蚁",
+    "name":"🆔┃磁力┃蚂蚁",
     "type":3,
     "api":"csp_XPathAli",
     "searchable":1,
@@ -253,7 +256,7 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/my4k.json"},
     {
     "key":"bt0",
-    "name":"🧲┃磁力┃搜索",
+    "name":"🆔┃磁力┃搜索",
     "type":3,
     "playerType":3,
     "api":"csp_Bt0",
@@ -263,14 +266,14 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"},
     {
     "key":"mp4",
-    "name":"🧲┃MP4┃磁力",
+    "name":"🆔┃MP4┃磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "playerType":2,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
     {
     "key":"csp_XYQHiker_6V磁力",
-    "name":"🧲┃旧6V┃磁力",
+    "name":"🆔┃旧6V┃磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -570,15 +573,7 @@
     "quickSearch":0,
     "filterable":0,
     "ext":"./XP/HOHOTV.json"},
-    {
-    "key":"爱迪",
-    "name":"🆔┃爱迪┃多解",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+
     {
     "key":"csp_Ying",
     "name":"🆔┃樱花┃多解",
@@ -587,6 +582,13 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1},
+    {
+    "key":"drpy_js_异世界动漫2",
+    "name":"🆔┃异界┃动漫",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/异世界动漫2.js"
+    },
     {
     "key":"drpy_js_曲奇动漫",
     "name":"🆔┃曲奇┃多解",
