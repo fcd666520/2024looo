@@ -176,7 +176,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },{
+    },
+    {
     "key":"csp_New6v",
     "name":"🆔┃新6V┃磁力",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
@@ -186,7 +187,8 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"http://www.xb6v.com"
-    },{
+    },
+    {
     "key":"csp_SeedHub",
     "name":"🆔┃See┃dHub",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
@@ -196,7 +198,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },{
+    },
+    /*{
     "key":"csp_KubaCL",
     "name":"🆔┃酷吧┃电影",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
@@ -206,7 +209,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },{
+    },*/
+    {
     "key":"csp_MeijuTT",
     "name":"🆔┃美剧┃天堂",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
@@ -216,7 +220,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },{
+    },
+    {
     "key":"csp_MeijuMi",
     "name":"🆔┃美剧┃迷啊",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
