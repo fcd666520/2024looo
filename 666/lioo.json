@@ -142,6 +142,14 @@
     "filterable":1,
     "api":"./lf_search2_min.js"
     },
+        {
+          "key": "🆔┃４Ｋ┃傢伙",
+          "name": "T4|傢伙",
+          "type": 4,
+          "api": " https://php.iptv.hz.cz/moguys.php",
+          "searchable": 1,
+          "changeable": 1
+  },
     {
     "key":"csp_XPathMacFilter",
     "name":"🆔┃独播┃影库",
@@ -199,6 +207,16 @@
     "quickSearch":1,
     "filterable":1
     },
+        {
+    "key":"csp_XYQHikerdyx",
+    "name":"🆔┃电影┃港湾",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://pan.shangui.cc/f/njAEt2/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     /*{
     "key":"csp_KubaCL",
     "name":"🆔┃酷吧┃电影",
@@ -333,17 +351,6 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"./js/大米星球.json"},
-    {
-    "key":"dr_荐片",
-    "name":"荐片(drpy)",
-    "type":3,
-    "api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-    "searchable":2,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"https://hjdhnx.github.io/dr_py/js/荐片.js",
-    "playerType":1
-},
     {
     "key":"dr_荐片",
     "name":"🆔┃荐片┃缓存",
@@ -803,16 +810,7 @@
     "type":1,
     "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
     "categories":["电影","电视剧","综艺",""]},
-    {
-    "key":"csp_XYQHikerdyx",
-    "name":"☁️┃云盘┃磁力",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://pan.shangui.cc/f/njAEt2/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
+
     {
     "key":"狐狸",
     "name":"☁️┃云盘┃狐狸",
