@@ -25,8 +25,7 @@
       "filterable": 0,
       "switchable": 0,
       "jar": "https://agit.ai/lamdow8/ai/raw/branch/cc/jar/磁力集合.jar",
-      "ext": ""
-    },
+      "ext": ""},
     {
       "key": "阿里云集合",
       "name": "🆔里云✡️集合",
@@ -47,7 +46,7 @@
 	"changeable": 0
 },
 
-           {
+  {
       "key": "磁力熊",
       "name": "🆔熊熊✡️磁力",
       "type": 3,
@@ -892,24 +891,6 @@
     {"name":"七哥解析","category":1,"url":"https://jx.mmkv.cn/tv.php?url=","showType":3},
     {"name":"全网解析","category":1,"url":"https://jx.iztyy.com/Bei/?url=","showType":1},
     {"name":"诺迅解析","type":0,"url":"https://www.nxflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"H8解析","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"云解解析","type":0,"url":"https://yparse.jn1.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"醉仙解析","type":0,"url":"https://jx.zui.cm/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"M3u8解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"MaoPlayer","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"盘古解析","type":0,"url":"https://go.yh0523.cn/y.cy?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"云解析","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"全民解析","type":0,"url":"http://api.wpsseo.cn/?v=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"私人解析","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"无名小站解析","type":0,"url":"https://www.administratorw.com/video.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"8090解析","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"1717解析","type":0,"url":"https://www.1717yun.com/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"全民解析","type":0,"url":"https://www.daga.cc/vip1/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"剖云解析","type":0,"url":"https://www.pouyun.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"Ckplayer解析","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"kingtail解析","type":0,"url":"https://jx.kingtail.xyz/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"Mtosz解析⒉","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
     {"name":"虾米解析⒉","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
     {"name":"盘古解析","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
     {"name":"Ckmov解析","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}],
