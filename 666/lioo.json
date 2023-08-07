@@ -1,27 +1,13 @@
     /**/
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
-    {"key":"农民影视V2",
-    "name":"🆔农民✡️影视",
-    "type":3,"api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./XYQH/农民影视V2.json"
-    },
+
     {
     "key":"drpy_js_豆瓣",
     "name":"🆔豆瓣✡️官方",
     "type":3,
     "api":"./lib/douban2.js",
     "ext":"./js/豆瓣.js"
-    },
-        {
-    "key":"drpy_js_农民影视",
-    "name":"🆔农民✡️影视",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/农民影视.js"
     },
     {
     "key":"drpy_js_素白白",
@@ -36,6 +22,15 @@
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/changzhang.js"
+    },
+    {"key":"农民影视V2",
+    "name":"🆔农民✡️影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./XYQH/农民影视V2.json"
     },
     {
     "key":"磁力集合",
