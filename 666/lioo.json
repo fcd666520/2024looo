@@ -2,11 +2,11 @@
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
-    "key":"drpy_js_素白白",
+    "key":"drpy_js_夜光影视",
     "name":"🆔素白✡️官方",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/素白白.js"
+    "ext":"./js/夜光影视.js"
     },
     {
     "key":"drpy_js_豆瓣",
@@ -16,84 +16,91 @@
     "ext":"./js/豆瓣.js"
     },
     {
+    "key":"drpy_js_素白白",
+    "name":"🆔素白✡️官方",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/素白白.js"
+    },
+    {
     "key":"厂长",
     "name":"🆔厂长✡️官方",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/changzhang.js"
     },
-      {
-      "key": "磁力集合",
-      "name": "🆔磁力✡️集合",
-      "type": 3,
-      "api": "csp_磁力集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "jar": "https://agit.ai/lamdow8/ai/raw/branch/cc/jar/磁力集合.jar",
-      "ext": ""},
     {
-      "key": "阿里云集合",
-      "name": "🆔里云✡️集合",
-      "type": 3,
-      "api": "csp_阿里云集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "jar": "https://agit.ai/lamdow8/ai/raw/branch/cc/jar/磁力集合.jar",
-      "ext": ""
-    },
-  {
-      "key": "磁力熊",
-      "name": "🆔熊熊✡️磁力",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    "key":"磁力集合",
+    "name":"🆔磁力✡️集合",
+    "type":3,
+    "api":"csp_磁力集合",
+    "searchable":1,
+    "filterable":0,
+    "switchable":0,
+    "jar":"https://agit.ai/lamdow8/ai/raw/branch/cc/jar/磁力集合.jar",
+    "ext":""},
+    {
+    "key":"阿里云集合",
+    "name":"🆔里云✡️集合",
+    "type":3,
+    "api":"csp_阿里云集合",
+    "searchable":1,
+    "filterable":0,
+    "switchable":0,
+    "jar":"https://agit.ai/lamdow8/ai/raw/branch/cc/jar/磁力集合.jar",
+    "ext":""
     },
     {
-      "key": "yyds",
-      "name": "🆔杳音✡️影院",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "http://alist.xn--z7x900a.love:63/yyds.js"
+    "key":"磁力熊",
+    "name":"🆔熊熊✡️磁力",
+    "type":3,
+    "api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
+    "ext":"http://alist.xn--z7x900a.love:63/磁力熊.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
     },
-        {
-      "key": "飞速",
-      "name": "🆔影探✡️影视",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
+    {
+    "key":"yyds",
+    "name":"🆔杳音✡️影院",
+    "type":3,
+    "api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "playerType":2,
+    "ext":"http://alist.xn--z7x900a.love:63/yyds.js"
     },
-        {
-      "key": "小艺",
-      "name": "🆔小艺✡️影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lg.tvcms.top/api.php/app/"
+    {
+    "key":"飞速",
+    "name":"🆔影探✡️影视",
+    "type":3,
+    "api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://alist.xn--z7x900a.love:63/V2影探.js"
     },
-         {
-      "key": "陌陌",
-      "name": "🆔陌陌✡️直连",
-      "type": 3,
-      "api": "csp_MmYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
+    {
+    "key":"小艺",
+    "name":"🆔小艺✡️影视",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://lg.tvcms.top/api.php/app/"
     },
-        {
+    {
+    "key":"陌陌",
+    "name":"🆔陌陌✡️直连",
+    "type":3,
+    "api":"csp_MmYs",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0
+    },
+    {
     "key":"爱迪",
     "name":"🆔爱迪✡️多解",
     "type":3,
@@ -101,7 +108,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+    "ext":"https://aidiapp.xyz/xgapp.php/v2/"
+    },
     {
     "key":"csp_KungFu404",
     "name":"🆔４Ｋ✡️聚合",
@@ -131,14 +139,14 @@
     "filterable":1,
     "api":"./lf_search2_min.js"
     },
-        {
-          "key": "傢伙",
-          "name": "🆔４Ｋ✡️傢伙",
-          "type": 4,
-          "api": " https://php.iptv.hz.cz/moguys.php",
-          "searchable": 1,
-          "changeable": 1
-  },
+    {
+    "key":"傢伙",
+    "name":"🆔４Ｋ✡️傢伙",
+    "type":4,
+    "api":"https://php.iptv.hz.cz/moguys.php",
+    "searchable":1,
+    "changeable":1
+    },
     {
     "key":"csp_XPathMacFilter",
     "name":"🆔独播✡️影库",
@@ -196,7 +204,7 @@
     "quickSearch":1,
     "filterable":1
     },
-        {
+    {
     "key":"csp_XYQHikerdyx",
     "name":"🆔电影✡️港湾",
     "type":3,
@@ -357,7 +365,6 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://tv.libvio.cc/"},
-    
     {
     "key":"苹果",
     "name":"🆔苹果✡️多解",
@@ -580,7 +587,6 @@
     "quickSearch":0,
     "filterable":0,
     "ext":"./XP/HOHOTV.json"},
-
     {
     "key":"csp_Ying",
     "name":"🆔樱花✡️多解",
@@ -794,7 +800,6 @@
     "type":1,
     "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
     "categories":["电影","电视剧","综艺",""]},
-
     {
     "key":"狐狸",
     "name":"✡️云盘✡️狐狸",
