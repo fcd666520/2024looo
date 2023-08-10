@@ -23,7 +23,20 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/changzhang.js"
     },
-    {"key":"农民影视V2",
+    {
+    "key":"csp_XYQHikerAL_玩偶哥哥",
+    "name":"✡️玩偶✡️哥哥",
+    "type":3,
+    "api":"csp_XYQHikerAL",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
+    },
+    {
+    "key":"农民影视V2",
     "name":"🆔农民✡️影视",
     "type":3,
     "api":"csp_XBPQ",
@@ -778,7 +791,9 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://dytt996.com/api.php/app/"},
+    "ext":"http://dytt996.com/api.php/app/"
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
+    },
     {
     "key":"美眉",
     "name":"✡️云盘✡️妹妹",
@@ -813,17 +828,6 @@
     "quickSearch":0,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/b8RaU1/4KHDR.json",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
-    {
-    "key":"csp_XYQHikerAL_玩偶哥哥",
-    "name":"✡️玩偶✡️哥哥",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
     {
     "key":"js_360",
