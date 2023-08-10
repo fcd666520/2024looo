@@ -806,6 +806,9 @@
     "key":"小姨",
     "name":"✡️云盘✡️小姨",
     "type":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
     "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
     "categories":["电影","电视剧","综艺","动漫"]},
     {
