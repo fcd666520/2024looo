@@ -783,7 +783,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E9%A5%AD%E5%9B%A2.json"},
-    {
+    /*{
     "key":"姐姐",
     "name":"✡️云盘✡️姐姐",
     "type":3,
@@ -792,7 +792,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"http://dytt996.com/api.php/app/"
-    },
+    },    */
     {
     "key":"美眉",
     "name":"✡️云盘✡️妹妹",
@@ -807,7 +807,7 @@
     "name":"✡️云盘✡️小姨",
     "type":1,
     "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-    "categories":["电影","电视剧","综艺",""]},
+    "categories":["电影","电视剧","综艺","动漫"]},
     {
     "key":"狐狸",
     "name":"✡️云盘✡️狐狸",
