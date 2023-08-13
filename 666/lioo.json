@@ -12,6 +12,21 @@
       "api": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/apiv35%E5%BD%B1%E8%A7%86%E8%81%9A%E6%90%9C.js"
     },
     {
+      "key": "drpy_js_大豆",
+      "name": "影视 | 大豆[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "影视 | 网飞.TV[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+    },
+    
+    {
     "key":"drpy_js_豆瓣",
     "name":"🆔豆瓣✡️官方",
     "type":3,
