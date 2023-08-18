@@ -11,16 +11,15 @@
       "filterable": 1,
       "api": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/apiv35%E5%BD%B1%E8%A7%86%E8%81%9A%E6%90%9C.js"
     },
-    {
-      "key": "csp_KungFu404",
-      "name": "🆔阿里✡️签到",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-      "jar":"./JAR/alibaba.jar"
-    },
+{
+   "key": "csp_KungFu404",
+   "name": "🆔阿里✡️签到",
+   "type": 3,
+   "api": "csp_KungFu404",
+   "searchable": 1,
+   "filterable": 0,
+   "changeable": 0,
+   "jar": "./JAR/alibaba0.jar"},
     {
       "key": "drpy_js_大豆",
       "name": "🆔影视✡️大豆",
