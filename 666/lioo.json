@@ -159,22 +159,14 @@
     },
     {
       "key": "csp_KungFu404",
-      "name": "🆔有效✡️聚合",
+      "name": "🆔阿里✡️签到",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0
     },
-    {
-    "key":"csp_KungFu404",
-    "name":"🆔４Ｋ✡️聚合",
-    "type":3,
-    "api":"csp_KungFu404",
-    "searchable":1,
-    "filterable":0,
-    "changeable":0,
-    "jar":"./JAR/alibaba.jar"},
+
     {
     "key":"csp_XYQHiker_蓝猫动漫",
     "name":"🆔蓝猫✡️动漫",
