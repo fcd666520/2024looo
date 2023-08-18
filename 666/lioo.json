@@ -158,6 +158,15 @@
     "ext":"https://aidiapp.xyz/xgapp.php/v2/"
     },
     {
+      "key": "csp_KungFu404",
+      "name": "🆔有效✡️聚合",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
     "key":"csp_KungFu404",
     "name":"🆔４Ｋ✡️聚合",
     "type":3,
