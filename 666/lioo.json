@@ -12,6 +12,16 @@
       "api": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/apiv35%E5%BD%B1%E8%A7%86%E8%81%9A%E6%90%9C.js"
     },
     {
+      "key": "csp_KungFu404",
+      "name": "🆔阿里✡️签到",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0
+      "jar":"./JAR/alibaba0.jar"
+    },
+    {
       "key": "drpy_js_大豆",
       "name": "🆔影视✡️大豆",
       "type": 3,
@@ -157,16 +167,6 @@
     "filterable":1,
     "ext":"https://aidiapp.xyz/xgapp.php/v2/"
     },
-    {
-      "key": "csp_KungFu404",
-      "name": "🆔阿里✡️签到",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-
     {
     "key":"csp_XYQHiker_蓝猫动漫",
     "name":"🆔蓝猫✡️动漫",
