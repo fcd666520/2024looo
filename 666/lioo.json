@@ -2,14 +2,14 @@
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
-      "key": "drpy_js_聚影搜索",
+      "key": "juying",
       "name": "🆔聚影✡️官方",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "api": "./JS/聚影搜索.js"
+      "api": "https://jihulab.com/mml/looo/-/raw/master/666/js/聚影搜索.js"
     },
 {
    "key": "csp_KungFu404",
