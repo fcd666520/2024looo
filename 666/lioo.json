@@ -1,7 +1,6 @@
     /**/
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
-      {"key":"电影港","name":"🚛DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/dyg.json"},
     {
       "key": "juying",
       "name": "🆔聚影✡️官方",
@@ -12,6 +11,15 @@
       "filterable": 1,
       "api": "./js/聚影搜索.js"
     },
+        {
+    "key":"csp_WoGG",
+    "name":"✡️玩偶✡️４Ｋ",
+    "type":3,
+    "api":"csp_WoGG",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./token.txt"}
 {
    "key": "csp_KungFu404",
    "name": "🆔阿里✡️签到",
@@ -177,7 +185,7 @@
     "filterable":1,
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQH/%E8%93%9D%E7%8C%AB%E5%8A%A8%E6%BC%AB.json"},
-    {
+     /*{
     "key":"lf_js_search",
     "name":"🆔更新✡️片单",
     "type":3,
@@ -186,7 +194,7 @@
     "quickSearch":0,
     "filterable":1,
     "api":"./lf_search2_min.js"
-    },
+    }, */
     {
     "key":"傢伙",
     "name":"🆔４Ｋ✡️傢伙",
@@ -780,16 +788,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XYQHiker/小站分享.json"},
-    {
-    "key":"csp_WoGG",
-    "name":"✡️玩偶✡️４Ｋ",
-    "type":3,
-    "api":"csp_WoGG",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./token.txt"},
+    "ext":"./XYQHiker/小站分享.json"},,
     {
     "key":"cps_aliyunpan",
     "name":"✡️玩偶✡️妹妹",
