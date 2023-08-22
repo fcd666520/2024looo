@@ -24,15 +24,15 @@
       "key": "drpy_js_大豆",
       "name": "🆔影视✡️大豆",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"
+      "api": "./lib/drpy4.min.js",
+      "ext": "./js/大豆影视.js"
     },
     {
       "key": "drpy_js_网飞.TV",
       "name": "🆔影视✡️网飞",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+      "api": "./lib/drpy4.min.js",
+      "ext": "./js/网飞.js"
     },
     
     {
