@@ -1,6 +1,7 @@
     /**/
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
+      {"key":"电影港","name":"🚛DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":".https://weixine.net/sub/dyg.json"},
     {
       "key": "juying",
       "name": "🆔聚影✡️官方",
