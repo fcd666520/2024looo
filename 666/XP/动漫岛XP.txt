@@ -2,7 +2,7 @@
 {
   "author":"takagen99",
   "ua": "",
-  "homeUrl": "http://www.dmand5.com/",
+  "homeUrl": "https://rentry.org/",
   "cateManual": {
     "新番连载": "1", 
     "完结日漫": "3",
