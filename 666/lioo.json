@@ -2,6 +2,17 @@
     {"spider":"./JAR/baoli0729.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
+"key": "AList",
+"name": "进恩哥资源仓库",
+"type": 3,
+"api": "csp_AList",
+"searchable": 1,
+"changeable": 0,
+"ext": "https://jihulab.com/hongbo1/tvbox/-/raw/main/XYQTVBox/Ali/Alist.json?ref_type=heads"},
+
+
+
+    {
     "key":"juying",
     "name":"🅰️丨聚影丨官方",
     "type":3,
