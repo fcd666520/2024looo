@@ -56,17 +56,12 @@ CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
 
-CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV8,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-
 
 
 CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2468865118_1937404571/ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8?icpid=3&RTS=1674386879&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
