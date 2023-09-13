@@ -52,13 +52,13 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"},
-    {
+    /*{{
     "key":"drpy_js_大豆",
     "name":"🅰️丨影视丨大豆",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/大豆影视.js"
-    },
+    },*/
     {
     "key":"drpy_js_豆瓣",
     "name":"🅰️丨豆瓣丨官方",
@@ -333,6 +333,7 @@
     "playerType":2,
     "ext":"https://www.libvio.fun/"
     },
+    
     {
     "key":"csp_Yj1211",
     "name":"🅰️丨直播丨合集",
