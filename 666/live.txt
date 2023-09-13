@@ -79,7 +79,6 @@ CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
 
-
 CCTV12,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8?
@@ -100,15 +99,9 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?
 CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 
-
 CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
-
-
-
-
-
 
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
@@ -149,12 +142,8 @@ CCTV央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m
 CCTV央视文化精品,http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视文化精品,http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
+
 卫视频道,#genre#
-黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
-黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
@@ -202,10 +191,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1580749819_-793400395/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1668600670&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -227,8 +212,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 天津卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
-安徽卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
@@ -252,7 +235,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 天津卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
-安徽卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001037/1.m3u8
 北京卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001029/1.m3u8
 东南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001201/1.m3u8
 甘肃卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001298/1.m3u8
@@ -274,8 +256,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 云南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 浙江卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001023/1.m3u8
 重庆卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
-黑龙江卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001031/1.m3u8
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
@@ -290,7 +270,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
 北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
 重庆卫视,https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
 东方卫视,https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
@@ -301,7 +280,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 贵州卫视,https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
 海南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws_4000
 河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
-黑龙江卫视,https://live.goodiptv.club/api/sxg.php?id=hljwsH265_4000
 湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
 湖南卫视,https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
 吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
@@ -317,7 +295,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 西藏卫视,https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
 云南卫视,https://live.goodiptv.club/api/sxg.php?id=ynws_4000
 浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
-安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
@@ -347,10 +324,8 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 湖南卫视,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
 广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 深圳卫视,http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
-黑龙江卫视,http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
 湖北卫视,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
-安徽卫视,http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
 东南卫视,http://222.71.90.218:8888/newlive/live/hls/29/live.m3u8
 江西卫视,http://222.71.90.218:8888/newlive/live/hls/30/live.m3u8
 辽宁卫视,http://222.71.90.218:8888/newlive/live/hls/31/live.m3u8
@@ -373,7 +348,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -421,6 +395,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 北京卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
 天津卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
 山东卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽卫视,http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
+安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 安徽卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000020780&livemode=1&stbId=2&channel-id=ystenlive
 安徽卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000030159&livemode=1&stbId=2&channel-id=ystenlive
 北京卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
@@ -447,7 +424,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 江苏卫视,http://113.117.74.10:8081/hls/44/index.m3u8
 北京卫视,http://113.117.74.10:8081/hls/45/index.m3u8
 天津卫视,http://113.117.74.10:8081/hls/48/index.m3u8
-安徽卫视,http://113.117.74.10:8081/hls/49/index.m3u8
 辽宁卫视,http://113.117.74.10:8081/hls/54/index.m3u8
 东南卫视,http://113.117.74.10:8081/hls/55/index.m3u8
 河北卫视,http://113.117.74.10:8081/hls/57/index.m3u8
