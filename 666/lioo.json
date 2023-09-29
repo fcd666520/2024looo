@@ -1,13 +1,6 @@
     /**/
-    {"spider":"./JAR/fantaiying.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+    {"spider":"./JAR/fantaiying0930.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
-    {"key":"t4_wo",
-    "name":"🅰️丨玩偶丨４Ｋ",
-    "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1},
 
     {
     "key":"juying",
@@ -19,6 +12,14 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
+    {"key":"t4_wo",
+    "name":"🅰️丨玩偶丨４Ｋ",
+    "type":4,
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1},
+
     {
     "key":"csp_KungFu404",
     "name":"🅰️丨阿里丨签到",
