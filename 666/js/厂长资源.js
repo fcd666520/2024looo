@@ -1,6 +1,7 @@
 var rule={
     title:'厂长资源',
-    host:'https://czzy01.com/',
+    host:'http://www.ccfds.com/',
+    //host:'https://czzy01.com/',
     url:'/fyclass/page/fypage',
     // searchUrl:'/xssearch?q=**&f=_all&p=fypage',
     // searchUrl:'/?#s=**;post',
