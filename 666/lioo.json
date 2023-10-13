@@ -137,6 +137,16 @@
     "ext":"./XYQH/农民影视V2.json"
     },
     {
+    "key":"jojo",
+    "name":"🅰️丨JOJO丨影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./XB/jojo.json"
+    },
+    {
     "key":"磁力集合",
     "name":"🅰️丨磁力丨集合",
     "type":3,
