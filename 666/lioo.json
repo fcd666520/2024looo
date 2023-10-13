@@ -19,16 +19,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1},
-    {
-    "key":"jojo",
-    "name":"🅰️丨JOJO丨影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar":"./JAR/fantaiying0930.jar"
-    },
+
     {
     "key":"csp_KungFu404",
     "name":"🅰️丨阿里丨签到",
