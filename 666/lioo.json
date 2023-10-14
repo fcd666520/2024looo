@@ -9,7 +9,7 @@
                                                                 "searchable": 1,
                                                                             "quickSearch": 1,
                                                                                         "filterable": 1,
-                                                                                                    "ext": {
+                                         "ext": {
                                                                                                                     "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
                                                                                                                                     "数组": "<a&&</a >",
                                                                                                                                                     "图片": "src=\"&&\"",
@@ -24,7 +24,7 @@
                                                                                                                                                                                                                                                                                                     "分类url": "https://jiohub.top/video/{cateId}?page={catePg}&size=18"
                                                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                                                                         },
-}
+
     {
     "key":"juying",
     "name":"🅰️丨聚影丨官方",
