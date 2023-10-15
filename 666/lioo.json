@@ -1,5 +1,5 @@
     /**/
-    {"spider":"./JAR/fantaiying0930.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+    {"spider":"./JAR/yydsys.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
     "key":"juying",
@@ -19,17 +19,15 @@
     "quickSearch":1,
     "filterable":1},
     {
-            "key": "jojo_open",
-                "name": "影视|JOJO",
-                    "type": 3,
-                        "api": "csp_JoJo",
-                            "searchable": 1,
-                                "quickSearch": 1,
-                                    "filterable": 0,
-                                        "jar": "./JAR/OpenSpider.jar"
-                                        
+    "key":"jojo_open",
+    "name":"🅰️丨影视丨ＪＯ",
+    "type":3,
+    "api":"csp_JoJo",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar":"./JAR/OpenSpider.jar"
     },
-
     {
     "key":"csp_KungFu404",
     "name":"🅰️丨阿里丨签到",
@@ -108,16 +106,16 @@
     "ext":"./js/6V[新版].js"
     },
     {
-            "key": "Czspp",
-            "name": "🅰️丨厂长丨影视",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.cz01.fun/"
-        },
-   /*{
+    "key":"Czspp",
+    "name":"🅰️丨厂长丨影视",
+    "type":3,
+    "api":"csp_Czsapp",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.cz01.fun/"
+    },
+    /*{
     "key":"厂长",
     "name":"🅰️丨厂长丨官方",
     "type":3,
@@ -146,7 +144,6 @@
     "filterable":1,
     "ext":"./XYQH/农民影视V2.json"
     },
-
     {
     "key":"磁力集合",
     "name":"🅰️丨磁力丨集合",
@@ -361,7 +358,6 @@
     "playerType":2,
     "ext":"https://www.libvio.fun/"
     },
-    
     {
     "key":"csp_Yj1211",
     "name":"🅰️丨直播丨合集",
