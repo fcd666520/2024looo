@@ -18,15 +18,22 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1},
+        {
+      "key": "JOJO",
+      "name": "🕊︎JOJO┃直连",
+      "type": 3,
+      "api": "csp_JOJO",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
     "key":"jojo_open",
     "name":"🅰️丨影视丨ＪＯ",
-    "type":3,
-    "api":"csp_JoJo",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "jar":"./JAR/OpenSpider.jar"
+   "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"
     },
     {
     "key":"csp_KungFu404",
