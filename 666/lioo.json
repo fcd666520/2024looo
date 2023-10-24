@@ -18,15 +18,6 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1},
-        {
-      "key": "JOJO",
-      "name": "🕊︎JOJO┃直连",
-      "type": 3,
-      "api": "csp_JOJO",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
     "key":"jojo_open",
     "name":"🅰️丨影视丨ＪＯ",
@@ -59,11 +50,11 @@
       "key": "js_影探",
       "name": "🅰️丨侦探丨盒子",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/侦探.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
     },
     {
     "key":"csp_WoGG",
