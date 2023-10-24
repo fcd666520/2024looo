@@ -183,15 +183,15 @@
     "quickSearch":1,
     "filterable":1
     },
-    {
+    /*{
     "key":"陌陌",
     "name":"🅰️丨陌陌丨直连",
     "type":3,
     "api":"csp_MmYs",
     "searchable":1,
     "quickSearch":1,
-    "changeable":0
-    },
+    "changeable":0},*/
+
     {
     "key":"爱迪",
     "name":"🅰️丨爱迪丨多解",
@@ -213,14 +213,14 @@
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQH/%E8%93%9D%E7%8C%AB%E5%8A%A8%E6%BC%AB.json"
     },
-    {
+    /*{
     "key":"傢伙",
     "name":"🅰️丨４Ｋ丨傢伙",
     "type":4,
     "api":"https://php.iptv.hz.cz/moguys.php",
     "searchable":1,
     "changeable":1
-    },
+    },*/
     {
     "key":"csp_XPathMacFilter",
     "name":"🅰️丨独播丨影库",
@@ -310,7 +310,7 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"},
-    {
+    /*{
     "key":"4k",
     "name":"🅰️丨４Ｋ丨ＨＤ",
     "type":3,
@@ -318,7 +318,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/4khdr.json"},
+    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/4khdr.json"},*/
     {
     "key":"my4k",
     "name":"🅰️丨磁力丨蚂蚁",
@@ -366,6 +366,7 @@
     "playerType":2,
     "ext":"https://www.libvio.fun/"
     },
+    
     {
     "key":"csp_Yj1211",
     "name":"🅰️丨直播丨合集",
