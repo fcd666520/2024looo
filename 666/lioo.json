@@ -1,5 +1,5 @@
     /**/
-{"spider":"./JAR/Yoursmile1027.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
+    {"spider":"./JAR/Yoursmile1027.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
     "key":"juying",
@@ -12,15 +12,15 @@
     "api":"./js/聚影搜索.js"
     },
     {
-      "key": "xifan",
-      "name": "动漫|稀饭",
-      "type": 3,
-      "api": "csp_Xifan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-            "jar": "https://api.zalman2022.repl.co/YSZYZ.jar",
-      "ext": "公众号:影视资源站"
+    "key":"xifan",
+    "name":"🅰️丨动漫丨稀饭",
+    "type":3,
+    "api":"csp_Xifan",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar":"https://api.zalman2022.repl.co/YSZYZ.jar",
+    "ext":"http://pzoap.moedot.net/"
     },
     {"key":
     "csp_YGP",
@@ -32,7 +32,6 @@
     "filterable":1,
     "changeable":0
     },
-
     {"key":"t4_wo",
     "name":"🅰️丨玩偶丨４Ｋ",
     "type":4,
@@ -41,12 +40,24 @@
     "quickSearch":1,
     "filterable":1},
     {
+    "key":"csp_XYQHikerAL_玩偶哥哥",
+    "name":"🅰️丨玩偶丨哥哥",
+    "type":3,
+    "api":"csp_XYQHikerAL",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
+    "jar":"./JAR/XYQ.jar"
+    },
+    {
     "key":"jojo_open",
     "name":"🅰️丨影视丨ＪＯ",
-   "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./JAR/spider.txt;md5;",
-      "ext": "./XYQHiker/jojo.json"
+    "type":3,
+    "api":"csp_XYQHiker",
+    "jar":"./JAR/spider.txt;md5;",
+    "ext":"./XYQHiker/jojo.json"
     },
     {
     "key":"csp_KungFu404",
@@ -68,15 +79,15 @@
     "filterable":1,
     "api":"./lf_search2_min.js"
     },*/
-        {
-      "key": "js_影探",
-      "name": "🅰️丨侦探丨盒子",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
+    {
+    "key":"js_影探",
+    "name":"🅰️丨侦探丨盒子",
+    "type":3,
+    "api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
     },
     {
     "key":"csp_WoGG",
@@ -86,7 +97,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./token.txt"
+    "ext":"./JAR/ali.jar"
     },
     {
     "key":"csp_beijihu",
@@ -129,13 +140,6 @@
     "ext":"http://我不是.肥猫.love:63/json/虎虎.json"
     },
     {
-    "key":"drpy_js_6V[新版]",
-    "name":"🅰️丨新6V丨磁力",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/6V[新版].js"
-    },
-    {
     "key":"Czspp",
     "name":"🅰️丨厂长丨影视",
     "type":3,
@@ -152,18 +156,6 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/changzhang.js"
     },*/
-    {
-    "key":"csp_XYQHikerAL_玩偶哥哥",
-    "name":"🅰️丨玩偶丨哥哥",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://pan.shangui.cc/f/j17ZH7/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
-    },
     {
     "key":"农民影视V2",
     "name":"🅰️丨农民丨影视",
@@ -213,7 +205,6 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":0},*/
-
     {
     "key":"爱迪",
     "name":"🅰️丨爱迪丨多解",
@@ -388,7 +379,6 @@
     "playerType":2,
     "ext":"https://www.libvio.fun/"
     },
-    
     {
     "key":"csp_Yj1211",
     "name":"🅰️丨直播丨合集",
