@@ -11,7 +11,7 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
-        {
+    {
       "key": "xifan",
       "name": "动漫|稀饭",
       "type": 3,
@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://pzoap.moedot.net/"
+      "ext": "公众号:影视资源站"
     },
     {"key":
     "csp_YGP",
