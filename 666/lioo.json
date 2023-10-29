@@ -11,6 +11,16 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
+        {
+      "key": "xifan",
+      "name": "动漫|稀饭",
+      "type": 3,
+      "api": "csp_Xifan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://pzoap.moedot.net/"
+    },
     {"key":
     "csp_YGP",
     "name":"🅰️丨预告丨预告",
