@@ -38,7 +38,18 @@
     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1},
+    "filterable":1
+    },
+        {
+      "key": "csp_WoGG",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"
+    },
     {
     "key":"csp_XYQHikerAL_玩偶哥哥",
     "name":"🅰️丨玩偶丨哥哥",
@@ -89,16 +100,7 @@
     "filterable":1,
     "ext":"https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
     },
-    {
-    "key":"csp_WoGG",
-    "name":"🅰️丨玩偶丨４Ｋ",
-    "type":3,
-    "api":"csp_WoGG",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./JAR/ali.jar"
-    },
+ 
     {
     "key":"csp_beijihu",
     "name":"🅰️丨极狐丨多解",
