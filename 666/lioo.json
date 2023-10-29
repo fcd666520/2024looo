@@ -11,6 +11,16 @@
     "api":"./js/聚影搜索.js"
     },
     {
+            "key": "豆豆",
+                  "name": "🌕公众号【神秘的哥哥们】",
+                        "type": 3,
+                              "api": "csp_DouDou",
+                                    "searchable": 0,
+                                          "quickSearch": 0,
+                                                "filterable": 0
+                                                    },
+    
+    {
     "key":"xifan",
     "name":"🅰️丨动漫丨稀饭",
     "type":3,
