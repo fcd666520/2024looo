@@ -1,4 +1,4 @@
-    /**/
+
     {"spider":"./JAR/Yoursmile1027.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
@@ -22,9 +22,7 @@
     "jar":"https://api.zalman2022.repl.co/YSZYZ.jar",
     "ext":"公众号:影视资源站"
     },
-
-    {"key":
-    "csp_YGP",
+    {"key":"csp_YGP",
     "name":"🅰️丨预告丨预告",
     "type":3,
     "api":"csp_YGP",
@@ -84,16 +82,6 @@
     "changeable":0,
     "jar":"./JAR/alibaba0.jar"
     },
-    /*{
-    "key":"lf_js_search",
-    "name":"🅰️丨更新丨片单",
-    "type":3,
-    "searchable":0,
-    "changeable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "api":"./lf_search2_min.js"
-    },*/
     {
     "key":"js_影探",
     "name":"🅰️丨侦探丨盒子",
@@ -114,13 +102,13 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"},
-    /*{{
+    {
     "key":"drpy_js_大豆",
     "name":"🅰️丨影视丨大豆",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/大豆影视.js"
-    },*/
+    },
     {
     "key":"drpy_js_豆瓣",
     "name":"🅰️丨豆瓣丨官方",
@@ -155,13 +143,13 @@
     "filterable":1,
     "ext":"https://www.czz9.com/"
     },
-    /*{
+    {
     "key":"厂长",
     "name":"🅰️丨厂长丨官方",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/changzhang.js"
-    },*/
+    },
     {
     "key":"农民影视V2",
     "name":"🅰️丨农民丨影视",
@@ -172,16 +160,6 @@
     "filterable":1,
     "ext":"./XYQH/农民影视V2.json"
     },
-
-
-    /*{
-    "key":"陌陌",
-    "name":"🅰️丨陌陌丨直连",
-    "type":3,
-    "api":"csp_MmYs",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0},*/
     {
     "key":"爱迪",
     "name":"🅰️丨爱迪丨多解",
@@ -203,14 +181,6 @@
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQH/%E8%93%9D%E7%8C%AB%E5%8A%A8%E6%BC%AB.json"
     },
-    /*{
-    "key":"傢伙",
-    "name":"🅰️丨４Ｋ丨傢伙",
-    "type":4,
-    "api":"https://php.iptv.hz.cz/moguys.php",
-    "searchable":1,
-    "changeable":1
-    },*/
     {
     "key":"csp_XPathMacFilter",
     "name":"🅰️丨独播丨影库",
