@@ -1,4 +1,3 @@
-
     {"spider":"./JAR/Yoursmile1027.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
     {
@@ -92,7 +91,6 @@
     "filterable":1,
     "ext":"https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
     },
- 
     {
     "key":"csp_beijihu",
     "name":"🅰️丨极狐丨多解",
@@ -101,13 +99,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://www.kuin.one/api.php/app/"},
-    {
-    "key":"drpy_js_大豆",
-    "name":"🅰️丨影视丨大豆",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/大豆影视.js"
+    "ext":"https://www.kuin.one/api.php/app/"
     },
     {
     "key":"drpy_js_豆瓣",
@@ -125,7 +117,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./js/荐片.js"},
+    "ext":"./js/荐片.js"
+    },
     {
     "key":"虎虎",
     "name":"🅰️丨虎虎丨影视",
@@ -143,13 +136,7 @@
     "filterable":1,
     "ext":"https://www.czz9.com/"
     },
-    {
-    "key":"厂长",
-    "name":"🅰️丨厂长丨官方",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/changzhang.js"
-    },
+ 
     {
     "key":"农民影视V2",
     "name":"🅰️丨农民丨影视",
@@ -188,8 +175,8 @@
     "api":"csp_XPathMacFilter",
     "searchable":1,
     "changeable":1,
-    "ext":"./XYQ/duboku.json"},
-
+    "ext":"./XYQ/duboku.json"
+    },
     {
     "key":"csp_Lib",
     "name":"🅰️丨利奥丨多解",
@@ -214,25 +201,29 @@
     "name":"🅰️丨电视丨直播",
     "type":3,
     "api":"http://我不是.肥猫.love:63/JS/直播转点播2.js",
-    "ext":"http://我不是.肥猫.love:63/lives/直播仓.json"},
+    "ext":"http://我不是.肥猫.love:63/lives/直播仓.json"
+    },
     {
     "key":"drpy_js_58动漫",
     "name":"🅰️丨五八丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/58动漫.js"},
+    "ext":"./js/58动漫.js"
+    },
     {
     "key":"drpy_js_AGE",
     "name":"🅰️丨ＡＧ丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/AGE.js"},
+    "ext":"./js/AGE.js"
+    },
     {
     "key":"drpy_js_哔哩影视",
     "name":"🅰️丨Ｂ站丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/哔哩影视.js"},
+    "ext":"./js/哔哩影视.js"
+    },
     {
     "key":"大米星球","name":
     "🅰️丨大米丨多解",
@@ -241,7 +232,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./js/大米星球.json"},
+    "ext":"./js/大米星球.json"
+    },
     {
     "key":"555dy",
     "name":"🅰️丨五五丨多解",
@@ -250,7 +242,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./js/555dy.json"},
+    "ext":"./js/555dy.json"
+    },
     {
     "key":"苹果",
     "name":"🅰️丨苹果丨多解",
@@ -265,16 +258,8 @@
     "name":"🅰️丨瑞丰丨多解",
     "type":3,
     "api":"csp_AppYsV2",
-    "ext":"http://www.miniku.cc/xgapp.php/v2/"},
-    {
-    "key":"csp_mdd",
-    "name":"🅰️丨蛋蛋丨多解",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://app.mengdandan.com/xgapp.php/v1/"},
+    "ext":"http://www.miniku.cc/xgapp.php/v2/"
+    },
     {
     "key":"csp_yayaya",
     "name":"🅰️丨耐菲丨多解",
@@ -283,7 +268,8 @@
     "filterable":1,
     "quickSearch":1,
     "searchable":1,
-    "ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+    "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
+    },
     {
     "key":"Kuaikan",
     "name":"🅰️丨快看丨多解",
@@ -291,34 +277,29 @@
     "api":"csp_Kuaikan",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1},
-    {
-    "key":"csp_fant",
-    "name":"🅰️丨饭团丨多解",
-    "type":3,
-    "api":"csp_Fantuan",
-    "filterable":1,
-    "quickSearch":1,
-    "searchable":1,
-    "ext":"https://www.fantuanhd.com"},
+    "filterable":1
+    },
     {
     "key":"drpy_js_555影视V2",
     "name":"🅰️丨五五丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/555影视V2.js"},
+    "ext":"./js/555影视V2.js"
+    },
     {
     "key":"drpy_js_我爱跟剧",
     "name":"🅰️丨我爱丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/我爱跟剧.js"},
+    "ext":"./js/我爱跟剧.js"
+    },
     {
     "key":"drpy_js_四个圈影视",
     "name":"🅰️丨圈儿丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/四个圈影视.js"},
+    "ext":"./js/四个圈影视.js"
+    },
     {
     "key":"宝仙",
     "name":"🅰️丨宝仙丨多解",
@@ -327,21 +308,15 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XP/宝仙.json"},
-    {
-    "key":"csp_AppMr",
-    "name":"🅰️丨明明丨直连",
-    "type":3,
-    "api":"csp_AppMr",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1},
+    "ext":"./XP/宝仙.json"
+    },
     {
     "key":"js_花猫TV",
     "name":"🅰️丨花猫丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/花猫TV.js"},
+    "ext":"./js/花猫TV.js"
+    },
     {
     "key":"csp_DiDuan",
     "name":"🅰️丨低端丨多解",
@@ -350,69 +325,36 @@
     "click":"ddys.tv;#vjsp>button",
     "searchable":1,
     "quickSearch":1,
-    "filterable":0},
-    {
-    "key":"csp_Lgyy",
-    "name":"🅰️丨蓝光丨多解",
-    "type":3,
-    "api":"csp_Lgyy",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.lgyy.vip"},
+    "filterable":0
+    },
     {
     "key":"drpy_js_快看",
     "name":"🅰️丨快看丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/快看.js"},
-    {
-    "key":"789kp",
-    "name":"🅰️丨七八丨多解",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./xBPQ/789ba.json"},
-    {
-    "key":"drpy_js_NY影院",
-    "name":"🅰️丨纽约丨多解",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/NY影院.js"},
-    {
-    "key":"drpy_js_7喜影院",
-    "name":"🅰️丨七喜丨多解",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/7喜影院.js"},
+    "ext":"./js/快看.js"
+    },
     {
     "key":"drpy_js_新视觉影视",
     "name":"🅰️丨视觉丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/新视觉影视.js"},
+    "ext":"./js/新视觉影视.js"
+    },
     {
     "key":"drpy_js_电影先生",
     "name":"🅰️丨电影丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/电影先生.js"},
+    "ext":"./js/电影先生.js"
+    },
     {
     "key":"js_tva云播",
     "name":"🅰️丨ＴＶ丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/tva云播.js"},
-    {
-    "key":"csp_Ysgc",
-    "name":"🅰️丨工厂丨多解",
-    "type":3,
-    "api":"csp_Ysgc",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1},
+    "ext":"./js/tva云播.js"
+    },
     {
     "key":"csp_Cokemv",
     "name":"🅰️丨可乐丨多解",
@@ -420,123 +362,129 @@
     "api":"csp_Cokemv",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1},
+    "filterable":1
+    },
     {
     "key":"drpy_js_哔嘀影视",
     "name":"🅰️丨哔嘀丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/哔嘀影视.js"},
-    {
-    "key":"csp_xp_meiju56",
-    "name":"🅰️丨美剧丨多解",
-    "type":3,
-    "api":"csp_XPathFilter",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://agit.ai/xiaowei233333/miao/raw/branch/main/TVBox/MeowXP/meiju562.json"},
-    {
-    "key":"csp_xpath_HOHOTV",
-    "name":"🅰️丨ＨＯ丨多解",
-    "type":3,
-    "api":"csp_XPathFilter",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0,
-    "ext":"./XP/HOHOTV.json"},
+    "ext":"./js/哔嘀影视.js"
+    },
     {
     "key":"csp_Ying",
-    "name":"🅰️丨樱花丨多解",
+    "name":"🍓丨樱花丨多解",
     "type":3,
     "api":"csp_Ying",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1},
+    "filterable":1
+    },
+    {
+      "key":"csp_Ysj",
+      "name":"📮异世界",
+      "type":3,
+      "api":"csp_Ysj",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
+
     {
     "key":"drpy_js_异世界动漫2",
-    "name":"🅰️丨异界丨动漫",
+    "name":"🍓丨异界丨动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/异世界动漫2.js"
     },
     {
     "key":"drpy_js_曲奇动漫",
-    "name":"🅰️丨曲奇丨多解",
+    "name":"🍓丨曲奇丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"https://jihulab.com/mml/lomj/-/raw/main/JS/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
     {
     "key":"drpy_js_萌蛋蛋[V2]",
-    "name":"🅰️丨萌蛋丨多解",
+    "name":"🍓丨萌蛋丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/萌蛋蛋[V2].js"},
+    "ext":"./js/萌蛋蛋[V2].js"
+    },
     {
     "key":"drpy_js_奇米动漫",
-    "name":"🅰️丨奇米丨多解",
+    "name":"🍓丨奇米丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/奇米动漫.js"},
+    "ext":"./js/奇米动漫.js"
+    },
     {
     "key":"drpy_js_动漫岛",
-    "name":"🅰️丨漫岛丨多解",
+    "name":"🍓丨漫岛丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/动漫岛.js"},
+    "ext":"./js/动漫岛.js"
+    },
     {
     "key":"drpy_js_爱弹幕",
-    "name":"🅰️丨弹幕丨多解",
+    "name":"🍓丨弹幕丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/爱弹幕.js"},
+    "ext":"./js/爱弹幕.js"
+    },
     {
     "key":"drpy_js_路漫漫",
-    "name":"🅰️丨漫漫丨多解",
+    "name":"🍓丨漫漫丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/路漫漫.js"},
+    "ext":"./js/路漫漫.js"
+    },
     {
     "key":"csp_Anime1",
-    "name":"🅰️丨樱花丨多解",
+    "name":"🍓丨樱花丨多解",
     "type":3,
     "api":"csp_Anime1",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1},
+    "filterable":1
+    },
     {
     "key":"drpy_js_NT动漫",
-    "name":"🅰️丨ＮＴ丨多解",
+    "name":"🍓丨ＮＴ丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/NT动漫.js"},
+    "ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/nt.js"
+    },
     {
     "key":"csp_xp_dm84",
-    "name":"🅰️丨巴士丨多解",
+    "name":"🍓丨巴士丨多解",
     "type":3,
     "api":"csp_XPathFilter",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"./XP/dm84.json"},
+    "ext":"./XP/dm84.json"
+    },
     {
     "key":"drpy_js_怡萱动漫",
-    "name":"🅰️丨怡萱丨多解",
+    "name":"🍓丨怡萱丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/怡萱动漫.js"},
+    "ext":"./js/怡萱动漫.js"
+    },
     {
     "key":"drpy_js_萌番2",
-    "name":"🅰️丨萌番丨多解",
+    "name":"🍓丨萌番丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/萌番2.js"},
+    "ext":"./js/萌番2.js"
+    },
     {
     "key":"drpy_js_AnFuns",
-    "name":"🅰️丨ＡＮ丨多解",
+    "name":"🍓丨ＡＮ丨多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"./js/AnFuns.js"},
+    "ext":"./js/AnFuns.js"
+    },
     {
     "key":"YiSo",
     "name":"🅰️丨易搜丨搜索",
