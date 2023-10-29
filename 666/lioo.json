@@ -20,18 +20,9 @@
     "quickSearch":1,
     "filterable":0,
     "jar":"https://api.zalman2022.repl.co/YSZYZ.jar",
-    "ext":"http://pzoap.moedot.net/"
+    "ext":"公众号:影视资源站"
     },
-        {
-      "key": "xifan",
-      "name": "动漫|稀饭",
-      "type": 3,
-      "api": "csp_Xifan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "公众号:影视资源站"
-    },
+
     {"key":
     "csp_YGP",
     "name":"🅰️丨预告丨预告",
