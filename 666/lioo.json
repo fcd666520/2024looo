@@ -483,9 +483,9 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/AnFuns.js"
     },
-    {
+  {
     "key":"YiSo",
-    "name":"🅰️丨易搜丨搜索",
+    "name":"🔍丨易搜丨搜索",
     "type":3,
     "api":"csp_YiSo",
     "searchable":1,
@@ -495,7 +495,7 @@
     },
     {
     "key":"Zhaozy",
-    "name":"🅰️丨资源丨搜索",
+    "name":"🔍丨资源丨搜索",
     "type":3,
     "api":"csp_Zhaozy",
     "searchable":1,
@@ -505,7 +505,7 @@
     },
     {
     "key":"PanSou",
-    "name":"🅰️丨盘搜丨搜索",
+    "name":"🔍丨盘搜丨搜索",
     "type":3,
     "api":"csp_PanSou",
     "searchable":1,
@@ -515,7 +515,7 @@
     },
     {
     "key":"UpYun",
-    "name":"🅰️丨Up搜丨搜索",
+    "name":"🔍丨Up搜丨搜索",
     "type":3,
     "api":"csp_UpYun",
     "searchable":1,
@@ -525,7 +525,7 @@
     },
     {
     "key":"PanSearch",
-    "name":"🅰️丨盘Se丨搜索",
+    "name":"🔍丨盘Se丨搜索",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,
@@ -535,7 +535,7 @@
     },
     {
     "key":"七夜",
-    "name":"🅰️丨七夜丨搜索",
+    "name":"🔍丨七夜丨搜索",
     "type":3,
     "api":"csp_Dovx",
     "searchable":1,
@@ -545,7 +545,7 @@
     },
     {
     "key":"小站分享",
-    "name":"🅰️丨小站丨分享",
+    "name":"🔍丨小站丨分享",
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
@@ -555,7 +555,7 @@
     },
     {
     "key":"cps_aliyunpan",
-    "name":"🅰️丨玩偶丨妹妹",
+    "name":"🔍丨玩偶丨妹妹",
     "type":3,
     "api":"csp_XYQHikerAL",
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
@@ -563,7 +563,7 @@
     },
     {
     "key":"狐狸",
-    "name":"🅰️丨盘里丨狐狸",
+    "name":"🔍丨盘里丨狐狸",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -573,7 +573,7 @@
     },
     {
     "key":"csp_饭团",
-    "name":"🅰️丨玩偶丨表妹",
+    "name":"🔍丨玩偶丨表妹",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -583,7 +583,7 @@
     },
     {
     "key":"美眉",
-    "name":"🅰️丨云盘丨妹妹",
+    "name":"🔍丨云盘丨妹妹",
     "api":"csp_AppYsV2",
     "type":3,
     "searchable":1,
@@ -593,7 +593,7 @@
     },
     {
     "key":"小姨",
-    "name":"🅰️丨云盘丨小姨",
+    "name":"🔍丨云盘丨小姨",
     "type":1,
     "searchable":1,
     "quickSearch":1,
@@ -602,7 +602,7 @@
     "categories":["电影","电视剧","综艺","动漫"]},
     {
     "key":"狐狸",
-    "name":"🅰️丨云盘丨狐狸",
+    "name":"🔍丨云盘丨狐狸",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -611,7 +611,7 @@
     "ext":"https://www.kuin.one/api.php/app/"},
     {
     "key":"csp_XYQHikerAL_4KHDR",
-    "name":"🅰️丨云盘丨盘磁",
+    "name":"🔍丨云盘丨盘磁",
     "type":3,
     "api":"csp_XYQHikerAL",
     "playerType":1,
@@ -622,42 +622,36 @@
     "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
     },
     {
-    "key":"js_360",
-    "name":"🅰️丨三六丨解析",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/360.js"
-    },
-    {
     "key":"csp_MGTV",
-    "name":"🅰️丨芒果丨解析",
+    "name":"📽️丨芒果丨解析",
     "type":3,
     "api":"csp_MGTV",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
+    "jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"
+    },
     {
     "key":"js_腾云驾雾2",
-    "name":"🅰️丨腾讯丨解析",
+    "name":"📽️丨腾讯丨解析",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/腾云驾雾2.js"},
     {
     "key":"js_优酷视频",
-    "name":"🅰️丨优酷丨解析",
+    "name":"📽️丨优酷丨解析",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/优酷.js"},
     {
     "key":"drpy_js_菜狗",
-    "name":"🅰️丨搜狗丨解析",
+    "name":"📽️丨搜狗丨解析",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/菜狗.js"},
     {
     "key":"js_爱起艺官",
-    "name":"🅰️丨奇异丨解析",
+    "name":"📽️丨奇异丨解析",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇珍异兽.js"},
@@ -675,7 +669,8 @@
     "api":"csp_XYQHiker",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1,"ext":"./XYQH/电影港磁力.json"},
+    "filterable":1,"ext":"./XYQH/电影港磁力.json"
+    },
     {
     "key":"csp_Mp4Mov",
     "name":"🧲丨Mp4丨电影",
@@ -717,7 +712,8 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/njAEt2/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"},
+    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
+    },
     {
     "key":"csp_MeijuTT",
     "name":"🧲丨美剧丨天堂",
@@ -748,7 +744,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"},
+    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"
+    },
     {
     "key":"my4k",
     "name":"🧲丨磁力丨蚂蚁",
@@ -757,7 +754,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/my4k.json"},
+    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/my4k.json"
+    },
     {
     "key":"bt0",
     "name":"🧲丨磁力丨搜索",
@@ -767,14 +765,16 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"},
+    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
+    },
     {
     "key":"mp4",
     "name":"🧲丨MP4丨磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "playerType":2,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"},
+    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"
+    },
     {
     "key":"csp_XYQHiker_6V磁力",
     "name":"🧲丨旧6V丨磁力",
@@ -784,7 +784,8 @@
     "quickSearch":1,
     "filterable":1,
     "jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
-    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/6v磁力.json"},
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/6v磁力.json"
+    },
     {
     "key":"阿里云集合",
     "name":"🧲丨里云丨集合",
