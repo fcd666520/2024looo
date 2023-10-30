@@ -19,17 +19,6 @@
     "quickSearch":0,
     "filterable":0
     },
-    {
-    "key":"xifan",
-    "name":"🅰️丨动漫丨稀饭",
-    "type":3,
-    "api":"csp_Xifan",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "jar":"https://api.zalman2022.repl.co/YSZYZ.jar",
-    "ext":"公众号:影视资源站"
-    },
     {"key":"csp_YGP",
     "name":"🅰️丨预告丨预告",
     "type":3,
@@ -224,6 +213,17 @@
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/age.js"
+    },
+    {
+    "key":"xifan",
+    "name":"🅰️丨动漫丨稀饭",
+    "type":3,
+    "api":"csp_Xifan",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "jar":"https://api.zalman2022.repl.co/YSZYZ.jar",
+    "ext":"公众号:影视资源站"
     },
     {
     "key":"drpy_js_哔哩影视",
