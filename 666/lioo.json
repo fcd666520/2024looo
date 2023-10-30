@@ -11,15 +11,14 @@
     "api":"./js/聚影搜索.js"
     },
     {
-            "key": "豆豆",
-                          "name":"🅰️丨豆瓣丨推荐",
-                        "type": 3,
-                              "api": "csp_DouDou",
-                                    "searchable": 0,
-                                          "quickSearch": 0,
-                                                "filterable": 0
-                                                    },
-    
+    "key":"豆豆",
+    "name":"🅰️丨豆瓣丨推荐",
+    "type":3,
+    "api":"csp_DouDou",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0
+    },
     {
     "key":"xifan",
     "name":"🅰️丨动漫丨稀饭",
@@ -111,13 +110,13 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-    {
+    /*{
     "key":"drpy_js_豆瓣",
     "name":"🅰️丨豆瓣丨官方",
     "type":3,
     "api":"./lib/douban2.js",
     "ext":"./js/豆瓣.js"
-    },
+    },*/
     {
     "key":"dr_荐片",
     "name":"🅰️丨荐片丨缓存",
@@ -485,24 +484,24 @@
     "ext":"./js/AnFuns.js"
     },
     {
-      "key": "YiSo",
-      "name": "🅰️丨易搜丨搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    "key":"YiSo",
+    "name":"🅰️丨易搜丨搜索",
+    "type":3,
+    "api":"csp_YiSo",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-        {
-      "key": "Zhaozy",
-      "name": "🅰️丨资源丨搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+    {
+    "key":"Zhaozy",
+    "name":"🅰️丨资源丨搜索",
+    "type":3,
+    "api":"csp_Zhaozy",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
     },
     {
     "key":"PanSou",
@@ -514,7 +513,6 @@
     "changeable":0,
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-
     {
     "key":"UpYun",
     "name":"🅰️丨Up搜丨搜索",
@@ -663,7 +661,7 @@
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇珍异兽.js"},
-        {
+    {
     "key":"drpy_js_6V[新版]",
     "name":"🧲丨新6V丨磁力",
     "type":3,
@@ -751,7 +749,6 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"},
-
     {
     "key":"my4k",
     "name":"🧲丨磁力丨蚂蚁",
