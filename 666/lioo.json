@@ -46,14 +46,14 @@
     "changeable":0
     },
     {"key":"t4_wo",
-    "name":"🅰️丨玩偶丨４Ｋ",
-    "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
+    "name":"🅰️丨玩偶丨Ｔ４",
+    "type": 4,
+    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
     },
-    {"key":"csp_WoGG",
+    /*{"key":"csp_WoGG",
     "name":"🅰️丨玩偶丨哥哥",
     "type":3,
     "api":"csp_WoGG",
@@ -62,10 +62,10 @@
     "filterable":1,
     "changeable":0,
     "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
-    },
+    },*/
     {
     "key": "csp_WoGG",
-    "name": "🎈玩偶┃4K(弹幕)",
+    "name": "🅰️丨阿里丨玩偶",
     "type": 3,
     "api": "csp_WoGG",
     "searchable": 1,
