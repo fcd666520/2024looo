@@ -1,12 +1,5 @@
     {"spider":"./JAR/Yoursmile11-10.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "sites":[
-        {
-    "key":"drpy_js_北极狐[V2]",
-    "name":"🅰️北极狐[V2].js",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"https://jihulab.com/love6/gao/-/raw/master/js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js?ref_type=heads"
-    },
     {
     "key":"juying",
     "name":"🅰️丨聚影丨官方",
@@ -97,6 +90,13 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
+    },
+    {
+    "key":"drpy_js_北极狐[V2]",
+    "name":"🅰️丨北极丨狐狸.js",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"https://jihulab.com/love6/gao/-/raw/master/js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js?ref_type=heads"
     },
     {
     "key":"csp_beijihu",
