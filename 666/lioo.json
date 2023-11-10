@@ -144,6 +144,17 @@
     "ext":"https://www.czz9.com/"
     },*/
     {
+    "key":"农民影视",
+    "name":"🅰️丨农民影视丨",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "playerType":"1",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./js/农民影视.js"
+    },
+    {
     "key":"农民影视V2",
     "name":"🅰️丨农民丨影视",
     "type":3,
