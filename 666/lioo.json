@@ -634,24 +634,6 @@
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-    "key":"小站分享",
-    "name":"🔍小站分享",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./XYQHiker/小站分享.json"
-    },
-    {
-    "key":"cps_aliyunpan",
-    "name":"🔍玩偶妹妹",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
-    "ext":"https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
-    },
-    {
     "key":"狐狸",
     "name":"🔍盘里狐狸",
     "type":3,
@@ -661,44 +643,6 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-    {
-    "key":"csp_饭团",
-    "name":"🔍玩偶表妹",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://jihulab.com/ymz1231/json/-/raw/main/%E9%A5%AD%E5%9B%A2.json"
-    },
-    {
-    "key":"美眉",
-    "name":"🔍云盘妹妹",
-    "api":"csp_AppYsV2",
-    "type":3,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
-    },
-    {
-    "key":"小姨",
-    "name":"🔍云盘小姨",
-    "type":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-    "categories":["电影","电视剧","综艺","动漫"]},
-    {
-    "key":"狐狸",
-    "name":"🔍云盘狐狸",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.kuin.one/api.php/app/"},
     {
     "key":"csp_XYQHikerAL_4KHDR",
     "name":"🔍云盘盘磁",
