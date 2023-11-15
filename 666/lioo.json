@@ -612,7 +612,9 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/干饭影视.json"
     },
-     {"key":"阿里云盘网","name":"云盘网Ｋ","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/mml/looo/-/raw/master/666/%E4%BA%91%E7%9B%984k.json"},
+     {"key":"云盘4k",
+     "name":"云盘网Ｋ",
+     "type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/mml/looo/-/raw/master/666/%E4%BA%91%E7%9B%984k.json"},
      {"key":"奈落","name":"🍂奈落２Ｋ","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","播放数组":"<div class=\"scroll-content&&</div>","线路标题":"耐落-+<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#综艺$4#动漫$3"}},
     
      {   "key": "49zy",
