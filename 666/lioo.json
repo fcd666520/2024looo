@@ -12,7 +12,7 @@
     },
     {
     "key":"豆豆",
-    "name":"🅰️豆瓣推荐",
+    "name":"🥬豆瓣推荐",
     "type":3,
     "api":"csp_DouDou",
     "searchable":0,
@@ -83,14 +83,14 @@
     },
     {
     "key":"drpy_js_北极狐[V2]",
-    "name":"🅰️北极狐狸",
+    "name":"🦊北极狐狸",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"https://jihulab.com/love6/gao/-/raw/master/js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js?ref_type=heads"
     }, 
        {
       "key": "csp_appysv2_毛子",
-      "name": "🅰️毛子影视",
+      "name": "🦢毛子影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -100,7 +100,7 @@
     },
         {
       "key": "csp_Nmys",
-      "name": "🅰️农民影视",
+      "name": "🌽农民影视",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -110,7 +110,7 @@
     },
         {
       "key": "js_mogu",
-      "name": "🅰️蘑菇影视",
+      "name": "🍄蘑菇影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -120,7 +120,7 @@
     },
     {
     "key":"csp_beijihu",
-    "name":"🅰️极狐多解",
+    "name":"🦊极狐多解",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -130,7 +130,7 @@
     },
     {
     "key":"dr_荐片",
-    "name":"🅰️荐片缓存",
+    "name":"🦝荐片缓存",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "playerType":"1",
