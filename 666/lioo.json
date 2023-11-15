@@ -120,7 +120,7 @@
     },
     {
     "key":"csp_beijihu",
-    "name":"🦊极狐多解",
+    "name":"🐺极狐多解",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -246,7 +246,7 @@
     },
     {
     "key":"555dy",
-    "name":"🅰️五五多解",
+    "name":"🐮五五多解",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -256,7 +256,7 @@
     },
     {
     "key":"苹果",
-    "name":"🅰️苹果多解",
+    "name":"🍎苹果多解",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -265,14 +265,14 @@
     "ext":"./xBPQ/苹果.json"},
     {
     "key":"apv2_瑞丰",
-    "name":"🅰️瑞丰多解",
+    "name":"🍔瑞丰多解",
     "type":3,
     "api":"csp_AppYsV2",
     "ext":"http://www.miniku.cc/xgapp.php/v2/"
     },
     {
     "key":"csp_yayaya",
-    "name":"🅰️耐菲多解",
+    "name":"🍲耐菲多解",
     "api":"csp_AppYsV2",
     "type":3,
     "filterable":1,
@@ -282,7 +282,7 @@
     },
     {
     "key":"Kuaikan",
-    "name":"🅰️快看多解",
+    "name":"👀快看多解",
     "type":3,
     "api":"csp_Kuaikan",
     "searchable":1,
@@ -291,28 +291,28 @@
     },
     {
     "key":"drpy_js_555影视V2",
-    "name":"🅰️五五多解",
+    "name":"👊五五多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/555影视V2.js"
     },
     {
     "key":"drpy_js_我爱跟剧",
-    "name":"🅰️我爱多解",
+    "name":"🤞我爱多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/我爱跟剧.js"
     },
     {
     "key":"drpy_js_四个圈影视",
-    "name":"🅰️圈儿多解",
+    "name":"🍩圈儿多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/四个圈影视.js"
     },
     {
     "key":"宝仙",
-    "name":"🅰️宝仙多解",
+    "name":"🍨宝仙多解",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -322,14 +322,14 @@
     },
     {
     "key":"js_花猫TV",
-    "name":"🅰️花猫多解",
+    "name":"🐱花猫多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/花猫TV.js"
     },
     {
     "key":"csp_DiDuan",
-    "name":"🅰️低端多解",
+    "name":"✨低端多解",
     "type":3,
     "api":"csp_Ddrk",
     "click":"ddys.tv;#vjsp>button",
@@ -339,35 +339,35 @@
     },
     {
     "key":"drpy_js_快看",
-    "name":"🅰️快看多解",
+    "name":"🧧快看多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/快看.js"
     },
     {
     "key":"drpy_js_新视觉影视",
-    "name":"🅰️视觉多解",
+    "name":"🎋视觉多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/新视觉影视.js"
     },
     {
     "key":"drpy_js_电影先生",
-    "name":"🅰️电影多解",
+    "name":"🔮电影多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/电影先生.js"
     },
     {
     "key":"js_tva云播",
-    "name":"🅰️ＴＶ多解",
+    "name":"⚛️ＴＶ多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/tva云播.js"
     },
     {
     "key":"csp_Cokemv",
-    "name":"🅰️可乐多解",
+    "name":"✡️可乐多解",
     "type":3,
     "api":"csp_Cokemv",
     "searchable":1,
@@ -376,14 +376,14 @@
     },
     {
     "key":"drpy_js_哔嘀影视",
-    "name":"🅰️哔嘀多解",
+    "name":"☯️哔嘀多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/哔嘀影视.js"
     },
     {
     "key":"csp_Ying",
-    "name":"🍓樱花多解",
+    "name":"🌸樱花多解",
     "type":3,
     "api":"csp_Ying",
     "searchable":1,
@@ -392,55 +392,55 @@
     },
     {
     "key":"drpy_js_异世界动漫2",
-    "name":"🍓异界动漫",
+    "name":"🏵️异界动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/异世界动漫2.js"
     },
     {
     "key":"drpy_js_曲奇动漫",
-    "name":"🍓曲奇多解",
+    "name":"🥠曲奇多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"https://jihulab.com/mml/lomj/-/raw/main/JS/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
     {
     "key":"drpy_js_萌蛋蛋[V2]",
-    "name":"🍓萌蛋多解",
+    "name":"🥚萌蛋多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/萌蛋蛋[V2].js"
     },
     {
     "key":"drpy_js_奇米动漫",
-    "name":"🍓奇米多解",
+    "name":"🍿奇米多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇米动漫.js"
     },
     {
     "key":"drpy_js_动漫岛",
-    "name":"🍓漫岛多解",
+    "name":"🏝️漫岛多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/动漫岛.js"
     },
     {
     "key":"drpy_js_爱弹幕",
-    "name":"🍓弹幕多解",
+    "name":"📖弹幕多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/爱弹幕.js"
     },
     {
     "key":"drpy_js_路漫漫",
-    "name":"🍓漫漫多解",
+    "name":"📗漫漫多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/路漫漫.js"
     },
     {
     "key":"csp_Anime1",
-    "name":"🍓樱花多解",
+    "name":"🌺樱花多解",
     "type":3,
     "api":"csp_Anime1",
     "searchable":1,
@@ -456,7 +456,7 @@
     },
     {
     "key":"csp_xp_dm84",
-    "name":"🍓巴士多解",
+    "name":"🚐巴士多解",
     "type":3,
     "api":"csp_XPathFilter",
     "searchable":1,
@@ -466,21 +466,21 @@
     },
     {
     "key":"drpy_js_怡萱动漫",
-    "name":"🍓怡萱多解",
+    "name":"💐怡萱多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/怡萱动漫.js"
     },
     {
     "key":"drpy_js_萌番2",
-    "name":"🍓萌番多解",
+    "name":"🌷萌番多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/萌番2.js"
     },
     {
     "key":"drpy_js_AnFuns",
-    "name":"🍓ＡＮ多解",
+    "name":"🌼ＡＮ多解",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/AnFuns.js"
@@ -778,14 +778,15 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"
     },
     {
-    "key":"my4k",
-    "name":"🧲磁力蚂蚁",
-    "type":3,
-    "api":"csp_XPathAli",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/my4k.json"
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁4K",
+      "type": 3,
+      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
     },
     {
     "key":"bt0",
@@ -799,25 +800,6 @@
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
     },
     {
-    "key":"mp4",
-    "name":"🧲MP4磁力",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "playerType":2,
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/mp4cili.json"
-    },
-    {
-    "key":"csp_XYQHiker_6V磁力",
-    "name":"🧲旧6V磁力",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
-    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/6v磁力.json"
-    },
-    {
     "key":"阿里云集合",
     "name":"🧲里云集合",
     "type":3,
@@ -827,17 +809,8 @@
     "switchable":0,
     "jar":"https://agit.ai/lamdow8/ai/raw/branch/cc/jar/磁力集合.jar",
     "ext":""
-    },
-    {
-    "key":"磁力熊",
-    "name":"🧲熊熊磁力",
-    "type":3,
-    "api":"http://alist.xn--z7x900a.love:63/drpy2.min.js",
-    "ext":"http://alist.xn--z7x900a.love:63/磁力熊.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
     }
+    
     ],
     "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "lives":[{"name":"live","type":0,"url":"https://jihulab.com/mml/yskk/-/raw/master/666/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
