@@ -2,7 +2,7 @@
     "sites":[
     {
     "key":"juying",
-    "name":"[聚影┇官方]",
+    "name":"▄︻┻┳═一聚影官方",
     "type":3,
     "searchable":1,
     "changeable":0,
@@ -12,7 +12,7 @@
     },
     {
     "key":"豆豆",
-    "name":"[豆瓣┇推荐]",
+    "name":"豆瓣推荐",
     "type":3,
     "api":"csp_DouDou",
     "searchable":0,
@@ -21,7 +21,7 @@
     },
     {
     "key":"csp_KungFu404",
-    "name":"阿里┇签到",
+    "name":"阿里签到",
     "type":3,
     "api":"csp_KungFu404",
     "searchable":1,
@@ -31,13 +31,13 @@
     },
     {
     "key":"drpy_js_厂长资源",
-    "name":"🏭厂长资源",
+    "name":"厂长资源",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/厂长资源.js"
     },
     {"key":"csp_YGP",
-    "name":"🧭预告预告",
+    "name":"预告预告",
     "type":3,
     "api":"csp_YGP",
     "searchable":0,
