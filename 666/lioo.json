@@ -2,7 +2,7 @@
     "sites":[
     {
     "key":"juying",
-    "name":"聚影┇官方",
+    "name":"[聚影┇官方]",
     "type":3,
     "searchable":1,
     "changeable":0,
@@ -12,7 +12,7 @@
     },
     {
     "key":"豆豆",
-    "name":"豆瓣┇推荐",
+    "name":"[豆瓣┇推荐]",
     "type":3,
     "api":"csp_DouDou",
     "searchable":0,
