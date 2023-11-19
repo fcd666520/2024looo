@@ -307,7 +307,7 @@
     },
     {
     "key":"drpy_js_新视觉影视",
-    "name":"视觉多解┃影视",
+    "name":"视觉┃影视",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/新视觉影视.js"
@@ -343,8 +343,15 @@
     "ext":"./js/哔嘀影视.js"
     },
     {
-    "key":"141411",
-    "name":"动漫分割线111",
+    "key":"1",
+    "name":"动漫分割线",
+    "type":3,
+    "api":"分割线",
+    "ext":""
+    },
+   {
+    "key":"2",
+    "name":"动漫分割线",
     "type":3,
     "api":"分割线",
     "ext":""
@@ -496,9 +503,16 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/AnFuns.js"
     },
+   {
+    "key":"2",
+    "name":"阿里云分割线",
+    "type":3,
+    "api":"分割线",
+    "ext":""
+    },
        {
-    "key":"2145154",
-    "name":"阿里云分割线2",
+    "key":"3",
+    "name":"阿里云分割线",
     "type":3,
     "api":"分割线",
     "ext":""
@@ -573,8 +587,15 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-       {
-    "key":"",
+   {
+    "key":"5",
+    "name":"官方分割线",
+    "type":3,
+    "api":"分割线",
+    "ext":""
+    },
+   {
+    "key":"6",
     "name":"官方分割线",
     "type":3,
     "api":"分割线",
@@ -618,9 +639,16 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇珍异兽.js"
     },
-       {
-    "key":"",
-    "name":"磁力２Ｋ分割线",
+   {
+    "key":"7",
+    "name":"磁力分割线",
+    "type":3,
+    "api":"分割线",
+    "ext":""
+    },
+   {
+    "key":"8",
+    "name":"磁力分割线",
     "type":3,
     "api":"分割线",
     "ext":""
