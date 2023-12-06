@@ -2,7 +2,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
     
-    {"spider":"./JAR/20231118.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
+    {"spider":"./JAR/20231206.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
     "key":"juying",
@@ -49,7 +49,15 @@
     "filterable":1,
     "changeable":0
     },
-    {"key":"t4_wo",
+    { "key": "玩偶内置", 
+    "name": "👑俊佬玩偶👑", 
+    "type": 4,
+    "playerType":1,  
+    "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cc94f11e4c3e46f79d6a35dde2828fb6"},
+    {
+      "key":"t4_wo",
     "name":"玩偶┃Ｔ４",
     "type":4,
     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
@@ -60,13 +68,14 @@
     {
     "key":"csp_WoGG",
     "name":"阿里┃４Ｋ",
-    "type":3,
-   "api": "csp_WoGG",
-                      "searchable": 1,
-                            "quickSearch": 1,
-                                  "changeable": 0,
-                                        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
-                                            },{
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+{
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
     "type":3,
