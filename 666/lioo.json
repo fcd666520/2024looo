@@ -49,13 +49,6 @@
     "filterable":1,
     "changeable":0
     },
-    { "key": "玩偶内置", 
-    "name": "👑俊佬玩偶👑", 
-    "type": 4,
-    "playerType":1,  
-    "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=cc94f11e4c3e46f79d6a35dde2828fb6"},
     {
       "key":"t4_wo",
     "name":"玩偶┃Ｔ４",
