@@ -12,13 +12,16 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
-        {
-    "key":"drpy_js_荐片",
-    "name":"荐片┃资源",
-    "type":3,
-    "api":"./lib/drpy3.min.js",
-    "ext":"./js/荐片.js"
-    },
+ {
+     "key":"dr_荐片",
+ "name":"🧲荐片",
+ "type":3,
+ "api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+ "playerType":"1",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"},
     {
     "key":"豆豆",
     "name":"豆瓣┃推荐",
