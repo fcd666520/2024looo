@@ -13,11 +13,11 @@
     "api":"./js/聚影搜索.js"
     },
         {
-      "key": "drpy_js_荐片",
-      "name": "荐片 | 影视[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/jianpian.json"
+    "key":"drpy_js_荐片",
+    "name":"荐片┃资源",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/荐片.js"
     },
     {
     "key":"豆豆",
