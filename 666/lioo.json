@@ -12,6 +12,13 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
+        {
+      "key": "drpy_js_荐片",
+      "name": "荐片 | 影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+    },
     {
     "key":"豆豆",
     "name":"豆瓣┃推荐",
