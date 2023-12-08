@@ -112,11 +112,15 @@
     "ext":"https://www.kuin.one/api.php/app/"
     },
     {
-    "key":"drpy_js_荐片",
-    "name":"荐片|影视[js]",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/jianpian.json"
+    "key": "dr_荐片",
+    "name": "荐片丨影视",
+    "type": 3,
+    "api": "https://agit.ai/l/ove/raw/branch/master/js/lib/drpy2.min.js",
+    "playerType": "1",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://agit.ai/l/ove/raw/branch/master/js/荐片.js"
     },
     {
     "key":"csp_Lib",
