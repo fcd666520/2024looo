@@ -1,4 +1,4 @@
-        //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+    //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
     //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
     {"spider":"./JAR/20231206.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
@@ -112,41 +112,11 @@
     "ext":"https://www.kuin.one/api.php/app/"
     },
     {
-    "key":"dr_jianpian",
-    "name":"荐片┃影视",
+    "key":"drpy_js_荐片",
+    "name":"荐片|影视[js]",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "playerType":"1",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/jianpian.json"
-    },
-    {
-    "key":"虎虎",
-    "name":"虎虎┃影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":"http://我不是.肥猫.love:63/json/虎虎.json"
-    },
-    {
-    "key":"爱迪",
-    "name":"爱迪┃影视",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
-    "key":"csp_XPathMacFilter",
-    "name":"独播┃影视",
-    "type":3,
-    "api":"csp_XPathMacFilter",
-    "searchable":1,
-    "changeable":1,
-    "ext":"./XYQ/duboku.json"
     },
     {
     "key":"csp_Lib",
@@ -157,7 +127,7 @@
     "quickSearch":1,
     "filterable":0,
     "playerType":2,
-    "ext":"https://www.libvio.fun/"
+    "ext":"https://www.libvio.app/"
     },
     {
     "key":"csp_Yj1211",
@@ -166,13 +136,7 @@
     "api":"csp_Yj1211",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1},
-    {
-    "key":"直播转点播",
-    "name":"电视┃直播",
-    "type":3,
-    "api":"http://我不是.肥猫.love:63/JS/直播转点播2.js",
-    "ext":"http://我不是.肥猫.love:63/lives/直播仓.json"
+    "filterable":1
     },
     {
     "key":"大米星球",
@@ -211,16 +175,6 @@
     "ext":"http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-    "key":"csp_yayaya",
-    "name":"耐菲┃影视",
-    "api":"csp_AppYsV2",
-    "type":3,
-    "filterable":1,
-    "quickSearch":1,
-    "searchable":1,
-    "ext":"https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
     "key":"Kuaikan",
     "name":"快看┃影视",
     "type":3,
@@ -251,23 +205,6 @@
     "ext":"./js/四个圈影视.js"
     },
     {
-    "key":"宝仙",
-    "name":"宝仙┃影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./XP/宝仙.json"
-    },
-    {
-    "key":"js_花猫TV",
-    "name":"花猫┃影视",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/花猫TV.js"
-    },
-    {
     "key":"csp_DiDuan",
     "name":"低端┃影视",
     "type":3,
@@ -292,13 +229,6 @@
     "ext":"./js/新视觉影视.js"
     },
     {
-    "key":"drpy_js_电影先生",
-    "name":"电影┃影视",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/电影先生.js"
-    },
-    {
     "key":"js_tva云播",
     "name":"ＴＶ┃影视",
     "type":3,
@@ -306,20 +236,11 @@
     "ext":"./js/tva云播.js"
     },
     {
-    "key":"csp_Cokemv",
-    "name":"可乐┃影视",
+    "key":"drpy_js_哔哩影视",
+    "name":"哔哩┃影视[js]",
     "type":3,
-    "api":"csp_Cokemv",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"drpy_js_哔嘀影视",
-    "name":"哔嘀┃影视",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/哔嘀影视.js"
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
     "key":"1",
@@ -388,6 +309,15 @@
     "filterable":1
     },
     {
+    "key":"Ying",
+    "name":"🌸樱花动漫",
+    "type":3,
+    "api":"csp_Ying",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
     "key":"drpy_js_异世界动漫2",
     "name":"异界┃动漫",
     "type":3,
@@ -399,13 +329,7 @@
     "name":"曲奇┃动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"https://jihulab.com/mml/lomj/-/raw/main/JS/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"},
-    {
-    "key":"drpy_js_萌蛋蛋[V2]",
-    "name":"萌蛋┃动漫",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/萌蛋蛋[V2].js"
+    "ext":"https://jihulab.com/mml/lomj/-/raw/main/JS/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"
     },
     {
     "key":"drpy_js_奇米动漫",
