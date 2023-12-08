@@ -1,7 +1,5 @@
-  
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-    
+        //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+    //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
     {"spider":"./JAR/20231206.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
@@ -50,7 +48,7 @@
     "changeable":0
     },
     {
-      "key":"t4_wo",
+    "key":"t4_wo",
     "name":"玩偶┃Ｔ４",
     "type":4,
     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
@@ -61,14 +59,14 @@
     {
     "key":"csp_WoGG",
     "name":"阿里┃４Ｋ",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    "type":3,
+    "api":"csp_WoGG",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-{
+    {
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
     "type":3,
@@ -77,31 +75,11 @@
     "ext":"./XYQHiker/jojo.json"
     },
     {
-    "key":"js_影探",
-    "name":"侦探┃盒子",
-    "type":3,
-    "api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"
-    },
-    {
     "key":"drpy_js_北极狐[V2]",
     "name":"北极┃狐狸",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"https://jihulab.com/love6/gao/-/raw/master/js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js?ref_type=heads"
-    },
-    {
-    "key":"csp_appysv2_毛子",
-    "name":"毛子┃影视",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    "ext":"https://jihulab.com/love6/gao/-/raw/master/js/北极狐[V2].js"
     },
     {
     "key":"csp_Nmys",
@@ -111,7 +89,7 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":1,
-    "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/nmys.json"
     },
     {
     "key":"js_mogu",
@@ -350,7 +328,7 @@
     "api":"分割线",
     "ext":""
     },
-   {
+    {
     "key":"2",
     "name":"❗动漫分割线❗",
     "type":3,
@@ -473,14 +451,14 @@
     "api":"./lib/drpy4.min.js",
     "ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/nt.js"
     },
-     {
-      "key": "csp_Dm84",
-      "name": "巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    {
+    "key":"csp_Dm84",
+    "name":"巴士┃动漫",
+    "type":3,
+    "api":"csp_Dm84",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
     },
     /*{
     "key":"csp_xp_dm84",
@@ -513,14 +491,14 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/AnFuns.js"
     },
-   {
+    {
     "key":"20",
     "name":"❗阿里分割线❗",
     "type":3,
     "api":"分割线",
     "ext":""
     },
-       {
+    {
     "key":"3",
     "name":"❗阿里分割线❗",
     "type":3,
@@ -597,14 +575,14 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-   {
+    {
     "key":"5",
     "name":"❗官方分割线❗",
     "type":3,
     "api":"分割线",
     "ext":""
     },
-   {
+    {
     "key":"6",
     "name":"❗官方分割线❗",
     "type":3,
@@ -649,14 +627,14 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇珍异兽.js"
     },
-   {
+    {
     "key":"7",
     "name":"❗磁力分割线❗",
     "type":3,
     "api":"分割线",
     "ext":""
     },
-   {
+    {
     "key":"8",
     "name":"❗磁力分割线❗",
     "type":3,
@@ -892,7 +870,6 @@
     "filterable":0,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"
     },
-
     {
     "key":"bt0",
     "name":"磁力┃搜索",
