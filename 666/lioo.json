@@ -112,7 +112,7 @@
     "ext":"https://www.kuin.one/api.php/app/"
     },
     {
-    "key":"dr_荐片",
+    "key":"dr_jianpian",
     "name":"荐片┃影视",
     "type":3,
     "api":"./lib/drpy4.min.js",
@@ -120,7 +120,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./js/荐片.js"
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/jianpian.json"
     },
     {
     "key":"虎虎",
