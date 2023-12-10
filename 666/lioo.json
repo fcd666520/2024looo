@@ -12,16 +12,12 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
-    {
-    "key":"dr_荐片",
-    "name":"荐片┃影视",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "playerType":"1",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./js/荐片.js"
+        {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/JP.js"
     },
 
     {
