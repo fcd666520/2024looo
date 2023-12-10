@@ -12,14 +12,20 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
-        {
+    {
       "key": "荐片",
-      "name": "🎬┃荐片┃影视",
+      "name": "荐片┃影视",
       "type": 3,
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/JP.js"
     },
-
+    {
+      "key": "影探",
+      "name": " 影探┃影视",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
     {
     "key":"豆豆",
     "name":"豆瓣┃推荐",
@@ -54,6 +60,34 @@
     "quickSearch":0,
     "filterable":1,
     "changeable":0
+    },
+    // 肥猫
+        {
+      "key": "路人",
+      "name": "画画┃影视",
+      "api": "csp_AppYs",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+        {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "玩偶┃影视",
+      "api": "csp_Panda",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://dt.xn--yety82d.love/玩偶表哥.json"
+    },
+        {
+      "key": "Libvio",
+      "name": "Lib┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
     {
     "key":"t4_wo",
@@ -237,11 +271,54 @@
     "ext":"./js/tva云播.js"
     },
     {
+      "key": "nangua",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
+    {
     "key":"drpy_js_哔哩影视",
-    "name":"哔哩┃影视[js]",
+    "name":"哔哩┃影视",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
+    },
+        {
+    "key":"1+1111",
+    "name":"❗短剧分割线❗",
+    "type":43,
+    "api":"分割11线",
+    "ext":""
+    },
+    {
+    "key":"21542+4",
+    "name":"❗短剧分割线❗",
+    "type":315,
+    "api":"分142割线",
+    "ext":""
+    },
+     {
+      "key": "短剧one",
+      "name": "短剧┃视频",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
+    },
+    {
+      "key": "532短剧",
+      "name": "短剧┃视频",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+    },
+    {
+      "key": "种子短剧",
+      "name": "短剧┃视频",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
     },
     {
     "key":"1",
@@ -595,9 +672,12 @@
     "filterable":1,
     "ext":"https://jihulab.com/wanda/4k/-/raw/main/json/干饭影视.json"
     },
-    {"key":"阿里云盘网","name":"云盘┃２Ｋ","type":3,"jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    {
+      "key":"阿里云盘网","name":"云盘┃２Ｋ","type":3,"jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
     "api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/aliyunpan.json"},
-    {"key":"奈落","name":"奈落２Ｋ","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","播放数组":"<divclass=\"scroll-content&&</div>","线路标题":"耐落-+<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#综艺$4#动漫$3"}},
+    {
+      "key":"奈落","name":"奈落┃２Ｋ","type":3,"api":"csp_XBPQ","ext":{"线路数组":"data-dropdown-value=&&</div>","播放数组":"<divclass=\"scroll-content&&</div>","线路标题":"耐落-+<span>&&</small>[替换:</span><small>>>共]+集","分类url":"https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#综艺$4#动漫$3"}},
+    
     {"key":"49zy",
     "name":"４9Z┃２Ｋ",
     "type":1,
