@@ -1,10 +1,10 @@
     //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
     //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-    {"spider":"./JAR/20231210.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
+    {"spider":"./JAR/20231210.jar;md5;","warningText":"2023年12月12日，请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
     "key":"juying",
-    "name":"聚影┃官方",
+    "name":"聚影┃聚合",
     "type":3,
     "searchable":1,
     "changeable":0,
@@ -285,55 +285,6 @@
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
-        {
-    "key":"1+1111",
-    "name":"❗短剧分割线❗",
-    "type":43,
-    "api":"分割11线",
-    "ext":""
-    },
-    {
-    "key":"21542+4",
-    "name":"❗短剧分割线❗",
-    "type":315,
-    "api":"分142割线",
-    "ext":""
-    },
-     {
-      "key": "短剧one",
-      "name": "短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
-    },
-    {
-      "key": "532短剧",
-      "name": "短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
-    },
-    {
-      "key": "种子短剧",
-      "name": "短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
-    },
-    {
-    "key":"1",
-    "name":"❗动漫分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
-    {
-    "key":"2",
-    "name":"❗动漫分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
     {
     "key":"csp_XYQHiker_蓝猫动漫",
     "name":"蓝猫┃动漫",
@@ -466,20 +417,6 @@
     "ext":"./js/AnFuns.js"
     },
     {
-    "key":"20",
-    "name":"❗阿里分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
-    {
-    "key":"3",
-    "name":"❗阿里分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
-    {
     "key":"YiSo",
     "name":"易搜┃搜索",
     "type":3,
@@ -550,20 +487,6 @@
     "ext":"https://www.kuin.one/api.php/app/"
     },
     {
-    "key":"5",
-    "name":"❗官方分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
-    {
-    "key":"6",
-    "name":"❗官方分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
-    {
     "key":"csp_MGTV",
     "name":"芒果┃解析",
     "type":3,
@@ -600,20 +523,6 @@
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇珍异兽.js"
-    },
-    {
-    "key":"7",
-    "name":"❗磁力分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
-    },
-    {
-    "key":"8",
-    "name":"❗磁力分割线❗",
-    "type":3,
-    "api":"分割线",
-    "ext":""
     },
     {
     "key":"索尼",
