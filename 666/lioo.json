@@ -72,7 +72,7 @@
     },
         {
       "key": "csp_Panda_玩偶哥哥",
-      "name": "玩偶ＩＴ影视",
+      "name": "玩偶ＩＴ表哥",
       "api": "csp_Panda",
       "type": 3,
       "searchable": 1,
@@ -93,12 +93,12 @@
     "key":"t4_wo",
     "name":"玩偶ＩＴＴ４",
     "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=2cd2ab4965114ed5b163f847c702a3ca",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
     },
-    {
+    /*{
     "key":"csp_WoGG",
     "name":"阿里ＩＴ４Ｋ",
     "type":3,
@@ -107,6 +107,16 @@
     "quickSearch":1,
     "changeable":0,
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },*/
+        {
+      "key": "玩偶哥哥",
+      "name": "阿里ＩＴ哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
     "key":"jojo_open",
