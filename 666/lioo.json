@@ -78,7 +78,7 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
-    {
+    /*{
     "key":"t4_wo",
     "name":"玩偶ＩＴＴ４",
     "type":4,
