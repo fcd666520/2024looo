@@ -89,7 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./JAR/fty.jar",
+      "jar": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/JAR/fty.jar",
       "ext": {
         "二次截取": "1&&-1+module-item-cover",
         "数组": "module-item-pic&&module-item-cover",
