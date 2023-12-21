@@ -17,14 +17,16 @@
       "name": "🏬配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+      //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+
       "searchable": 0,
       "changeable": 0,
       "style": {
       "type": "rect",
       "ratio": 1
       },
-      "ext": "./js/配置中心.json"
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
     },
     {
     "key":"荐片",
