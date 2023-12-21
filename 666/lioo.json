@@ -18,7 +18,7 @@
       "type": 3,
       "api": "csp_Config",
       //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+            "jar":"https://jihulab.com/mml/looo/-/raw/5ec6afbcaa7d471e37ad6ed3f6da63b9f30ae005/666/JAR/pg.jar",
 
       "searchable": 0,
       "changeable": 0,
@@ -26,8 +26,8 @@
       "type": "rect",
       "ratio": 1
       },
-      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
-    },
+      //"ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
+    "ext": "/js/配置中心.json"},
     {
     "key":"荐片",
     "name":"荐片┃影视",
