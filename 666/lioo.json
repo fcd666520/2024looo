@@ -13,6 +13,20 @@
     "api":"./js/聚影搜索.js"
     },
     {
+      "key": "配置中心",
+      "name": "🏬配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 1
+      },
+      "ext": "./js/配置中心.json"
+    },
+    {
     "key":"荐片",
     "name":"荐片┃影视",
     "type":3,
