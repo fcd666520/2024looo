@@ -307,7 +307,7 @@
     "name":"ＡＧ┃动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/age.js"
+    "ext":"./js/AGE.js"
     },
     {
     "key":"xifan",
