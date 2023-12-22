@@ -16,6 +16,7 @@
     "key":"drpy_js_Alist",
     "name":"网盘 | Alist[js]",
     "type":3,
+    "jar":"https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E9%A5%AD%E5%A4%AA%E7%A1%AC.top%2Ftv",
     "api":"./lib/drpy4.min.js",
     "changeable":0,
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/alist.json"
