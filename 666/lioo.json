@@ -3,23 +3,6 @@
     {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;","warningText":"2023年请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
-      "key": "AList",
-      "name": "❤AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "drives": [
-          {
-            "name": "AV",
-            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
-          }
-        ]
-      },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"
-    },
-    {
     "key":"juying",
     "name":"聚影┃聚合",
     "type":3,
@@ -28,6 +11,14 @@
     "quickSearch":0,
     "filterable":1,
     "api":"./js/聚影搜索.js"
+    },
+    {
+    "key":"js_Alist",
+    "name":"网盘 | Alist[js]",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "changeable":0,
+    "ext":"./js/alist.json"
     },
     //宝盒
     {
