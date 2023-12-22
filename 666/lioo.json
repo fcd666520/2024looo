@@ -12,6 +12,15 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
+        {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"
+    },
     //宝盒
     {
     "key":"csp_SP33",
