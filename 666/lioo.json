@@ -13,7 +13,7 @@
     "api":"./js/聚影搜索.js"
     },
     {
-    "key":"Alist",
+    "key":"js_alist",
     "name":"网盘 | Alist[js]",
     "type":3,
     "jar":"https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E9%A5%AD%E5%A4%AA%E7%A1%AC.top%2Ftv",
