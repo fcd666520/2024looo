@@ -13,13 +13,13 @@
     "api":"./js/聚影搜索.js"
     },
     {
-    "key":"js_alist",
+    "key":"drpy_js_Alist",
     "name":"网盘 | Alist[js]",
     "type":3,
     "jar":"./JAR/fan.txt",
     "api":"./lib/drpy4.min.js",
     "changeable":0,
-    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/alist.json"
+    "ext":"./js/alist.json"
     },
     //宝盒
     {
