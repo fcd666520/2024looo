@@ -13,6 +13,17 @@
     "api":"./js/聚影搜索.js"
     },
     {
+    "key":"csp_SP33",
+    "name":"三三┃解析",
+    "type":3,
+    "jar":"./JAR/vip.jar",
+    "api":"csp_SP33",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0
+    },
+    {
     "key":"Qtv",
     "name":"腾讯┃解析",
     "type":3,
