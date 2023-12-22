@@ -12,15 +12,6 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
-        {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"
-    },
     //宝盒
     {
     "key":"csp_SP33",
@@ -63,6 +54,20 @@
     "quickSearch":1,
     "filterable":1,
     "changeable":0
+    },
+    {
+    "key":"js_优酷视频",
+    "name":"优酷┃解析",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/优酷.js"
+    },
+    {
+    "key":"drpy_js_菜狗",
+    "name":"搜狗┃解析",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/菜狗.js"
     },
     {
     "key":"配置中心",
@@ -552,7 +557,7 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-    {
+    /*{
     "key":"csp_MGTV",
     "name":"芒果┃解析",
     "type":3,
@@ -568,28 +573,14 @@
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/腾云驾雾2.js"
-    },
-    {
-    "key":"js_优酷视频",
-    "name":"优酷┃解析",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/优酷.js"
-    },
-    {
-    "key":"drpy_js_菜狗",
-    "name":"搜狗┃解析",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/菜狗.js"
-    },
-    {
+    },*/
+   /* {
     "key":"js_爱起艺官",
     "name":"奇异┃解析",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/奇珍异兽.js"
-    },
+    },*/
     {
     "key":"索尼",
     "name":"索尼┃２Ｋ",
