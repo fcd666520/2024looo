@@ -12,63 +12,6 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
-    //宝盒
-    {
-    "key":"csp_SP33",
-    "name":"三三┃解析",
-    "type":3,
-    "jar":"./JAR/vip.jar",
-    "api":"csp_SP33",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":0
-    },
-    {
-    "key":"Qtv",
-    "name":"腾讯┃解析",
-    "type":3,
-    "jar":"./JAR/vip.jar",
-    "api":"csp_Qtv",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":0
-    },
-    {"key":"Itv",
-    "name":"爱奇┃解析",
-    "type":3,
-    "jar":"./JAR/vip.jar",
-    "api":"csp_Itv",
-    "quickSearch":1,
-    "searchable":1,
-    "filterable":1,
-    "changeable":0
-    },
-    {"key":"Mtv",
-    "name":"芒果┃解析",
-    "type":3,
-    "jar":"./JAR/vip.jar",
-    "api":"csp_Mtv",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":0
-    },
-    {
-    "key":"js_优酷视频",
-    "name":"优酷┃解析",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/优酷.js"
-    },
-    {
-    "key":"drpy_js_菜狗",
-    "name":"搜狗┃解析",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/菜狗.js"
-    },
     {
     "key":"配置中心",
     "name":"配置┃网盘",
@@ -929,6 +872,63 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
+    },
+    //宝盒
+    {
+    "key":"csp_SP33",
+    "name":"三三┃解析",
+    "type":3,
+    "jar":"./JAR/vip.jar",
+    "api":"csp_SP33",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0
+    },
+    {
+    "key":"Qtv",
+    "name":"腾讯┃解析",
+    "type":3,
+    "jar":"./JAR/vip.jar",
+    "api":"csp_Qtv",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0
+    },
+    {"key":"Itv",
+    "name":"爱奇┃解析",
+    "type":3,
+    "jar":"./JAR/vip.jar",
+    "api":"csp_Itv",
+    "quickSearch":1,
+    "searchable":1,
+    "filterable":1,
+    "changeable":0
+    },
+    {"key":"Mtv",
+    "name":"芒果┃解析",
+    "type":3,
+    "jar":"./JAR/vip.jar",
+    "api":"csp_Mtv",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0
+    },
+    {
+    "key":"js_优酷视频",
+    "name":"优酷┃解析",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/优酷.js"
+    },
+    {
+    "key":"drpy_js_菜狗",
+    "name":"搜狗┃解析",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/菜狗.js"
     },
     {"key":"玩偶弹幕","name":"弹幕┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"https://agit.ai/xiaowei233333/api/raw/branch/main/DM/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json","token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"https://agit.ai/xiaowei233333/api/raw/branch/main/danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
     {"key":"搜索弹幕","name":"弹幕┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"https://agit.ai/xiaowei233333/api/raw/branch/main/danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
