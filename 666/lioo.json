@@ -26,7 +26,15 @@
     "ratio":1
     },
     //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
-    "ext":"/js/配置中心.json"},
+    "ext":"/js/配置中心.json"
+    },
+   {
+    "key":"drpy_js_新视觉影视",
+    "name":"视觉┃影视",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/新视觉影视.js"
+    },
     {
     "key":"荐片",
     "name":"荐片┃影视",
@@ -269,13 +277,6 @@
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/快看.js"
-    },
-    {
-    "key":"drpy_js_新视觉影视",
-    "name":"视觉┃影视",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/新视觉影视.js"
     },
     {
     "key":"js_tva云播",
