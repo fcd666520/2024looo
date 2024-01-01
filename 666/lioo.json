@@ -167,7 +167,7 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-    {
+    /*{
     "key":"csp_Lib",
     "name":"利奥┃影视",
     "type":3,
@@ -177,12 +177,13 @@
     "filterable":0,
     "playerType":2,
     "ext":"https://www.libvio.vip/"
-    },
-    {
+    },*/
+    {//肥猫
     "key":"Libvio",
-    "name":"Lib┃影视",
+    "name":"利奥┃影视",
     "type":3,
     "playerType":"1",
+    "jar":"https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live;md5;",
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
     "ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
