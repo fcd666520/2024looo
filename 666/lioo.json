@@ -94,6 +94,13 @@
     "ext":"http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
+    "key":"drpy_js_里欧",
+    "name":"里欧┃资源",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/里欧.js"
+    },
+    {
     "key":"Libvio",
     "name":"Lib┃影视",
     "type":3,
