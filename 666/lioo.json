@@ -93,21 +93,6 @@
     "playerType":"2",
     "ext":"http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
-    {
-    "key":"drpy_js_里欧",
-    "name":"里欧┃资源",
-    "type":3,
-    "api":"./lib/drpy4.min.js",
-    "ext":"./js/里欧.js"
-    },
-    {
-    "key":"Libvio",
-    "name":"Lib┃影视",
-    "type":3,
-    "playerType":"1",
-    "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
-    },
     /*{
     "key":"t4_wo",
     "name":"玩偶┃Ｔ４",
@@ -191,7 +176,15 @@
     "quickSearch":1,
     "filterable":0,
     "playerType":2,
-    "ext":"https://www.libvio.app/"
+    "ext":"https://www.libvio.vip/"
+    },
+    {
+    "key":"Libvio",
+    "name":"Lib┃影视",
+    "type":3,
+    "playerType":"1",
+    "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+    "ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
     {
     "key":"csp_Yj1211",
