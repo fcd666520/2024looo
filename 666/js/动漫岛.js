@@ -1,4 +1,4 @@
-var rule = {
+var rule = {//https://rentry.org/dmd8
     title:'动漫岛',
     // host:'http://www.dmd85.com',
     host:'http://www.dmand5.com/',
