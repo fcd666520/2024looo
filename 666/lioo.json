@@ -176,7 +176,7 @@
     "changeable":1,
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/nmys.json"
     },
-    {
+    /*{
     "key":"js_mogu",
     "name":"蘑菇┃影视",
     "type":3,
@@ -185,7 +185,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://agit.ai/leevi/duo/raw/branch/master/libs/蘑菇.json"
-    },
+    },*/
     {
     "key":"csp_beijihu",
     "name":"极狐┃影视",
@@ -254,13 +254,13 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"./xBPQ/苹果.json"},
-    {
+    /*{
     "key":"apv2_瑞丰",
     "name":"瑞丰┃影视",
     "type":3,
     "api":"csp_AppYsV2",
     "ext":"http://www.miniku.cc/xgapp.php/v2/"
-    },
+    },*/
     {
     "key":"Kuaikan",
     "name":"快看┃影视",
@@ -355,7 +355,7 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/AGE.js"
     },
-    {
+   /* {
     "key":"xifan",
     "name":"稀饭┃动漫",
     "type":3,
@@ -365,7 +365,7 @@
     "filterable":0,
     "jar":"https://api.zalman2022.repl.co/YSZYZ.jar",
     "ext":"公众号:影视资源站"
-    },
+    },*/
     {
     "key":"drpy_js_哔哩影视",
     "name":"Ｂ站┃动漫",
@@ -385,7 +385,7 @@
     "name":"曲奇┃动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"https://jihulab.com/mml/lomj/-/raw/main/JS/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"
+    "ext":"./js/曲奇动漫.js"
     },
     {
     "key":"drpy_js_奇米动漫",
