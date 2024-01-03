@@ -447,13 +447,13 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/怡萱动漫.js"
     },
-    {
+    /*{
     "key":"drpy_js_萌番2",
     "name":"萌番┃动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
     "ext":"./js/萌番2.js"
-    },
+    },*/
     {
     "key":"drpy_js_AnFuns",
     "name":"ＡＮ┃动漫",
