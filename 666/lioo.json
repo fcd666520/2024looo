@@ -32,7 +32,17 @@
       "filterable":1,
       "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
       },
-
+      //猫影视
+    {
+      "key": "meowtv_jpyy",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.meowtv.cn/js/荐片影视.js"
+    },
     /*{
     "key":"玩偶哥哥",
     "name":"阿里┃哥哥",
