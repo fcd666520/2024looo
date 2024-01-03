@@ -1,4 +1,4 @@
-// 搜索数字验证
+// 搜索数字验证http://fabu.timiys.vip/
 muban.mxone5.二级.desc = '.video-info-items:eq(3)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule={
     title:'我爱跟剧',
