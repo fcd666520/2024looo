@@ -13,6 +13,26 @@
     "api":"./js/聚影搜索.js"
     },
     {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣┃肥猫",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
+    },
+    {
+    "key":"玩偶哥哥",
+    "name":"阿里┃哥哥",
+    "type":3,
+    "api":"csp_WoGG",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+    {
     "key":"配置中心",
     "name":"配置┃网盘",
     "type":3,
@@ -120,16 +140,6 @@
     "changeable":0,
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },*/
-    {
-    "key":"玩偶哥哥",
-    "name":"阿里┃哥哥",
-    "type":3,
-    "api":"csp_WoGG",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
     {
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
@@ -960,7 +970,7 @@
     {"key":"哔嘀影视","name":"磁力┃哔嘀影视","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/哔嘀影视.json"},
     {"key":"酷吧电影","name":"磁力┃酷吧电影","jar":"./JAR/spider.jar","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"美剧天堂","name":"磁力┃美剧天堂","jar":"./JAR/spider.jar","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"玩偶哥哥","name":"云盘┃玩偶","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"},
+    //{"key":"玩偶哥哥","name":"云盘┃玩偶","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"},
     {"key":"云盘搜索","name":"云盘┃搜索","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘搜索.json"},
     {"key":"Upyunso","name":"云盘┃云搜","jar":"./JAR/spider.jar","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"AliPS","name":"云盘┃盘搜","jar":"./JAR/spider.jar","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
