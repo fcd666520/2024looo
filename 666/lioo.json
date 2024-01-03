@@ -93,7 +93,7 @@
     "changeable":0
     },
     //肥猫
-    {
+   /* {
     "key":"路人",
     "name":"画画┃影视",
     "api":"csp_AppYs",
