@@ -292,7 +292,8 @@
     "playerType":"1",
     "jar":"https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live;md5;",
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/libvio.js"
+        //"ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
     {
     "key":"csp_Yj1211",
@@ -399,7 +400,9 @@
     "type":3,
     "playerType":"2",
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.space/download/6296/js/南瓜.js"
+    //"ext":"https://d.kstore.space/download/6296/js/南瓜.js"
+        "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%8d%97%e7%93%9c%e5%bd%b1%e8%a7%86.js"
+
     },
     {
     "key":"drpy_js_哔哩影视",
