@@ -1,6 +1,6 @@
-var rule={
+var rule={//https://www.cz01.vip/
     title:'厂长资源',
-    host:'https://www.czzy33.com/',
+    host:'https://www.czzy66.com/',
     //host:'https://czzy01.com/',
     url:'/fyclass/page/fypage',
     // searchUrl:'/xssearch?q=**&f=_all&p=fypage',
