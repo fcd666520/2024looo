@@ -32,7 +32,7 @@
       "filterable":1,
       "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
       },
-{
+    {
       "jar": "./JAR/danmu.jar",
       "key": "csp_OK荐片",
       "name": "荐片┃无弹",
@@ -58,17 +58,6 @@
         "danmu": true
       }
     },
-     {
-            "key": "js_荐片",
-            "name": "荐片js",
-            "type": 3,
-            "api": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lib/apiv15drpy2.min.js",
-            "ext": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e8%8d%90%e7%89%872024.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
       //猫影视
    /* {
       "key": "meowtv_jpyy",
