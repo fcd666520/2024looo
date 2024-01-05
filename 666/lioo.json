@@ -32,6 +32,43 @@
       "filterable":1,
       "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
       },
+{
+      "jar": "./JAR/danmu.jar",
+      "key": "csp_OK荐片",
+      "name": "🎯荐片|无弹幕",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": false
+      }
+    },
+    {
+      "jar": "./JAR/danmu.jar",
+      "key": "ok荐片弹幕版",
+      "name": "🎯荐片弹幕版",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+     {
+            "key": "js_荐片",
+            "name": "🎬荐片js",
+            "type": 3,
+            "api": "./lib/apiv15drpy2.min.js",
+            "ext": "./js/荐片2024.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
       //猫影视
     {
       "key": "meowtv_jpyy",
