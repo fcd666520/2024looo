@@ -162,7 +162,8 @@
     "name":"影探┃影视",
     "type":3,
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.space/download/6296/js/yt.js"
+    //"ext":"https://d.kstore.space/download/6296/js/yt.js"
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%bd%b1%e6%8e%a2%e5%bd%b1%e8%a7%86.js"
     },
     {
     "key":"豆豆",
