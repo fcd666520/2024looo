@@ -142,13 +142,13 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/新视觉影视.js"
     },
-    {
+   /* {
     "key":"荐片",
     "name":"荐片┃影视",
     "api":"csp_Jianpian",
     "type":3,
     "playerType":"2",
-    "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;6e4947ff8d80fcefa8ee4bdca74323e8"
+    "jar":"http://like..xn--z7x900a.live:66/jar/fatcat.jar;md5;6e4947ff8d80fcefa8ee4bdca74323e8"
     },
     /*{
     "key":"荐片",
