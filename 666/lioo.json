@@ -13,61 +13,92 @@
     "api":"./js/聚影搜索.js"
     },
     {
-      "key": "drpy_js_豆瓣",
-      "name": "豆瓣┃肥猫",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
+    "key":"drpy_js_豆瓣",
+    "name":"豆瓣┃肥猫",
+    "type":3,
+    "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":0,
+    "changeable":0,
+    "ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"
     },
     {
-      "key":"玩偶哥哥",
-      "name":"云盘┃玩偶",
-      "jar":"./JAR/spider.jar",
-      "type":3,"api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
-      },
-    {
-      "jar": "./JAR/danmu.jar",
-      "key": "csp_OK荐片",
-      "name": "荐片┃无弹",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": false
-      }
+    "key":"玩偶哥哥",
+    "name":"云盘┃玩偶",
+    "jar":"./JAR/spider.jar",
+    "type":3,"api":"csp_XYQHikerAL",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
     },
     {
-      "jar": "./JAR/danmu.jar",
-      "key": "ok荐片弹幕版",
-      "name": "荐片┃弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+    "key":"csp_OK荐片",
+    "name":"荐片┃无弹",
+    "type":3,
+    "jar":"./JAR/danmu.jar",
+    "api":"csp_Jianpian",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":false
+    }
     },
-      //猫影视
-   /* {
-      "key": "meowtv_jpyy",
-      "name": "荐片┃影视",
-      "type": 3,
-      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://cdn.meowtv.cn/js/荐片影视.js"
+    {
+    "key":"ok荐片弹幕版",
+    "name":"荐片┃弹幕",
+    "type":3,
+    "jar":"./JAR/danmu.jar",
+    "api":"csp_Jianpian",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    }
+    },
+    {
+    "key":"996",
+    "name":"蓝色┃秒播",
+    "type":3,
+    "filterable":1,
+    "api":"csp_XBPQ",
+    "ext":{
+    "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+    "筛选":"1"
+    }
+    },
+    {
+    "key":"Freeok",
+    "name":"Freeok┃影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "playerType":"1",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
+    "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+    "分类值":"1&2&3&4&12&5",
+    "播放请求头":"User-Agent$Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/118.0.0.0Safari/537.36",
+    "副标题":"<divclass=\"module-item-note\">&&</div>",
+    "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+    "线路标题":"<span>&&</small>",
+    "导演":"导演：&&</div>",
+    "主演":"主演：&&</div>",
+    "简介":"<p>&&</p>"}},
+    //猫影视
+    /*{
+    "key":"meowtv_jpyy",
+    "name":"荐片┃影视",
+    "type":3,
+    "api":"http://cdn.meowtv.cn/js/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "ext":"http://cdn.meowtv.cn/js/荐片影视.js"
     },
     /*{
     "key":"玩偶哥哥",
@@ -95,7 +126,7 @@
     //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
     "ext":"/js/配置中心.json"
     },
-   {
+    {
     "key":"drpy_js_新视觉影视",
     "name":"视觉┃影视",
     "type":3,
@@ -103,12 +134,12 @@
     "ext":"./js/新视觉影视.js"
     },
     {
-      "key": "荐片",
-      "name": "荐片┃影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;6e4947ff8d80fcefa8ee4bdca74323e8"
+    "key":"荐片",
+    "name":"荐片┃影视",
+    "api":"csp_Jianpian",
+    "type":3,
+    "playerType":"2",
+    "jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;6e4947ff8d80fcefa8ee4bdca74323e8"
     },
     /*{
     "key":"荐片",
@@ -160,7 +191,7 @@
     "changeable":0
     },
     //肥猫
-   /* {
+    /*{
     "key":"路人",
     "name":"画画┃影视",
     "api":"csp_AppYs",
@@ -391,7 +422,7 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/AGE.js"
     },
-   /* {
+    /*{
     "key":"xifan",
     "name":"稀饭┃动漫",
     "type":3,
@@ -567,7 +598,7 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
-       //宝盒
+    //宝盒
     {
     "key":"csp_SP33",
     "name":"三三┃解析",
@@ -641,7 +672,7 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/腾云驾雾2.js"
     },*/
-   /* {
+    /*{
     "key":"js_爱起艺官",
     "name":"奇异┃解析",
     "type":3,
@@ -997,7 +1028,6 @@
     "filterable":0,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
     },
- 
     {"key":"玩偶弹幕","name":"弹幕┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"https://agit.ai/xiaowei233333/api/raw/branch/main/DM/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json","token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"搜索弹幕","name":"弹幕┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"Upys","name":"弹幕┃云云","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
