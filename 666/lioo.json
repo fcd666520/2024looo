@@ -108,8 +108,8 @@
     "quickSearch":1,
     "changeable":1,
     "ext":"http://cdn.meowtv.cn/js/荐片影视.js"
-    },
-    /*{
+    },*/
+    {
     "key":"玩偶哥哥",
     "name":"阿里┃哥哥",
     "type":3,
