@@ -414,8 +414,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar",
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/XYQH/%E8%93%9D%E7%8C%AB%E5%8A%A8%E6%BC%AB.json"
+    "jar":"./JAR/XYQ.jar",
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/XYQH/%e8%93%9d%e7%8c%ab%e5%8a%a8%e6%bc%ab.json"
     },
     {
     "key":"drpy_js_58动漫",
