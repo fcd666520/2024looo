@@ -87,10 +87,11 @@
     "playerType":"1",
     "searchable":1,
     "quickSearch":1,
+    "筛选地区名称": "日本&大陆&美国&其它||大陆&日本&美国&其它||大陆&日本&美国&其它||大陆&日本&美国&其它||大陆&日韩&欧美&港台&泰国&印度&其它",
+
     "filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
     "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
     "分类值":"1&2&3&4&12&5",
-    "筛选地区名称": "日本&大陆&美国&其它||大陆&日本&美国&其它||大陆&日本&美国&其它||大陆&日本&美国&其它||大陆&日韩&欧美&港台&泰国&印度&其它",
     "播放请求头":"User-Agent$Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/118.0.0.0Safari/537.36",
     "副标题":"<divclass=\"module-item-note\">&&</div>",
     "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
