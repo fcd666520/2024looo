@@ -42,47 +42,7 @@
             "quickSearch": 1,
             "filterable": 1
         },	
-    {
-    "key":"csp_OK荐片",
-    "name":"荐片┃无弹",
-    "type":3,
-    "jar":"./JAR/danmu.jar",
-    "api":"csp_Jianpian",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "danmu":false
-    }
-    },
-    {
-    "key":"ok荐片弹幕版",
-    "name":"荐片┃弹幕",
-    "type":3,
-    "jar":"./JAR/danmu.jar",
-    "api":"csp_Jianpian",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "danmu":true
-    }
-    },
-   {
-    "key":"荐片",
-    "name":"荐片┃影视",
-    "api":"csp_Jianpian",
-    "type":3,
-    "playerType":"2",
-    "jar":"http://like..xn--z7x900a.live:66/jar/fatcat.jar;md5;6e4947ff8d80fcefa8ee4bdca74323e8"
-    },
-    {
-    "key":"荐片",
-    "name":"",
-    "type":3,
-    "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.space/download/6296/js/JP.js"
-    },
+
     {
     "key":"996",
     "name":"蓝色┃秒播",
