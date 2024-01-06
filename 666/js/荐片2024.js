@@ -3,7 +3,7 @@ var rule = {
     host:'http://api2.rinhome.com',
     homeUrl:'https://yjpapipxblwdohpakljwg.hxhzs.com/api/tag/hand?code=unknown601193cf375db73d&channel=wandoujia',//网站的首页链接,用于分类获取和推荐获取
 	url:'/api/crumb/list?area=0&category_id=fyclass&page=fypage&type=0&limit=24&fyfilter',
-    class_name:'电影&电视剧&动漫&综艺&全部',
+    class_name:'全部&电视剧&动漫&电影&综艺',
     class_url:'1&2&3&4&0',
     detailUrl:'/api/node/detail?channel=wandoujia&token=&id=fyid',//二级详情拼接链接(json格式用)
     searchUrl:'/api/video/search?key=**&page=fypage',
