@@ -42,7 +42,7 @@
             "api": "https://tvkj.top/DC/tvys/api/drpy2.min.js",
             "ext": "https://tvkj.top/DC/tvys/js/jp.js"
         },
-     {
+     /*{
             "key": "js_荐片",
             "name": "荐片┃影视",
             "type": 3,
@@ -52,7 +52,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },	
+        },	*/
 
     {
     "key":"996",
