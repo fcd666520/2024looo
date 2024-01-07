@@ -31,6 +31,17 @@
     "filterable":1,
     "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
     },
+        {
+            "key": "贱贱",
+            "name": "荐片┃秒播",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://tvkj.top/DC/tvys/api/drpy2.min.js",
+            "ext": "https://tvkj.top/DC/tvys/js/jp.js"
+        },
      {
             "key": "js_荐片",
             "name": "荐片┃影视",
