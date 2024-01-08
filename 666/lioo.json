@@ -2,26 +2,6 @@
     //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
     {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;","warningText":"2023年请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
-{"key":"芒果","name":"芒果┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/芒果.js"},
-{"key":"爱奇异","name":"奇异┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱奇艺.js"},
-{"key":"优酷","name":"优酷┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
-    {
-      "key": "腾讯",
-      "name": "腾讯┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾讯.js"
-    },
-        {
-            "key": "csp_SP33",
-            "name": "三三┃影视",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
     {
     "key":"juying",
     "name":"聚影┃聚合",
@@ -33,13 +13,13 @@
     "api":"./js/聚影搜索.js"
     },
     {
-    "key": "豆豆",
-    "name": "豆瓣┃推荐",
-    "type": 3,
-    "api": "csp_DouDou",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
+    "key":"豆豆",
+    "name":"豆瓣┃推荐",
+    "type":3,
+    "api":"csp_DouDou",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0
     },
     {
     "key":"玩偶哥哥",
@@ -51,29 +31,28 @@
     "filterable":1,
     "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
     },
-        {
-            "key": "贱贱",
-            "name": "荐片┃秒播",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "https://tvkj.top/DC/tvys/api/drpy2.min.js",
-            "ext": "https://tvkj.top/DC/tvys/js/jp.js"
-        },
-     /*{
-            "key": "js_荐片",
-            "name": "荐片┃影视",
-            "type": 3,
-            "api": "./lib/apiv15drpy2.min.js",
-            "ext": "./js/荐片2024.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	*/
-
+    {
+    "key":"贱贱",
+    "name":"荐片┃秒播",
+    "type":3,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "playerType":"1",
+    "api":"https://tvkj.top/DC/tvys/api/drpy2.min.js",
+    "ext":"https://tvkj.top/DC/tvys/js/jp.js"
+    },
+    /*{
+    "key":"js_荐片",
+    "name":"荐片┃影视",
+    "type":3,
+    "api":"./lib/apiv15drpy2.min.js",
+    "ext":"./js/荐片2024.js",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },*/
     {
     "key":"996",
     "name":"蓝色┃秒播",
@@ -222,7 +201,7 @@
     "name":"北极┃狐狸",
     "type":3,
     "api":"./lib/drpy4.min.js",
-   // "ext":"https://jihulab.com/love6/gao/-/raw/master/js/北极狐[V2].js"
+    //"ext":"https://jihulab.com/love6/gao/-/raw/master/js/北极狐[V2].js"
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%8c%97%e6%9e%81%e7%8b%90.js"
     },
     {
@@ -274,7 +253,7 @@
     "jar":"https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live;md5;",
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/libvio.js"
-        //"ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
+    //"ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
     {
     "key":"csp_Yj1211",
@@ -382,8 +361,7 @@
     "playerType":"2",
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
     //"ext":"https://d.kstore.space/download/6296/js/南瓜.js"
-        "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%8d%97%e7%93%9c%e5%bd%b1%e8%a7%86.js"
-
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%8d%97%e7%93%9c%e5%bd%b1%e8%a7%86.js"
     },
     {
     "key":"drpy_js_哔哩影视",
@@ -593,8 +571,46 @@
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/"
     },
+    {
+    "key":"芒果",
+    "name":"芒果┃影视",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/芒果.js"
+    },
+    {
+    "key":"爱奇异",
+    "name":"奇异┃影视",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/爱奇艺.js"
+    },
+    {
+    "key":"优酷",
+    "name":"优酷┃影视",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/优酷.js"
+    },
+    {
+    "key":"腾讯",
+    "name":"腾讯┃影视",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/腾讯.js"
+    },
+    {
+    "key":"csp_SP33",
+    "name":"三三┃影视",
+    "type":3,
+    "api":"csp_SP33",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":0
+    },
     //宝盒
-   /* {
+    /*{
     "key":"csp_SP33",
     "name":"三三┃解析",
     "type":3,
