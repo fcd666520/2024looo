@@ -374,6 +374,14 @@
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
+          {
+            "key": "妮可动漫",
+            "name": "妮可动漫",
+            "type": 3,
+            "api": "./js/drpy.min.js",
+            "ext": "./js/妮可动漫.js"
+        },
+        {
     {
     "key":"csp_XYQHiker_蓝猫动漫",
     "name":"蓝猫┃动漫",
