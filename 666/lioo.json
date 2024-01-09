@@ -375,10 +375,10 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
           {
-            "key": "妮可动漫",
-            "name": "妮可动漫",
+            "key": "drpy_js_妮可动漫",
+            "name": "妮可┃动漫",
             "type": 3,
-            "api": "./js/drpy.min.js",
+            "api": "./lib/drpy4.min.js",
             "ext": "./js/妮可动漫.js"
         },
     {
