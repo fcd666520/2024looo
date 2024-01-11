@@ -1,0 +1,38 @@
+//https://magical-app.oss-cn-guangzhou.aliyuncs.com/groups_videos.ini
+[
+  {
+    "name": "奇谈君",
+    "des": "关注官方公众号，加入奇妙大家庭！",
+    "type": "wechat",
+    "url": "奇谈君",
+    "icon": "https://p0.meituan.net/csc/cfbce0d6bbe22a70685d2649890250254035.png"
+  },
+  {
+    "name": "QQ频道",
+    "des": "频道有好多小伙伴哦，快来吧！",
+    "type": "qq",
+    "url": "https://pd.qq.com/s/7yql0ysxx",
+    "icon": "https://p0.meituan.net/csc/1c1f5385667a21a668577c0a86948df412890.png"
+  },
+    {
+    "name": "QQ群",
+    "des": "群里有好多活跃的大佬",
+    "type": "qq",
+    "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=e5NH72PSg_zBQd6BFEkq_51_BIhGm4zO&authKey=Nt2wvRJvZKSpK5pMm8yvlZ1l4Awoi9IKfu%2FjZp8e4haYTGaOPvMoySl1DV83bZOq&noverify=0&group_code=859371591",
+    "icon": "https://p0.meituan.net/csc/8baf576a22c36a2bb741357bfaaa1d7b14177.png"
+  },
+   {
+    "name": "Telegram频道",
+    "des": "分享好玩的应用",
+    "type": "telegram",
+    "url": "https://t.me/+VufX3V0ADEczZDM1",
+    "icon": "https://p0.meituan.net/csc/b51a17488b2681b6cc9dc4e6a30c192c4667.png"
+  },
+  {
+    "name": "哔哩哔哩",
+    "des": "经常分享优质软件",
+    "type": "bilibili",
+    "url": " https://b23.tv/zyYjbxi",
+    "icon": "https://p1.meituan.net/csc/4af091f5038300a8810446711f8c3dd1895.png"
+  }
+]
