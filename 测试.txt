@@ -25,7 +25,7 @@
 <hostUrl>https://www.keke9.app<hostUrl>
 <host>https://gz-vres.obs.cn-south-1.myhuaweicloud.com<host>
 <shareUrl>https://magicalstory.lanzoui.com/b04kyoxab<shareUrl>
-<hot>🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
+<hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
 奥搜宝,http://lin.aosoubao.com/2/ymjr.json|6V,http://u6v.cn/6vX55k|
 小米,http://xhww.fun:63/小米/DEMO.json|运输车,https://weixine.net/ysc.json|
 4K影视,https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json|
@@ -57,8 +57,9 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 
 <banner>
 {"title":"爆款流量卡","desc":"官方正版，不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/Index/411112"}|
+{"title":"推荐流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240111/d9ae1797fd7b48b9b1d399dd5c97484a.jpg","url":"https://haokawx.lot-ml.com/h5order/index?pudiD=445&userid=411112"}|
 {"title":"电脑游戏下载","desc":"多款破解电脑游戏","imgUrl":"https://www.2023game.com/d/file/p/2023/12-24/5983f1786f418ee22a88ef0428f6877b.webp?x-oss-process=image/resize,m_pad,color_000000,w_800,h_500","url":"https://www.2023game.com/"}|
 {"title":"热点搜索","desc":"搜索全网热点，今日话题","imgUrl":"https://img0.baidu.com/it/u=38340466,2365835230&fm=253&fmt=auto&app=138&f=PNG?w=897&h=383","url":"https://xianggee.com/web/hotband"}|
-{"title":"超值流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://p0.meituan.net/csc/9d603941753e44c6c259b5d67cea9d5d50578.png","url":"http://storep.91haoka.cn/h5/index.html?id=10934"}|
-{"title":"OneTool","desc":"一键多平台自动签到","imgUrl":"https://p1.meituan.net/csc/f07fa9a4cce0caeff3dade987a428c83249865.png","url":"https://97by.cn/?utm_source=qm"}
+
+{"title":"OneTool","desc":"星标卡店铺","imgUrl":"https://haokawx.lot-ml.com/images/dianpu_img1.png","url":"https://haokawx.lot-ml.com/Product/Index/411112"}
 <banner>
