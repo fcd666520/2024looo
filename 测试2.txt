@@ -1,7 +1,7 @@
 //https://magical-app.oss-cn-guangzhou.aliyuncs.com/groups_videos.ini
 [
   {
-    "name": "奇谈君",
+    "name": "暂无",
     "des": "关注官方公众号，加入奇妙大家庭！",
     "type": "wechat",
     "url": "奇谈君",
