@@ -61,5 +61,5 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 {"title":"电脑游戏下载","desc":"多款破解电脑游戏","imgUrl":"https://www.2023game.com/d/file/p/2023/12-24/5983f1786f418ee22a88ef0428f6877b.webp?x-oss-process=image/resize,m_pad,color_000000,w_800,h_500","url":"https://www.2023game.com/"}|
 {"title":"热点搜索","desc":"搜索全网热点，今日话题","imgUrl":"https://img0.baidu.com/it/u=38340466,2365835230&fm=253&fmt=auto&app=138&f=PNG?w=897&h=383","url":"https://xianggee.com/web/hotband"}|
 
-{"title":"OneTool","desc":"星标卡店铺","imgUrl":"https://haokawx.lot-ml.com/images/dianpu_img1.png","url":"https://haokawx.lot-ml.com/Product/Index/411112"}
+{"title":"点我购买流量卡","desc":"星标卡店铺","imgUrl":"https://haokawx.lot-ml.com/images/dianpu_img1.png","url":"https://haokawx.lot-ml.com/Product/Index/411112"}
 <banner>
