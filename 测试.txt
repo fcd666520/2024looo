@@ -63,3 +63,65 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 
 {"title":"点我购买流量卡","desc":"星标卡店铺","imgUrl":"https://haokawx.lot-ml.com/images/dianpu_img1.png","url":"https://haokawx.lot-ml.com/Product/Index/411112"}
 <banner>
+
+{
+  "data": [
+    {
+      "name": "接口大全",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/主页.jpg",
+      "url": "https://jihulab.com/mml/looo/-/raw/master/duoc1.json",
+      "type": "web",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "布莱泽奥特曼",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/布莱泽奥特曼.png",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "白圣女与黑牧师",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/白圣女与黑牧师.png",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    
+    {
+      "name": "总之就是非常可爱",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/总之就是非常可爱.png",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "凡人修仙传",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/凡人修仙传.png",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "海贼王",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/海贼王.png",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    },
+    {
+      "name": "大宋少年志2",
+      "pic": "https://jihulab.com/mml/looo/-/raw/master/%E5%9B%BE%E7%89%87/大宋少年志2.png",
+      "url": "",
+      "type": "search",
+      "desc": "",
+      "show": true
+    }
+  ]
+}
