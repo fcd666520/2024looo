@@ -1,10 +1,11 @@
 //https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
+//https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
 <version>
 {
     "versionCode": 20230111,
     "isForceUpdate": 0,
     "versionName": "1.0.6",
-    "downurl": "https://www.123pan.com/s/izDSVv-bVkWA.html",
+    "downurl": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
     "updateLog": "新增：支持弹幕（需要影视源支持）
     优化：解析成功率
     优化：悬浮窗播放
@@ -28,7 +29,7 @@
 <hot>🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|奥搜宝,http://lin.aosoubao.com/2/ymjr.json|6V,http://u6v.cn/6vX55k|小米,http://xhww.fun:63/小米/DEMO.json|运输车,https://weixine.net/ysc.json|4K影视,https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json|Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95c9887d79e4380f64cd592ed978ead5b/itvba/tv.json|VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|高清4K,http://max.ruixinga.top/uploads/itvbox/hzmax.json|菜你死,https://tvbox.cainisi.cf|神器TV,https://神器每日推送.tk/pz.json|君爹影视,http://home.jundie.top:81/top98.json|摸鱼TV,https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json<hot>
 <hotLive>高清直播,https://jihulab.com/zhulr7765/tvbox/-/raw/main/live.txt|菜你死,https://tvbox.cainisi.cf/TV|饭太硬,https://xhdwc.tk/tvlive.txt|环宇,https://www.891218.xyz/free/zb/live.txt|有毒,https://youdu.fan/tvbox/live.txt|ZB1122,http://qrh.yimkj.cn/ym/lib/zb1122.txt|4K直播,https://weixine.net/tv/ysclive.txt|猎狼TV,https://52.lltv8.cn<hotLive>
 
-<ban_node>河马|七夜|盘Se|盘搜|三三|七七<ban_node>
+<ban_node>河马|七七<ban_node>
 <broadcast>
 {
     "broadcastCode": 3,
@@ -40,6 +41,4 @@
 }
 <broadcast>
 
-<banner>{"title":"发哥哥哥哥","desc":"哥哥哥哥","imgUrl":"https://p0.meituan.net/csc/8d542ac05293303f2d28f93a53534fff22115.jpg","url":"https://www.123pan.com/s/izDSVv-bVkWA.html"}|{"title":"安卓清理君","desc":"一键给手机瘦瘦身，轻松清理20GB+垃圾","imgUrl":"https://p0.meituan.net/csc/cb181fcfafcf0bf0e85d62802205ac5f341673.png","url":"https://www.coolapk.com/apk/com.magicalstory.cleaner"}|{"title":"奇妙搜索","desc":"一键搜索全网应用","imgUrl":"https://p0.meituan.net/csc/18b4a5f67b175a87a38bd099a89d1d8693186.png","url":"https://www.123pan.com/s/izDSVv-0JQWA"}|{"title":"发给超值流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/index/411112."}|{"title":"OneTool","desc":"一键多平台自动签到","imgUrl":"https://p1.meituan.net/csc/f07fa9a4cce0caeff3dade987a428c83249865.png","url":"https://97by.cn/?utm_source=qm"}<banner>
-}
-}
+<banner>{"title":"爆款流量卡","desc":"官方正版，不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/Index/411112"}|{"title":"电脑游戏下载","desc":"多款破解电脑游戏","imgUrl":"https://www.2023game.com/d/file/p/2023/12-24/5983f1786f418ee22a88ef0428f6877b.webp?x-oss-process=image/resize,m_pad,color_000000,w_800,h_500","url":"https://www.2023game.com/"}|{"title":"热点搜索","desc":"搜索全网热点，今日话题","imgUrl":"https://p0.meituan.net/csc/18b4a5f67b175a87a38bd099a89d1d8693186.png","url":"https://img0.baidu.com/it/u=38340466,2365835230&fm=253&fmt=auto&app=138&f=PNG?w=897&h=383"}|{"title":"超值流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://p0.meituan.net/csc/9d603941753e44c6c259b5d67cea9d5d50578.png","url":"http://storep.91haoka.cn/h5/index.html?id=10934"}|{"title":"OneTool","desc":"一键多平台自动签到","imgUrl":"https://p1.meituan.net/csc/f07fa9a4cce0caeff3dade987a428c83249865.png","url":"https://97by.cn/?utm_source=qm"}<banner>
