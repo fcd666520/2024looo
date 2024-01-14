@@ -480,7 +480,7 @@
     "name":"ＮＴ┃动漫",
     "type":3,
     "api":"./lib/drpy4.min.js",
-    "ext":"https://agit.ai/xiaowei233333/yskk/raw/branch/master/nt.js"
+    "ext":"./js/NT动漫.js"
     },
     {
     "key":"csp_Dm84",
