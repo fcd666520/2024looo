@@ -1,5 +1,9 @@
 {
   "urls": [
+      {
+      "name": "推荐AG影视",
+      "url": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json"
+    },
        {
       "name": "🦊极狐影视🦊",
       "url": "https://jihulab.com/mml/looo/-/raw/master/666/lioo.json"
