@@ -66,6 +66,13 @@
     }
     },
     {
+    "key":"drpy_js_Freeok",
+    "name":"Fre┃影视",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/Freeok.js"
+    },
+    /*{
     "key":"Freeok",
     "name":"Freeok┃影视",
     "type":3,
@@ -83,7 +90,15 @@
     "线路标题":"<span>&&</small>",
     "导演":"导演：&&</div>",
     "主演":"主演：&&</div>",
-    "简介":"<p>&&</p>"}},
+    "简介":"<p>&&</p>"}},*/
+    {
+      "key": "FREE1OK",
+      "name": "️️Fre┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"
+    },
     {
     "key":"玩偶哥哥",
     "name":"阿里┃哥哥",
