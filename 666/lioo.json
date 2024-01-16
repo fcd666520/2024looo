@@ -12,6 +12,15 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
+    {"key":"csp_YGP",
+    "name":"预告┃预告",
+    "type":3,
+    "api":"csp_YGP",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":0
+    },
     {
     "key":"豆豆",
     "name":"豆瓣┃推荐",
@@ -143,15 +152,6 @@
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%bd%b1%e6%8e%a2%e5%bd%b1%e8%a7%86.js"
     },
     {
-    "key":"豆豆",
-    "name":"豆瓣┃推荐",
-    "type":3,
-    "api":"csp_DouDou",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0
-    },
-    {
       "key": "Czsapp",
       "name": "厂长┃直连",
       "type": 3,
@@ -162,15 +162,7 @@
       "changeable": 1,
       "ext": "https://www.czzy66.com/"
     },
-    {"key":"csp_YGP",
-    "name":"预告┃预告",
-    "type":3,
-    "api":"csp_YGP",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":0
-    },
+
     //肥猫
     /*{
     "key":"路人",
