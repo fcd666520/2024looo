@@ -102,6 +102,16 @@
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+    "key":"csp_KungFu404",
+    "name":"阿里┃签到",
+    "type":3,
+    "api":"csp_KungFu404",
+    "searchable":1,
+    "filterable":0,
+    "changeable":0,
+    "jar":"./JAR/alibaba0.jar"
+    },
+    {
     "key":"配置中心",
     "name":"配置┃网盘",
     "type":3,
@@ -140,16 +150,6 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":0
-    },
-    {
-    "key":"csp_KungFu404",
-    "name":"阿里┃签到",
-    "type":3,
-    "api":"csp_KungFu404",
-    "searchable":1,
-    "filterable":0,
-    "changeable":0,
-    "jar":"./JAR/alibaba0.jar"
     },
     {
       "key": "Czsapp",
