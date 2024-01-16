@@ -32,6 +32,42 @@
     "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
     },
     {
+    "key":"玩偶哥哥",
+    "name":"阿里┃哥哥",
+    "type":3,
+    "api":"csp_WoGG",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+    {
+    "key":"csp_KungFu404",
+    "name":"阿里┃签到",
+    "type":3,
+    "api":"csp_KungFu404",
+    "searchable":1,
+    "filterable":0,
+    "changeable":0,
+    "jar":"./JAR/alibaba0.jar"
+    },
+    {
+    "key":"配置中心",
+    "name":"配置┃网盘",
+    "type":3,
+    "api":"csp_Config",
+    //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+    "jar":"https://jihulab.com/mml/looo/-/raw/5ec6afbcaa7d471e37ad6ed3f6da63b9f30ae005/666/JAR/pg.jar",
+    "searchable":0,
+    "changeable":0,
+    "style":{
+    "type":"rect",
+    "ratio":1
+    },
+    //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
+    "ext":"/js/配置中心.json"
+    },
+    {
     "key":"贱贱",
     "name":"荐片┃秒播",
     "type":3,
@@ -91,42 +127,6 @@
     "导演":"导演：&&</div>",
     "主演":"主演：&&</div>",
     "简介":"<p>&&</p>"}},*/
-    {
-    "key":"玩偶哥哥",
-    "name":"阿里┃哥哥",
-    "type":3,
-    "api":"csp_WoGG",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
-    "key":"csp_KungFu404",
-    "name":"阿里┃签到",
-    "type":3,
-    "api":"csp_KungFu404",
-    "searchable":1,
-    "filterable":0,
-    "changeable":0,
-    "jar":"./JAR/alibaba0.jar"
-    },
-    {
-    "key":"配置中心",
-    "name":"配置┃网盘",
-    "type":3,
-    "api":"csp_Config",
-    //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
-    "jar":"https://jihulab.com/mml/looo/-/raw/5ec6afbcaa7d471e37ad6ed3f6da63b9f30ae005/666/JAR/pg.jar",
-    "searchable":0,
-    "changeable":0,
-    "style":{
-    "type":"rect",
-    "ratio":1
-    },
-    //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
-    "ext":"/js/配置中心.json"
-    },
     {
     "key":"drpy_js_新视觉影视",
     "name":"视觉┃影视",
