@@ -92,14 +92,6 @@
     "主演":"主演：&&</div>",
     "简介":"<p>&&</p>"}},*/
     {
-      "key": "FREE1OK",
-      "name": "️️Fre┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"
-    },
-    {
     "key":"玩偶哥哥",
     "name":"阿里┃哥哥",
     "type":3,
