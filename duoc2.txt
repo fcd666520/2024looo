@@ -9,28 +9,12 @@
       "url": "https://jihulab.com/mml/looo/-/raw/master/666/lioo.json"
     },
     {
-      "name": "🐼熊猫不叫猫🐼",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
-    },
-    {
-      "name": "🐼熊猫丨拾光趣乐屋🐼",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"
-    },
-    {
       "name": "🐼熊猫丨荷城茶秀🐼",
       "url": "http://rihou.vip:88/荷城茶秀"
     },
     {
       "name": "🐼熊猫丨荷城茶秀备用🐼",
       "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"
-    },
-    {
-      "name": "🐼熊猫丨多多🐼",
-      "url": "http://yydsys.top/duo"
-    },
-    {
-      "name": "🐼熊猫丨多多阿里🐼",
-      "url": "http://yydsys.top/duo/ali"
     },
     {
       "name": "🐼熊猫丨饭太硬🐼",
