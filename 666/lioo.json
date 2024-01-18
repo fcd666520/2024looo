@@ -215,6 +215,20 @@
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },*/
     {
+      "key": "meowtv_Mmys",
+      "name": "萌米┃影视",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
+    {"key": "meowtv_hhys","name": "嘿嘿┃影视","type": 3,"api": "csp_AppMao"     ,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
+    {"key": "meowtv_Atys","name": "奥特┃影视","type": 3,"api": "csp_Auete"      ,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
+    {"key": "meowtv_jhys","name": "One ┃影视","type": 3,"api": "csp_AppYsV2"    ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/","jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"},
+
+    {
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
     "type":3,
@@ -334,6 +348,13 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
+    },
+    {
+    "key":"drpy_js_电影先生",
+    "name":"电影┃先生",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/电影先生"
     },
     {
     "key":"drpy_js_555影视V2",
