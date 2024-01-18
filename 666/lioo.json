@@ -1072,6 +1072,16 @@
     "filterable":0,
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
     },
+    {
+    "key":"csp_量子",
+    "name":"量子┃资源",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./js/量子资源网.json"
+    },
     {"key":"玩偶弹幕","name":"弹幕┃玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"https://agit.ai/xiaowei233333/api/raw/branch/main/DM/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json","token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"搜索弹幕","name":"弹幕┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"Upys","name":"弹幕┃云云","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
