@@ -142,7 +142,7 @@
     "quickSearch":1,
     "filterable":1,
     "changeable":1,
-    "jar":".JAR/xbpq.jar",
+    "jar":"./JAR/xbpq.jar",
     "ext":{
     "站名":"免费看影视",
     "作者":"yydf",
