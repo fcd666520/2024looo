@@ -932,7 +932,7 @@
     "name":"分类",
     "value":[{"n":"全部分类","v":""},{"n":"国产剧","v":"guochanju"},{"n":"港台剧","v":"gangtaiju"},{"n":"欧美剧","v":"oumeiju"},{"n":"日韩剧","v":"rihanju"}]}]}}
     },
-    {
+    /*{
     "key":"csp_干饭",
     "name":"干饭┃２Ｋ",
     "type":3,
@@ -942,12 +942,12 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"./js/干饭影视.json"
-    },
+    },*/
     {
     "key":"阿里云盘网",
     "name":"云盘┃２Ｋ",
     "type":3,
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    "jar":"./JAR/cili.jar",
     "api":"csp_XYQHikerAL",
     "searchable":1,
     "quickSearch":1,
@@ -1029,18 +1029,18 @@
     "quickSearch":0,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/b8RaU1/4KHDR.json",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
+    "jar":"./JAR/XYQ.jar"
     },
     {
     "key":"蚂蚁",
     "name":"蚂蚁┃２Ｋ",
     "type":3,
-    "jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+    "jar":"./JAR/H.jar",
     "api":"csp_XPathAli",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
+    "ext":"https://jihulab.com/wanda/4k/-/raw/main/json/%E8%9A%82%E8%9A%81%E7%A3%81%E5%8A%9B.json"
     },
     {
     "key":"drpy_js_6V[新版]",
@@ -1061,7 +1061,7 @@
     {
     "key":"csp_Mp4Mov",
     "name":"Ｍ4┃电影",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
     "searchable":1,
@@ -1071,7 +1071,7 @@
     {
     "key":"csp_New6v",
     "name":"新6V┃磁力",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
     "searchable":1,
@@ -1082,7 +1082,7 @@
     {
     "key":"csp_SeedHub",
     "name":"Seed┃Hub",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_SeedHub",
     "playerType":1,
@@ -1099,12 +1099,12 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://pan.shangui.cc/f/njAEt2/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/XYQ.jar"
+    "jar":"./JAR/XYQ.jar"
     },
     {
     "key":"csp_MeijuTT",
     "name":"美剧┃天堂",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuTT",
     "playerType":1,
@@ -1115,7 +1115,7 @@
     {
     "key":"csp_MeijuMi",
     "name":"美剧┃迷啊",
-    "jar":"https://jihulab.com/mml/looo/-/raw/master/666/JAR/cili.jar",
+    "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuMi",
     "playerType":1,
