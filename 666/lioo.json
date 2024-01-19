@@ -889,7 +889,7 @@
     "纪录片"
     ]
     },
-    {
+    /*{
     "key":"玉米",
     "name":"玉米┃２Ｋ",
     "type":0,
@@ -898,7 +898,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },
+    },*/
     {"key":"七新",
     "name":"七新┃２Ｋ",
     "type":3,
@@ -936,12 +936,12 @@
     "key":"csp_干饭",
     "name":"干饭┃２Ｋ",
     "type":3,
-    "jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
+    "jar":"./JAR/H.jar",
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://jihulab.com/wanda/4k/-/raw/main/json/干饭影视.json"
+    "ext":"./js/干饭影视.json"
     },
     {
     "key":"阿里云盘网",
