@@ -768,14 +768,14 @@
     "type":1,
     "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
     "searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
-	{
+	/*{
     "key":"索尼资源",
     "name":"索尼┃采集",
     "type":1,
     "api":"https://suoniapi.com/api.php/provide/vod/",
     "searchable":1,
     "changeable":1,
-    "categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+    "categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},*/
     {
     "key":"量子资源",
     "name":"量子┃采集",
@@ -831,7 +831,7 @@
     ]
     },
     //吾爱
-    {
+    /*{
     "key":"主力源",
     "name":"索尼┃影视",
     "type":1,
@@ -858,7 +858,7 @@
     "日剧",
     "泰剧"
     ]
-    },
+    },*/
     {
     "key":"暴风采集",
     "name":"暴风┃影音",
@@ -1184,7 +1184,7 @@
     {"key":"云盘资源分享","name":"云盘┃分享","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘资源分享.json"},
     {"key":"土拨鼠搜索","name":"云盘┃土拨鼠","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/土拨鼠搜索.json"},
     {"key":"豆豆飞搜索","name":"云盘┃豆豆飞","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/豆豆飞搜索.json"},
-    {"key":"阿里云盘网","name":"云盘┃云盘网","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/阿里云盘网.json"},
+    //{"key":"阿里云盘网","name":"云盘┃云盘网","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/阿里云盘网.json"},
     {"key":"Gitcafe","name":"云盘┃小纸条","jar":"./JAR/spider.jar","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
     {"key":"夸克玩偶弹幕","name":"夸克┃玩偶","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"夸克盘搜弹幕","name":"夸克┃盘搜","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./JAR/danmu.jar"},
