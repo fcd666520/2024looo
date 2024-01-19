@@ -176,7 +176,7 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/新视觉影视.js"
     },
-    {
+    /*{
     "key":"影探",
     "name":"影探┃影视",
     "type":3,
