@@ -4,38 +4,38 @@
         "list": []
     },
     {
-        "name": "流量卡",
+        "name": "星标流量卡",
         "list": [
            
             {
                 "name": "星标流量卡店铺",
                 "url": "https://haokawx.lot-ml.com/images/dianpu_img1.png",
                 "icon": "https://haokawx.lot-ml.com/images/dianpu_img1.png",
-                "version": ""
+                "version": "不玩套路-官方正版"
             },
  {
-                "name": "星标流量卡",
+                "name": "扫描二维码下单",
                 "url": "https://haokawx.lot-ml.com/Product/Index/411112",
                 "icon": "https://haokaapi.lot-ml.com/Temps/ShopCode/411112.png",
                 "version": "不玩套路-官方正版"
             },
             {
-                "name": "IDM+_2023.12.23",
-                "url": "https://xzweb.lanzoum.com/ipHK11in0t3a",
-                "icon": "http://www.xzweb.top/cs/影视接口/main/gw.jpg",
-                "version": "1DM+汉化版"
+                "name": "电信海凤卡【首年19元280G】",
+                "url": "https://haokawx.lot-ml.com/h5order/index?pudiD=458&userid=411112",
+                "icon": "https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240116/d6d518f3cf344da8b505e69e73c58a9a.jpg",
+                "version": "不玩套路-官方正版"
             },
             {
-                "name": "1DM+12.3_2023.12.23",
-                "url": "https://xzweb.lanzoum.com/iHEeJ1ine1oh",
-                "icon": "http://www.xzweb.top/cs/影视接口/main/gw.jpg",
-                "version": "1DM+12.3原版"
+                "name": "电信海云卡【长期19月租可续约】",
+                "url": "https://haokawx.lot-ml.com/h5order/index?pudiD=456&userid=411112",
+                "icon": "https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240116/dee7a13f5e5f45faa107d272c1f12779.jpg",
+                "version": "不玩套路-官方正版"
             },
             {
-                "name": "获取token_2023.12.06",
-                "url": "https://xzweb.lanzoum.com/i2L8i1grwv1e",
-                "icon": "http://www.xzweb.top/cs/影视接口/main/gw.jpg",
-                "version": "一键获取token 1.0.8版"
+                "name": "电信海鲤卡【39元280G+20年长期套餐】",
+                "url": "https://haokawx.lot-ml.com/h5order/index?pudiD=451&userid=411112",
+                "icon": "https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240112/690b8dbf65874ad887a977594a9f45ae.jpg",
+                "version": "不玩套路-官方正版"
             }
         ]
     }
