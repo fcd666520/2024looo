@@ -198,7 +198,13 @@
 "简介":"<p>&&</p>"
 }
 },
-
+   {
+    "key":"drpy_js_Freeok",
+    "name":"Fre┃影视",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    "ext":"./js/Freeok.js"
+    },
     {
     "key":"drpy_js_新视觉影视",
     "name":"视觉┃影视",
