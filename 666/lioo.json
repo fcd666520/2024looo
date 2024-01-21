@@ -3,6 +3,16 @@
     {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;","warningText":"2023年请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
+      "key": "流量卡",
+      "name": "流量卡",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./js/流量卡.json",
+      "jar": "./JAR/fm商店.jar"
+      },
+    {
     "key":"juying",
     "name":"聚影┃聚合",
     "type":3,
