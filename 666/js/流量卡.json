@@ -7,12 +7,7 @@
         "name": "星标流量卡",
         "list": [
            
-            {
-                "name": "星标流量卡店铺",
-                "url": "https://haokawx.lot-ml.com/images/dianpu_img1.png",
-                "icon": "https://haokawx.lot-ml.com/images/dianpu_img1.png",
-                "version": "不玩套路-官方正版"
-            },
+          {"title":"爆款流量卡","desc":"官方正版，不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/Index/411112"},
  {
                 "name": "扫描二维码下单",
                 "url": "https://haokawx.lot-ml.com/Product/Index/411112",
