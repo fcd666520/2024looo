@@ -1,22 +1,23 @@
 [
     {
-        "name": "应用",
+        "name": "星标流量卡",
         "list": []
     },
     {
-        "name": "应用商店",
+        "name": "流量卡",
         "list": [
+           
             {
+                "name": "星标流量卡店铺",
+                "url": "https://haokawx.lot-ml.com/images/dianpu_img1.png",
+                "icon": "https://haokawx.lot-ml.com/images/dianpu_img1.png",
+                "version": "TV版5.0.21_内置接口"
+            },
+ {
                 "name": "星标流量卡",
                 "url": "https://haokawx.lot-ml.com/Product/Index/411112",
                 "icon": "https://haokaapi.lot-ml.com/Temps/ShopCode/411112.png",
-                "version": "星标流量卡-不玩套路-官方正版"
-            },
-            {
-                "name": "影视仓_2024.01.21",
-                "url": "https://xzweb.lanzoum.com/imb771lqq2da",
-                "icon": "https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240116/d6d518f3cf344da8b505e69e73c58a9a.jpg",
-                "version": "TV版5.0.21_内置接口"
+                "version": "不玩套路-官方正版"
             },
             {
                 "name": "IDM+_2023.12.23",
@@ -35,23 +36,6 @@
                 "url": "https://xzweb.lanzoum.com/i2L8i1grwv1e",
                 "icon": "http://www.xzweb.top/cs/影视接口/main/gw.jpg",
                 "version": "一键获取token 1.0.8版"
-            }
-        ]
-    },
-    {
-        "name": "扫码进群",
-        "list": [
-            {
-                "name": "微信群",
-                "url": "http://www.xzweb.top/cs/影视接口/main/微信.png",
-                "icon": "http://www.xzweb.top/cs/影视接口/main/微信.png",
-                "version": ""
-            },
-            {
-                "name": "QQ群",
-                "url": "http://www.xzweb.top/cs/影视接口/main/qq.jpg",
-                "icon": "http://www.xzweb.top/cs/影视接口/main/qq.jpg",
-                "version": ""
             }
         ]
     }
