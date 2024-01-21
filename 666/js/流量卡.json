@@ -38,5 +38,22 @@
                 "version": "不玩套路-官方正版"
             }
         ]
+    },
+    {
+        "name": "扫码进群",
+        "list": [
+            {
+                "name": "微信群",
+                "url": "http://www.xzweb.top/cs/影视接口/main/微信.png",
+                "icon": "http://www.xzweb.top/cs/影视接口/main/微信.png",
+                "version": ""
+            },
+            {
+                "name": "QQ群",
+                "url": "http://www.xzweb.top/cs/影视接口/main/qq.jpg",
+                "icon": "http://www.xzweb.top/cs/影视接口/main/qq.jpg",
+                "version": ""
+            }
+        ]
     }
 ]
