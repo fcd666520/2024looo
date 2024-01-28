@@ -66,19 +66,6 @@
     "quickSearch":0,
     "filterable":0
     },
-        {
-            "key": "阿里|运输",
-            "name": "阿里夸克|影视车",
-            "type": 3,
-            "api": "csp_YunShu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-      "jar":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/JAR/Tong.jar",
-
-            "ext": "./js/ali.json"
-        },
     {
     "key":"玩偶影视",
     "name":"玩偶┃影视",
