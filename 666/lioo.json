@@ -41,14 +41,14 @@
     "filterable":0
     },
     {
-    "key":"玩偶哥哥",
-    "name":"玩偶┃哥哥",
+    "key":"玩偶影视",
+    "name":"玩偶┃影视",
     "jar":"./JAR/spider.jar",
     "type":3,"api":"csp_XYQHikerAL",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/玩偶哥哥.json"
+    "ext":".js/玩偶影视.json"
     },
     {
     "key":"玩偶哥哥",
@@ -73,7 +73,7 @@
     },
     {
     "key":"配置中心",
-    "name":"配置┃网盘",
+    "name":"网盘┃配置",
     "type":3,
     "api":"csp_Config",
     //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
@@ -121,7 +121,8 @@
     "筛选":"1"
     }
     },
-    {"key": "meowtv_dyxs",
+    {
+    "key": "meowtv_dyxs",
     "name": "电影┃先生",
     "type": 3,
     "api": "MJS_dyxs"       ,
