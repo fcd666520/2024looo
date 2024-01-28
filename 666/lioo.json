@@ -22,6 +22,32 @@
     "filterable":1,
     "api":"./js/聚影搜索.js"
     },
+    {
+    "key":"csp_KungFu404",
+    "name":"阿里┃签到",
+    "type":3,
+    "api":"csp_KungFu404",
+    "searchable":1,
+    "filterable":0,
+    "changeable":0,
+    "jar":"./JAR/alibaba0.jar"
+    },
+    {
+    "key":"配置中心",
+    "name":"网盘┃配置",
+    "type":3,
+    "api":"csp_Config",
+    //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
+    "jar":"https://jihulab.com/mml/looo/-/raw/5ec6afbcaa7d471e37ad6ed3f6da63b9f30ae005/666/JAR/pg.jar",
+    "searchable":0,
+    "changeable":0,
+    "style":{
+    "type":"rect",
+    "ratio":1
+    },
+    //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
+    "ext":"/js/配置中心.json"
+    },
     {"key":"csp_YGP",
     "name":"预告┃预告",
     "type":3,
@@ -62,32 +88,6 @@
     },
 //      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     {
-    "key":"csp_KungFu404",
-    "name":"阿里┃签到",
-    "type":3,
-    "api":"csp_KungFu404",
-    "searchable":1,
-    "filterable":0,
-    "changeable":0,
-    "jar":"./JAR/alibaba0.jar"
-    },
-    {
-    "key":"配置中心",
-    "name":"网盘┃配置",
-    "type":3,
-    "api":"csp_Config",
-    //"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/pg.jar",
-    "jar":"https://jihulab.com/mml/looo/-/raw/5ec6afbcaa7d471e37ad6ed3f6da63b9f30ae005/666/JAR/pg.jar",
-    "searchable":0,
-    "changeable":0,
-    "style":{
-    "type":"rect",
-    "ratio":1
-    },
-    //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
-    "ext":"/js/配置中心.json"
-    },
-    {
     "key":"贱贱",
     "name":"荐片┃秒播",
     "type":3,
@@ -125,7 +125,7 @@
     "key": "meowtv_dyxs",
     "name": "电影┃先生",
     "type": 3,
-    "api": "MJS_dyxs"       ,
+    "api": "MJS_dyxs",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -145,7 +145,7 @@
     "ext":"https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
     "timeout":60
     },    
-  {
+  /*{
             "key": "MFKYS",
             "name": "影视┃大全",
             "type": 3,
@@ -179,7 +179,7 @@
                 "分类url": "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
             }
-        },
+        },*/
 {
 "key":"Freeok",
 "name":"Fre┃影视",
@@ -200,6 +200,52 @@
 "简介":"<p>&&</p>"
 }
 },
+    {
+      "key": "Xinsj",
+      "name": "视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
+    },
+{
+      "key": "视觉",
+      "name": "视觉┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "主页url": "https://www.3ayy.com",
+        "简介": "module-info-introduction\">&&</p>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "影片状态": "集数：&&</div>",
+        "数组": "<a&&module-poster-item-info\"[不包含:夸克]",
+        "标题": "title=\"&&\"",
+        "副标题": "note\">&&</div>",
+        "嗅探词": ".mp4#.m3u8",
+        "过滤词": "/player/#/index/",
+        "图片": "data-original=\"&&\"",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "链接": "href=\"&&\"",
+        "搜索url": "https://www.3ayy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
+        "搜索模式": "1",
+        "搜索二次截取": "\"list\":[&&]",
+        "搜索数组": "{&&}",
+        "搜索标题": "\"name\":\"&&\"",
+        "搜索图片": "\"pic\":\"&&\"",
+        "搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
+        "播放数组": "module-play-list-base\">&&</div>",
+        "播放标题": "<span>&&</span>",
+        "播放列表": "<a&&</a>",
+        "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
   /* {
     "key":"drpy_js_Freeok",
     "name":"Fre┃影视",
@@ -207,7 +253,7 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/Freeok.js"
     },*/
-    {
+    /*{
     "key":"drpy_js_新视觉影视",
     "name":"视觉┃影视",
     "type":3,
