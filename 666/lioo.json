@@ -485,6 +485,7 @@
       "name": "快看┃影视",
       "type": 3,
       "api": "csp_Kuaikan",
+      "jar": "https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
