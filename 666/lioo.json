@@ -105,15 +105,6 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
-    {
-      "key": "磁力熊磁",
-      "name": "熊猫┃磁力",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e7%a3%81%e5%8a%9b%e7%86%8a%e7%a3%81.js"
-    },
     /*{
     "key":"js_荐片",
     "name":"荐片┃影视",
