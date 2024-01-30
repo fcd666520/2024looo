@@ -106,15 +106,15 @@
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
-      "key": "js_磁力熊磁",
+      "key": "磁力熊磁",
       "name": "熊猫┃磁力",
       "type": 3,
       "jar": "https://agit.ai/hu/sj/raw/branch/master/lib/uyv0t678c488189af47bb91dc108484d17431.jar",
-      "api": "./lib/apiv15drpy2.min.js",
+      "api": "./lib/apiv15drpy3.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/磁力熊磁.js"
+      "ext": "./js/磁力熊磁.js"
     },
     /*{
     "key":"js_荐片",
