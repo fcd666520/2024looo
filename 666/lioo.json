@@ -267,7 +267,7 @@
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
     //"ext":"https://d.kstore.space/download/6296/js/yt.js"
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%bd%b1%e6%8e%a2%e5%bd%b1%e8%a7%86.js"
-    },
+    },*/
     {
     "key":"Czsapp",
     "name":"厂长┃直连",
@@ -318,15 +318,16 @@
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
     },
     {
-        "key": "meowtv_hhys",
-        "name": "嘿嘿┃影视","type": 3,
-        "api": "csp_AppMao"     
-        ,"searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-        },
-    {
+      "key": "嘿嘿",
+      "name": "嘿嘿┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+    },
+    /*{
         "key": "meowtv_Atys",
         "name": "奥特┃影视",
         "type": 3,
@@ -335,7 +336,17 @@
         "quickSearch": 1,
         "filterable": 1,
         "playerType": 2
-        },
+        },*/
+    {
+      "key": "Auete",
+      "name": "奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://v.auete.com/"
+    },
     {
         "key": "meowtv_jhys",
         "name": "One ┃影视","type": 3,
@@ -415,6 +426,16 @@
     //"ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
     {
+      "key": "Lib",
+      "name": "利播┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pro/"
+    },
+    {
     "key":"csp_Yj1211",
     "name":"直播┃合集",
     "type":3,
@@ -460,6 +481,15 @@
     "ext":"http://www.miniku.cc/xgapp.php/v2/"
     },*/
     {
+      "key": "csp_Kuaikan",
+      "name": "快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    /*{
     "key":"Kuaikan",
     "name":"快看┃影视",
     "type":3,
@@ -467,7 +497,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },
+    },*/
     {
     "key":"drpy_js_555影视V2",
     "name":"五五┃影视",
