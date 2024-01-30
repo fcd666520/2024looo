@@ -98,6 +98,13 @@
     "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
     "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
     },
+    {
+      "key": "影探",
+      "name": "影探┃影视",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
     /*{
     "key":"js_荐片",
     "name":"荐片┃影视",
@@ -253,7 +260,7 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/Freeok.js"
     },*/
-    {
+    /*{
     "key":"drpy_js_新视觉影视",
     "name":"视觉┃影视",
     "type":3,
@@ -309,7 +316,7 @@
     "changeable":0,
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },*/
-    {
+   /* {
       "key": "meowtv_Mmys",
       "name": "萌米┃影视",
       "type": 3,
@@ -332,7 +339,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-    },
+    },*/
     /*{
         "key": "meowtv_Atys",
         "name": "奥特┃影视",
@@ -355,7 +362,7 @@
     },
     {
         "key": "meowtv_jhys",
-        "name": "One ┃影视","type": 3,
+        "name": "One┃影视","type": 3,
         "api": "csp_AppYsV2",
         "searchable": 1,
         "quickSearch": 1,
@@ -363,7 +370,34 @@
         "ext": "https://www.kuin.one/api.php/app/",
         "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
         },
-
+{
+            "key": "火狐",
+            "name": "小茶┃杯狐",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "categories": [
+                "内地剧",
+                "韩剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "日剧",
+              
+                "动作片",
+                "科幻片",
+                "战争片",
+                "喜剧片",
+                "爱情片",
+                "恐怖片",
+                "犯罪片",
+                "剧情片",
+                "冒险片"
+               
+            ]
+        },
     {
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
