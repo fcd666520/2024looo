@@ -257,6 +257,8 @@
     "key":"drpy_js_新视觉影视",
     "name":"视觉┃影视",
     "type":3,
+      "jar": "https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live",
+
     "api":"./lib/drpy4.min.js",
     "ext":"./js/新视觉影视.js"
     },
@@ -312,6 +314,8 @@
       "name": "萌米┃影视",
       "type": 3,
       "api": "csp_AppMao",
+      "jar": "https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live",
+
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -322,6 +326,8 @@
       "name": "嘿嘿┃App",
       "type": 3,
       "api": "csp_AppMao",
+      "jar": "https://api.lige.fit/downloadJar?url=http%3A%2F%2F%E8%82%A5%E7%8C%AB.live",
+
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
