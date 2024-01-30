@@ -105,6 +105,16 @@
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
+    {
+      "key": "js_磁力熊磁",
+      "name": "熊猫┃磁力",
+      "type": 3,
+      "api": "./lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/磁力熊磁.js"
+    },
     /*{
     "key":"js_荐片",
     "name":"荐片┃影视",
@@ -398,6 +408,7 @@
                
             ]
         },
+
     {
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
