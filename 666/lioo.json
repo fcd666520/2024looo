@@ -129,7 +129,8 @@
     }
     },
     {
-    "key": "meowtv_qxys",
+    //"key": "meowtv_qxys",
+    "key": "秋霞影视",
     "name": "秋霞┃影视",
     "type": 3,
     "api": "./lib/drpy4.min.js",
