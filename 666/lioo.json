@@ -140,7 +140,7 @@
     "ext": "./js/秋霞影视.js"
     },
         {
-            "key": "meowtv_myys",
+            "key": "麻衣影视",
             "name": "麻衣┃影视",
             "type": 3,
             "api": "csp_XBPQ",
@@ -151,14 +151,14 @@
             "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
         },
         {
-            "key": "meowtv_qyyy",
+            "key": "奇优影院",
             "name": "奇优┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cdn.teyonds.com/xp/奇优影院.json"
+            "ext": "./js/奇优影院.json"
         },
         {
             "key": "meowtv_hxys",
@@ -168,7 +168,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cdn.teyonds.com/xp/好戏影视.json"
+            "ext": "./js/好戏影视.json"
         },
     {
     "key": "meowtv_dyxs",
