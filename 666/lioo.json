@@ -171,14 +171,14 @@
             "ext": "./js/好戏影院.json"
         },
     {
-    "key": "meowtv_dyxs",
+    "key": "电影先生",
     "name": "电影┃先生",
     "type": 3,
     "api": "MJS_dyxs",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./js/%e7%94%b5%e5%bd%b1%e5%85%88%e7%94%9f.js",
+    "ext": "./js/电影先生.js",
     "api": "./lib/drpy4.min.js"
     },
 {
