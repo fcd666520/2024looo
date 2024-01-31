@@ -129,6 +129,47 @@
     }
     },
     {
+    "key": "meowtv_qxys",
+    "name": "秋霞┃影视",
+    "type": 3,
+    "api": "./lib/drpy4.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./js/秋霞影视.js"
+    },
+        {
+            "key": "meowtv_myys",
+            "name": "麻衣┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/麻衣影视.json",
+            "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+        },
+        {
+            "key": "meowtv_qyyy",
+            "name": "奇优┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.teyonds.com/xp/奇优影院.json"
+        },
+        {
+            "key": "meowtv_hxys",
+            "name": "好戏┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.teyonds.com/xp/好戏影视.json"
+        },
+    {
     "key": "meowtv_dyxs",
     "name": "电影┃先生",
     "type": 3,
@@ -152,7 +193,7 @@
     "ext":"https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
     "timeout":60
     },    
-  /*{
+  {
             "key": "MFKYS",
             "name": "影视┃大全",
             "type": 3,
@@ -186,7 +227,7 @@
                 "分类url": "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
             }
-        },*/
+        },
 {
 "key":"Freeok",
 "name":"Fre┃影视",
