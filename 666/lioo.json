@@ -161,14 +161,14 @@
             "ext": "./js/奇优影院.json"
         },
         {
-            "key": "meowtv_hxys",
+            "key": "好戏影院",
             "name": "好戏┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/好戏影视.json"
+            "ext": "./js/好戏影院.json"
         },
     {
     "key": "meowtv_dyxs",
