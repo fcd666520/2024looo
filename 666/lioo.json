@@ -662,6 +662,14 @@
     "jar":"./JAR/XYQ.jar",
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/XYQH/%e8%93%9d%e7%8c%ab%e5%8a%a8%e6%bc%ab.json"
     },*/
+	  {
+      "key":"喵次元",
+      "name":"喵次┃动漫",
+      "type":3,
+    "api":"./lib/drpy4.min.js",
+      "ext":"./js/喵次元.js"
+      },
+
     {
     "key":"drpy_js_58动漫",
     "name":"五八┃动漫",
