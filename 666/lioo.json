@@ -244,7 +244,7 @@
 "分类值":"1&2&3&4&12&5",
 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36","副标题":"<div class=\"module-item-note\">&&</div>",
 "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-"线路数组":"请勿相信广告-+</i>&&data-dropdown-value=&&</div>[不包含:夸克]",
+"线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
 "线路标题":"<span>&&</small>",
 "导演":"导演：&&</div>",
 "主演":"主演：&&</div>",
@@ -291,7 +291,7 @@
         "搜索图片": "\"pic\":\"&&\"",
         "搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
         "播放数组": "module-play-list-base\">&&</div>",
-        "播放标题": "请勿相信广告-+</i>&&<span>&&</span>",
+        "播放标题": "<span>&&</span>",
         "播放列表": "<a&&</a>",
         "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
