@@ -252,6 +252,15 @@
 }
 },
     {
+      "key": "FreeOK",
+      "name": "️Fre┃影视",
+      "type": 3,
+      "api": "csp_Freeok",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Xinsj",
       "name": "视觉┃影视",
       "type": 3,
