@@ -256,6 +256,7 @@
       "name": "️Fre┃影视",
       "type": 3,
       "api": "csp_Freeok",
+      "jar":"./JAR/PandaQ240208.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
