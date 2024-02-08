@@ -463,14 +463,14 @@
             ]
         },
 
-    {
+    /*{
     "key":"jojo_open",
     "name":"影视┃ＪＯ",
     "type":3,
     "api":"csp_XYQHiker",
     "jar":"./JAR/spider.txt;md5;",
     "ext":"./XYQHiker/jojo.json"
-    },
+    },*/
     {
     "key":"drpy_js_北极狐[V2]",
     "name":"北极┃狐狸",
