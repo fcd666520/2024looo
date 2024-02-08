@@ -415,7 +415,7 @@
         "filterable": 1,
         "playerType": 2
         },*/
-    {
+    /*{
       "key": "Auete",
       "name": "奥特┃直连",
       "type": 3,
@@ -424,7 +424,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://v.auete.com/"
-    },
+    },*/
     {
         "key": "meowtv_jhys",
         "name": "One┃影视","type": 3,
@@ -444,7 +444,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "categories": [
-                "请勿相信影片中广告，请勿上当受骗！！！",
                 "内地剧",
                 "韩剧",
                 "香港剧",
@@ -521,7 +520,8 @@
     "playerType":2,
     "ext":"https://www.libvio.vip/"
     },*/
-    {//肥猫
+    /*{
+    //肥猫
     "key":"Libvio",
     "name":"利奥┃影视",
     "type":3,
@@ -530,16 +530,17 @@
     "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/libvio.js"
     //"ext":"https://d.kstore.space/download/6296/js/LIBVIO.js"
-    },
+    },*/
     {
       "key": "Lib",
       "name": "利播┃直连",
       "type": 3,
       "api": "csp_Libvio",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707366638426/fan.txt;md5;1f399f48364375f6687cb69873482cc6",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pro/"
+      "ext": "https://www.libvio.la/"
     },
     {
     "key":"csp_Yj1211",
