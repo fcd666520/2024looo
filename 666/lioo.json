@@ -263,9 +263,10 @@
     },
     {
       "key": "新视觉",
-      "name": "视觉┃影视--",
+      "name": "视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
+      "jar":"./JAR/PandaQ240208.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
