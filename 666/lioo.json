@@ -231,7 +231,7 @@
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
             }
         },*/
-{
+/*{
 "key":"Freeok",
 "name":"Fre┃影视",
 "type":3,"api":"csp_XBPQ",
@@ -250,7 +250,7 @@
 "主演":"主演：&&</div>",
 "简介":"<p>&&</p>"
 }
-},
+},*/
     {
       "key": "FreeOK",
       "name": "️Fre┃影视",
@@ -260,6 +260,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "新视觉",
+      "name": "视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.80yy3.com/"
     },
     {
       "key": "Xinsj",
