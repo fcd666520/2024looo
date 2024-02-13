@@ -189,7 +189,7 @@
     "type":3,
     "api":"csp_Panta",
     //"jar":"http://www.wya6.cn/tz/wypg.php",
-    "jar":"./JAR/PandaQ240208.jar",
+    "jar":"./JAR/pg.jar",
     "changeable":2,
     "searchable":1,
     "quickSearch":1,
