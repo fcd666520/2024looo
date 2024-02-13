@@ -88,7 +88,7 @@
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     //"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    {
+    /*{
     "key":"贱贱",
     "name":"荐片┃秒播",
     "type":3,
@@ -98,6 +98,14 @@
     "playerType":"1",
     "api":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
     "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
+    },*/
+    {
+      "key": "荐片",
+      "name": "荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
     },
     {
     "key":"秋霞影视",
