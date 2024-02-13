@@ -151,17 +151,6 @@
     "ext":"./js/电影先生.js",
     "api":"./lib/drpy4.min.js"
     },
-	{
-    "key":"机器人",
-    "name":"机器┃影视",
-    "type":3,
-    "api":"csp_Ikanbot",
-    "jar":"./JAR/pg.jar",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
-    },
-
     {
     "key":"Panta",
     "name":"移动┃云盘",
