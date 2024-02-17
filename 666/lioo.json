@@ -108,6 +108,13 @@
       "ext": "http://api2.rinhome.com"
     },
     {
+      "key":"影渣渣24",
+      "name":"影视|影渣渣[js]",
+      "type":3,
+      "api":"./lib/drpy4.min.js",
+      "ext":"./js/影渣渣24.js"
+      },
+    {
     "key":"秋霞影视",
     "name":"秋霞┃影视",
     "type":3,
@@ -630,7 +637,7 @@
     "changeable":0
     },
     {
-      "key":"玩偶弹幕",
+    "key":"玩偶弹幕",
     "name":"弹幕┃玩偶",
     "type":3,
     "api":"csp_Wogg",
