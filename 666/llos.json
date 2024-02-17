@@ -2309,10 +2309,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/子子影视.js"
     },
     {
-  "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  "spider": "./custom_spider.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec",
-  "lives": [
-    {
       "name": "本地live文件",
       "type": "0",
       "pass": true,
@@ -2327,9 +2323,7 @@
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-  "sites": [
+    },
     {
       "key": "csp_LocalFile",
       "name": "💻本地视频",
@@ -3852,11 +3846,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-  "spider": "./fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-  "sites": [
+
     {
       "key": "csp_豆瓣",
       "name": "🌕禁售┃个人自用💢甲辰年(龙)正月",
