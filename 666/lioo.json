@@ -135,13 +135,13 @@
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
       },
-    {
-      "key":"HDmoli",
-      "name":"Mol┃影视",
-      "type":3,
-      "api":"./lib/drpy4.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
-      },
+     {
+       "key":"drpy_js_HDmoli",
+       "name":"HDm┃影视",
+       "type":3,
+       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+     },
     {
       "key":"drpy_js_米爱影视",
       "name":"米爱┃影视",
