@@ -109,11 +109,81 @@
     },
     {
       "key":"影渣渣24",
-      "name":"影视|影渣渣[js]",
+      "name":"影渣┃影视",
       "type":3,
       "api":"./lib/drpy4.min.js",
       "ext":"./js/影渣渣24.js"
       },
+    {
+      "key":"看韩剧",
+      "name":"韩剧┃影视",
+      "type":3,
+      "api":"./lib/drpy4.min.js",
+      "ext":"./js/看韩剧.js"
+      },
+    {
+      "key":"LIBVIO",
+      "name":"荔波┃影视",
+      "type":3,
+      "api":"./lib/drpy4.min.js",
+      "ext":"./js/LIBVIO.js"
+      },
+    {
+      "key":"drpy_js_Voflix",
+      "name":"Vof┃影视",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
+      },
+    {
+      "key":"HDmoli",
+      "name":"Mol┃影视",
+      "type":3,
+      "api":"./lib/drpy4.min.js",
+      "ext":"./js/HDmoli.js"
+      },
+    {
+      "key":"drpy_js_米爱影视",
+      "name":"米爱┃影视",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
+    },
+    {
+      "key":"drpy_js_爱看电影",
+      "name":"爱看┃影视",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"
+    },
+    {
+      "key":"drpy_js_尘落影视",
+      "name":"尘落┃影视",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.js"
+    },
+    {
+      "key":"drpy_js_大师兄影视",
+      "name":"师兄┃影视",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
+    },
+    {
+      "key":"drpy_js_金曼影视",
+      "name":"金曼┃影视",
+      "type":3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
+    },
+    {
+      "key":"drpy_js_看了么",
+    "name":"看了┃影视",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
+    },
     {
     "key":"秋霞影视",
     "name":"秋霞┃影视",
