@@ -374,7 +374,6 @@
     "name":"直播┃合集",
     "type":3,
     "api":"csp_Yj1211",
-    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
