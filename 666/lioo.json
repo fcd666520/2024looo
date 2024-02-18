@@ -100,6 +100,18 @@
     "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
     },
     {
+      "key": "厂长弹幕版",
+      "name": "厂长┃弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"danmu": true},
+      "timeout": 25,
+      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+       },
+    {
       "key": "荐片",
       "name": "荐片┃影视",
       "api": "csp_Jianpian",
