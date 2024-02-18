@@ -100,16 +100,16 @@
     "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
     },
     {
-      "key": "厂长弹幕版",
-      "name": "厂长┃弹幕",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"danmu": true},
-      "timeout": 25,
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+    "key": "厂长弹幕版",
+    "name": "厂长┃弹幕",
+    "type": 3,
+    "api": "csp_Czzy",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"danmu": true},
+    "timeout": 25,
+    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
        },
     {
       "key": "荐片",
@@ -295,17 +295,6 @@
     "ext":"https://www.80yy3.com/"
     },  
     {
-    "key":"Czsapp",
-    "name":"厂长┃直连",
-    "type":3,
-    "api":"csp_Czsapp",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://www.czzy55.com/"
-    },
-    {
     "key":"meowtv_jhys",
     "name":"One┃影视","type":3,
     "api":"csp_AppYsV2",
@@ -385,6 +374,7 @@
     "name":"直播┃合集",
     "type":3,
     "api":"csp_Yj1211",
+    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
