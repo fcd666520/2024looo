@@ -120,11 +120,11 @@
       "ext": "http://api2.rinhome.com"
     },
     {
-      "key":"影渣渣24",
+      "key":"drpy_js_影渣渣",
       "name":"影渣┃影视",
       "type":3,
-      "api":"./lib/drpy4.min.js",
-      "ext":"./js/影渣渣24.js"
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
       },
     {
       "key":"看韩剧",
