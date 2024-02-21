@@ -1330,7 +1330,7 @@
     {"key":"Upyunso","name":"┃云盘┃云搜┃","jar":"./JAR/spider.jar","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt"},
     {"key":"AliPS","name":"┃云盘┃盘搜┃","jar":"./JAR/spider.jar","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt"},
     {"key":"Yisou","name":"┃云盘┃易搜┃","jar":"./JAR/spider.jar","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt"},
-    {"key":"我的小站","name":"┃云盘┃小站","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/我的小站.json"},
+    {"key":"我的小站","name":"┃云盘┃小站┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/我的小站.json"},
     {"key":"阿里苏苏","name":"┃云盘┃苏苏┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/阿里苏苏.json"},
     {"key":"云盘论坛","name":"┃云盘┃论坛┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘论坛.json"},
     {"key":"云盘资源","name":"┃云盘┃资源┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘资源.json"},
