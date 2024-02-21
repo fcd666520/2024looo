@@ -119,13 +119,13 @@
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
     },
-    {
+    /*{
       "key":"drpy_js_影渣渣",
       "name":"┃影渣┃影视┃",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
-      },
+      },*/
     {
       "key":"看韩剧",
       "name":"┃韩剧┃影视┃",
