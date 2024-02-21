@@ -135,21 +135,21 @@
       },
     {
       "key":"LIBVIO",
-      "name":"┃LIB┃影视┃",
+      "name":"┃ＬＩ┃影视┃",
       "type":3,
       "api":"./lib/drpy4.min.js",
       "ext":"./js/LIBVIO.js"
       },
     {
       "key":"drpy_js_Voflix",
-      "name":"┃Vof┃影视┃",
+      "name":"┃ＶＯ┃影视┃",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
       },
      {
        "key":"drpy_js_HDmoli",
-       "name":"┃HDm┃影视┃",
+       "name":"┃ＨＤ┃影视┃",
        "type":3,
        "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
@@ -190,7 +190,7 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
     },
     {
-      "key":"drpy_js_看了么",
+    "key":"drpy_js_看了么",
     "name":"┃看了┃影视┃",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
@@ -264,7 +264,7 @@
     },
     {
     "key":"FreeOK",
-    "name":"️┃Fre┃影视┃",
+    "name":"️┃ＦＲ┃影视┃",
     "type":3,
     "api":"csp_Freeok",
     "jar":"./JAR/PandaQ240208.jar",
@@ -1135,7 +1135,7 @@
     "分类":"电影$1#剧集$2#综艺$4#动漫$3"
     }},
     {"key":"49zy",
-    "name":"┃４9Z┃２Ｋ┃",
+    "name":"┃４９┃２Ｋ┃",
     "type":1,
     "api":"https://49zyw.com/api.php/provide/vod/?ac=list",
     "searchable":1,
@@ -1230,7 +1230,7 @@
     },
     {
     "key":"csp_Mp4Mov",
-    "name":"┃Ｍ4┃电影┃",
+    "name":"┃Ｍ４┃电影┃",
     "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -1240,7 +1240,7 @@
     },
     {
     "key":"csp_New6v",
-    "name":"┃新6V┃磁力┃",
+    "name":"┃新６┃磁力┃",
     "jar":"./JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
