@@ -13,17 +13,6 @@
     "jar":"./JAR/fm商店.jar"
     },
     {
-    "key":"Tudou",
-    "name":"土豆爱阿里资源站",
-    "playerType":1,
-    "type":3,
-    "api":"csp_Tudou",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar":"https://api.lvdoui.top/1815433723/gengx/custom_spider.jar"
-},
-    {
     "key":"juying",
     "name":"┃聚影┃聚合┃",
     "type":3,
@@ -843,6 +832,20 @@
       "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"
       },
     {
+      "key": "夸克",
+      "name": "┃夸克┃４Ｋ┃",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "jar": "http://小盒酷玩.fun:72/禁止贩卖",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "_UP_A4A_11_=wb905131005f47c38c26c263170cb6e1; _UP_F7E_8D_=NHgG5W+oBaYDUqD7PDRx+R+EUcnDqiQ0GUOU+WEa1/CQ9pt/lxcgspx/7jdZxm88C0IpclYaolOv+Rantbfg1mWGAUpRMP4RqXP78Wvu/CfvkWWGc5NhCTV71tGOIGgDBR3+u6/jj47J3UubfBlmKl99gj/Zr9lhvOTidzNw8s/WtKAIxWbnCzZn4/JMBUubWxICea0HlQhKz3bv+XfpfA00ezCaw7CIUrVeqvQJQJjr3FZ9IQ8n4BU4wR0Pq7NklczEGdRq2nIAcu7v22Uw2o//NHnxl6K+/lx2uIesGn44BJ6FWlD1+5YNdNmpYu3faYAz/INphJXcev9IUO",
+        "danmu": true
+      }
+    },
+    {
       "key":"夸克玩偶弹幕",
       "name":"┃夸克┃玩偶┃",
       "type":3,
@@ -1335,6 +1338,17 @@
     "filterable":1,
     "ext":"./js/量子资源网.json"
     },
+    {
+    "key":"Tudou",
+    "name":"┃土豆┃阿里┃",
+    "playerType":1,
+    "type":3,
+    "api":"csp_Tudou",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar":"https://api.lvdoui.top/1815433723/gengx/custom_spider.jar"
+},
     {"key":"夸克玩偶弹幕","name":"┃夸克┃玩偶┃","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"夸克盘搜弹幕","name":"┃夸克┃盘搜┃","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"云盘搜索","name":"┃云盘┃搜索┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘搜索.json"},
