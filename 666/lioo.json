@@ -13,6 +13,17 @@
     "jar":"./JAR/fm商店.jar"
     },
     {
+    "key":"Tudou",
+    "name":"土豆爱阿里资源站",
+    "playerType":1,
+    "type":3,
+    "api":"csp_Tudou",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar":"https://api.lvdoui.top/1815433723/gengx/custom_spider.jar"
+},
+    {
     "key":"juying",
     "name":"┃聚影┃聚合┃",
     "type":3,
