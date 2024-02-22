@@ -126,6 +126,32 @@
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
       },*/
+{
+      "key": "jojo",
+      "name": "┃ＪＯ┃嗅探┃",
+      "type": 3,
+      "api": "csp_Jojo",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
+    },
+    {
+      "key": "jojo弹幕直连",
+      "name": "┃ＪＯ┃直连┃",
+      "type": 3,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
     {
       "key":"看韩剧",
       "name":"┃韩剧┃影视┃",
