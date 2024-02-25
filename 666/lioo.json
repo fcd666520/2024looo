@@ -424,15 +424,22 @@
     "filterable":1
     },
     {
-    "key":"大米星球[V2]",
+      "key":"大米星球2024",
+      "name":"┃大米┃影视┃",
+      "type":3,
+      "api":"./lib/drpy4.min.js",
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%832024.js"
+      },
+   /* {
+    "key":"大米星球2024",
     "name":"┃大米┃影视┃",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://agit.ai/xiaowei233333/hj/raw/branch/main/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83[V2].js"
-    },
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%832024.js"
+    },*/
     {
     "key":"555dy",
     "name":"┃五五┃影视┃",
