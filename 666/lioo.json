@@ -261,7 +261,7 @@
     "filterable":1,
     "ext":"./js/奇优影院.json"
     },
-    {
+    /*{
     "key":"meowtv_hxys",
     "name":"┃好戏┃影视┃",
     "type":3,
@@ -270,7 +270,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"./js/好戏影院.json"
-    },
+    },*/
     {
     "key":"电影先生",
     "name":"┃电影┃先生┃",
@@ -317,7 +317,7 @@
       "filterable": 1,
       "ext": "./js/%e6%96%b0%e8%a7%86%e8%a7%892024.json"
     },
-    {
+    /*{
     "key":"新视觉",
     "name":"┃视觉┃影视┃",
     "type":3,
@@ -327,7 +327,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://www.80yy3.com/"
-    },  
+    },  */
     {
     "key":"meowtv_jhys",
     "name":"┃One┃影视┃",
