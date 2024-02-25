@@ -1,6 +1,6 @@
     //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
     //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-    {"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
+    {"spider":"./JAR/20240515.jar;md5;","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
     "key":"流量卡",
@@ -12,7 +12,7 @@
     "ext":"./js/流量卡.json",
     "jar":"./JAR/fm商店.jar"
     },
-    {
+   /* {
     "key":"juying",
     "name":"┃聚影┃聚合┃",
     "type":3,
@@ -22,7 +22,7 @@
     "filterable":1,
     "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee"
     "api":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/聚影搜索.js"
-    },
+    },*/
     {
     "key":"csp_KungFu404",
     "name":"┃阿里┃签到┃",
