@@ -110,7 +110,7 @@
     "ext": {"danmu": true},
     "timeout": 25,
     "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
-       },
+    },
     {
       "key": "荐片",
       "name": "┃荐片┃影视┃",
@@ -192,8 +192,7 @@
       "name":"┃爱看┃影视┃",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"
-      "ext":"./js/爱看影院2024.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"
 
     },
     {
