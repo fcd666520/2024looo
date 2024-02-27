@@ -154,6 +154,16 @@
       }
     },
     {
+      "key": "南瓜",
+      "name": "┃影视┃南瓜┃",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
     "key":"nangua",
     "name":"┃南瓜┃影视┃",
     "type":3,
