@@ -180,22 +180,28 @@
       "key":"drpy_js_Voflix",
       "name":"┃ＶＯ┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/voflix.js"
+
       },
      {
        "key":"drpy_js_HDmoli",
        "name":"┃ＨＤ┃影视┃",
        "type":3,
-       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+      "api":"./lib/drpy4.min.js",
+       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/HDmoli.js"
+
      },
     {
       "key":"drpy_js_米爱影视",
       "name":"┃米爱┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
+      "ext":"https://agit.ai/xiaowei233333/hj/raw/branch/main/js/%e7%b1%b3%e7%88%b1%e5%bd%b1%e8%a7%86.js"
+
     },
     /*{
       "key":"drpy_js_爱看电影",
@@ -208,36 +214,47 @@
       "key":"drpy_js_爱看",
       "name":"┃爱看┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看.js"
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看.js"
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/爱看.js"
+
     },
     {
       "key":"drpy_js_尘落影视",
       "name":"┃尘落┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.js"
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.js"
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/尘落影视.js"
+
     },
     {
       "key":"drpy_js_大师兄影视",
       "name":"┃师兄┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/大师兄影视.js"
+
     },
     {
       "key":"drpy_js_金曼影视",
       "name":"┃金曼┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/金曼影视.js"
+
     },
     {
     "key":"drpy_js_看了么",
     "name":"┃看了┃影视┃",
     "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
+      "api":"./lib/drpy4.min.js",
+    //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/看了么.js"
+
+
     },
     {
     "key":"秋霞影视",
