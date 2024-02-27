@@ -203,13 +203,14 @@
       "ext":"https://agit.ai/xiaowei233333/hj/raw/branch/main/js/%e7%b1%b3%e7%88%b1%e5%bd%b1%e8%a7%86.js"
 
     },
-    /*{
+    {
       "key":"drpy_js_爱看电影",
       "name":"┃爱看┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js"
-    },*/
+      "api":"./lib/drpy4.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js" 
+      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/爱看影视.js"   
+         },
     {
       "key":"drpy_js_爱看",
       "name":"┃爱看┃影视┃",
