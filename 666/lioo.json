@@ -158,7 +158,9 @@
     "name":"┃南瓜┃影视┃",
     "type":3,
     "playerType":"2",
-    "api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+    //"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+    "api":"./lib/drpy4.min.js",
+
     //"ext":"https://d.kstore.space/download/6296/js/南瓜.js"
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%8d%97%e7%93%9c%e5%bd%b1%e8%a7%86.js"
     },
