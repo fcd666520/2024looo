@@ -266,8 +266,37 @@
       "api":"./lib/drpy4.min.js",
     //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/看了么.js"
-
-
+     },
+         {
+      "key": "saohuo",
+      "name": " ┃骚火┃影视┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/骚火.js"
+    },
+        {
+      "key": "圣城影视",
+      "name": "┃圣城┃影视┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/SC1080.js"
+    },
+        {
+      "key": "云播影视",
+      "name": "☁┃云播┃影视┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
+    },
+        {
+      "key": "虎虎",
+      "name": "┃虎虎┃影视┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
     {
     "key":"秋霞影视",
@@ -499,7 +528,7 @@
     "filterable":1,
     "ext":"./xBPQ/苹果.json"
     },*/
-     {
+     /*{
       "key": "csp_Kuaikan",
       "name": "┃快看┃影视┃",
       "type": 3,
@@ -508,7 +537,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },*/
     {
     "key":"drpy_js_555影视V2",
     "name":"┃五五┃影视┃",
@@ -1420,6 +1449,16 @@
     "filterable":1,
     "jar":"https://api.lvdoui.top/1815433723/gengx/custom_spider.jar"
 },
+       {
+      "key": "哔嘀",
+      "name": "️️┃哔嘀┃影视┃",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "1"
+    },
     {"key":"夸克玩偶弹幕","name":"┃夸克┃玩偶┃","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"夸克盘搜弹幕","name":"┃夸克┃盘搜┃","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"云盘搜索","name":"┃云盘┃搜索┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘搜索.json"},
