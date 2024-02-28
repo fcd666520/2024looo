@@ -503,7 +503,7 @@
       "key": "csp_Kuaikan",
       "name": "┃快看┃影视┃",
       "type": 3,
-      "jar":"./JAR/custom_spider (2)"
+      "jar":"./JAR/custom_spider (2)",
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
