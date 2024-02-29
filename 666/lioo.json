@@ -71,7 +71,8 @@
     {
     "key":"玩偶影视",
     "name":"┃星标┃影视┃",
-    "jar":"./JAR/spider.jar",
+    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt",
+    //"jar":"./JAR/spider.jar",
     "type":3,"api":"csp_XYQHikerAL",
     "searchable":1,
     "quickSearch":1,
