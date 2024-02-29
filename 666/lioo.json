@@ -69,6 +69,32 @@
     "filterable":0
     },
     {
+      "key": "Fangniu4k",
+      "name": "┃随缘┃４Ｋ┃",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "jar": "http://www.wya6.cn/tz/wyfn.php",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "宇宙",
+      "name": "┃随缘┃４Ｋ┃",
+      "type": 3,
+      "api": "csp_LvDou",
+      "jar": "http://www.wya6.cn/tz/wypg.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "ext": {
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "mackey": "toudongxidegou88|qunimagebishabi9",
+        "danmu": true
+      }
+    },
+    {
     "key":"玩偶影视",
     "name":"┃星标┃影视┃",
     "jar":"./JAR/spider.jar",
