@@ -188,6 +188,15 @@
       "api":"./lib/drpy4.min.js",
       "ext":"./js/LIBVIO.js"
       },
+     {
+       "key":"drpy_js_gaze",
+       "name":"┃ＨＤ┃影视┃",
+       "type":3,
+      "api":"./lib/drpy4.min.js",
+       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+       "ext":"https://agit.ai/xiaowei233333/6669/raw/branch/main/js/gaze.jsd"
+
+     },
     {
       "key":"drpy_js_Voflix",
       "name":"┃ＶＯ┃影视┃",
@@ -195,7 +204,6 @@
       "api":"./lib/drpy4.min.js",
       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/voflix.js"
-
       },
      {
        "key":"drpy_js_HDmoli",
@@ -213,7 +221,6 @@
       "api":"./lib/drpy4.min.js",
       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
       "ext":"https://agit.ai/xiaowei233333/hj/raw/branch/main/js/%e7%b1%b3%e7%88%b1%e5%bd%b1%e8%a7%86.js"
-
     },
     /*{
       "key":"drpy_js_爱看电影",
