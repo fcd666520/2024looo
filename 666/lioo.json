@@ -669,8 +669,15 @@
     "api":"./lib/drpy4.min.js",
     "ext":"./js/路漫漫.js"
     },
-    
-    {
+        {
+      "key": "樱花",
+      "name": "┃樱花┃动漫┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+    /*{
       "key": "樱花",
       "name": "┃樱花┃动漫┃",
       "type": 3,
@@ -681,7 +688,7 @@
       "filterable": 1,
       "jar": "http://www.yingm.cc/phoneBoxLocal/fix1209-3.jar;md5;a7d5d3d9fe9fc5aa486cf8b27ca1b4f2",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
-    },
+    },*/
     {
     "key":"csp_Anime1",
     "name":"┃樱花┃动漫┃",
