@@ -190,11 +190,11 @@
       },
      {
        "key":"drpy_js_gaze",
-       "name":"┃ＨＤ┃影视┃",
+       "name":"┃注册┃影视┃",
        "type":3,
       "api":"./lib/drpy4.min.js",
        //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
-       "ext":"https://agit.ai/xiaowei233333/6669/raw/branch/main/js/gaze.jsd"
+       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/gaze2.js"
 
      },
     {
