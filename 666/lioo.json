@@ -137,7 +137,8 @@
     "filterable": 1,
     "ext": {"danmu": true},
     "timeout": 25,
-    "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+    //"jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt"
+    "jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar"
     },
     {
     "key": "Czsapp",
