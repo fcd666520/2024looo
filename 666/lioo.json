@@ -97,7 +97,7 @@
     {
     "key":"玩偶影视",
     "name":"┃星标┃影视┃",
-    "jar":"./JAR/spider.jar",
+    "jar":"./JAR/弹幕jar.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
