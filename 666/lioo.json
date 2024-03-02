@@ -151,6 +151,29 @@
     "changeable": 1,
     "ext": "https://www.czzy55.com/"
     },
+	{
+    "key":"南瓜弹幕",
+    "name":"┃南瓜┃弹幕┃",
+    "type":3,
+    "api":"csp_Nangua",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{"danmu":true},
+    "jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
+    },
+	{
+    "key":"三六零弹幕",
+    "name":"┃三六┃弹幕┃",
+    "type":3,
+    "api":"csp_Sp360",
+    "searchable":1,
+    "filterable":1,
+    "changeable":1,
+    "ext":{"danmu":true},
+    "jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
+    },
+
     {
       "key": "荐片",
       "name": "┃荐片┃影视┃",
@@ -181,7 +204,7 @@
     },
     {
       "key": "jojo弹幕直连",
-      "name": "┃ＪＯ┃直连┃",
+      "name": "┃ＪＯ┃弹幕┃",
       "type": 3,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
       "api": "csp_Jiohub",
