@@ -1576,7 +1576,7 @@
     {"key":"美剧天堂","name":"┃磁力┃美剧天堂┃","jar":"./JAR/spider.jar","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1}
     ],
     "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
-    "lives":[{"name":"live","type":0,"url":"https://jihulab.com/mml/yskk/-/raw/master/666/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    "lives":[{"name":"live","type":0,"url":"https://agit.ai/xiaowei233333/2022/raw/branch/main/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "parses":
     [{"name":"聚合","type":3,"url":"Demo"},
     {"name":"线路-1","type":0,"url":"https://jx.playerjy.com/?url="},
