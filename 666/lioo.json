@@ -97,7 +97,7 @@
     {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
-    "jar":"https://agit.ai/xiaowei233333/jjjjar/raw/branch/main/spider.jar",
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/spider.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
@@ -160,7 +160,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
     },
 	{
     "key":"三六零弹幕",
@@ -200,13 +200,13 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
+      "jar": "https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar"
     },
     {
       "key": "jojo弹幕直连",
       "name": "┃ＪＯ┃弹幕┃",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
+      "jar": "https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar",
       "api": "csp_Jiohub",
       "searchable": 1,
       "filterable": 1,
