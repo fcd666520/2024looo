@@ -436,13 +436,6 @@
     "filterable":1
     },
     {
-      "key": "csp_Freeok",
-      "name": "️️┃FreeOK┃影视┃",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_Freeok"
-    },
-    {
       "key": "新视觉影院",
       "name": "┃视觉┃影院┃",
       "type": 3,
