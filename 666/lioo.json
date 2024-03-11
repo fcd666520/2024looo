@@ -186,8 +186,10 @@
       "key":"drpy_js_影渣渣",
       "name":"┃影渣┃影视┃",
       "type":3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
+      "api":"./lib/drpy4.min.js",
+     // "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
+      "ext":"https://agit.ai/xiaowei233333/d0000r/raw/branch/main/js/%e5%bd%b1%e6%b8%a3%e6%b8%a3.js"
       },
 {
       "key": "jojo",
