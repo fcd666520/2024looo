@@ -68,6 +68,19 @@
     "quickSearch":0,
     "filterable":0
     },
+    {
+      "key":"AliShare",
+      "name":"┃弹幕┃分享┃",
+      "type":3,
+      "api":"csp_AliShare",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "filterable":0, 
+      "timeout":60,
+      "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar",
+      "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/alishare.txt$$$db$$$1"
+      },
 
     {
     "key":"玩偶影视",
