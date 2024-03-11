@@ -68,32 +68,7 @@
     "quickSearch":0,
     "filterable":0
     },
-    /*{
-      "key": "Fangniu4k",
-      "name": "┃随缘┃４Ｋ┃",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "jar": "http://www.wya6.cn/tz/wyfn.php",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "宇宙",
-      "name": "┃随缘┃４Ｋ┃",
-      "type": 3,
-      "api": "csp_LvDou",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "ext": {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-        "mackey": "toudongxidegou88|qunimagebishabi9",
-        "danmu": true
-      }
-    },*/
+
     {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
@@ -127,6 +102,26 @@
     "api":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
     "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
     },
+   {
+      "key": "荐片",
+      "name": "┃荐片┃影视┃",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
+    {
+      "key":"荐片弹幕版",
+      "name":"┃荐片┃弹幕┃",
+      "type":3,
+      "api":"csp_Jianpian",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/jianpian.json$$$1",
+       "timeout":60
+       },
+
     {
     "key": "厂长弹幕版",
     "name": "┃厂长┃弹幕┃",
@@ -172,15 +167,6 @@
     "changeable":1,
     "ext":{"danmu":true},
     "jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
-    },
-
-    {
-      "key": "荐片",
-      "name": "┃荐片┃影视┃",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
     },
     /*{
       "key":"drpy_js_影渣渣",
