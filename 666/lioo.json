@@ -183,15 +183,6 @@
     "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
     },
     {
-      "key":"drpy_js_影渣渣",
-      "name":"┃影渣┃影视┃",
-      "type":3,
-      "api":"./lib/drpy4.min.js",
-     // "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
-      "ext":"https://agit.ai/xiaowei233333/d0000r/raw/branch/main/js/%e5%bd%b1%e6%b8%a3%e6%b8%a3.js"
-      },
-{
       "key": "jojo",
       "name": "┃ＪＯ┃嗅探┃",
       "type": 3,
@@ -260,14 +251,6 @@
       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/voflix.js"
       },
-      /*{
-       "key":"drpy_js_hd影视",
-       "name":"┃视觉┃影视┃",
-       "type":3,
-      "api":"./lib/drpy4.min.js",
-       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
-       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/hd%e5%bd%b1%e8%a7%86.js"
-     },*/
      {
        "key":"drpy_js_HDmoli",
        "name":"┃ＨＤ┃影视┃",
@@ -284,14 +267,6 @@
       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
       "ext":"https://agit.ai/xiaowei233333/hj/raw/branch/main/js/%e7%b1%b3%e7%88%b1%e5%bd%b1%e8%a7%86.js"
     },
-    /*{
-      "key":"drpy_js_爱看电影",
-      "name":"┃爱看┃影视┃",
-      "type":3,
-      "api":"./lib/drpy4.min.js",
-      //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱看影院.js" 
-      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/爱看影视.js"   
-         },*/
     {
       "key":"drpy_js_爱看",
       "name":"┃爱看┃影视┃",
@@ -325,7 +300,7 @@
       "type":3,
       "api":"./lib/drpy4.min.js",
       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js"
-      "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/金曼影视.js"
+      "ext":"https://agit.ai/xiaowei233333/d0000r/raw/branch/main/js/%e9%87%91%e6%9b%bc%e5%bd%b1%e8%a7%86.js"
 
     },
     {
@@ -434,6 +409,24 @@
     "timeout":60
     },
     {
+      "key": "csp_Freeok",
+      "name": "️️┃ＦＲ┃２视┃",
+      "type": 3,
+      "playerType": "1",
+    "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240309.jar",
+
+      "api": "csp_Freeok"
+    },
+    {
+      "key": "FreeOK",
+      "name": "️️┃ＦＲ┃影视┃",
+      "type": 3,
+      "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240309.jar",
+      "api":"./lib/drpy4.min.js",
+
+      "ext": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/fr.js"
+    },
+   /* {
     "key":"FreeOK",
     "name":"️┃ＦＲ┃影视┃",
     "type":3,
@@ -443,7 +436,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },
+    },*/
     {
       "key": "新视觉影院",
       "name": "┃视觉┃影院┃",
