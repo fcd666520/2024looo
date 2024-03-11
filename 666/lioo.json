@@ -258,15 +258,21 @@
       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/voflix.js"
       },
+           {
+       "key":"drpy_js_hd影视",
+       "name":"┃视觉┃影视┃",
+       "type":3,
+      "api":"./lib/drpy4.min.js",
+       //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/hd%e5%bd%b1%e8%a7%86.js"
+     },
      {
        "key":"drpy_js_HDmoli",
        "name":"┃ＨＤ┃影视┃",
        "type":3,
       "api":"./lib/drpy4.min.js",
        //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
-       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/HDmoli.js"
-
-     },
+       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/HDmoli.js"     },
     {
       "key":"drpy_js_米爱影视",
       "name":"┃米爱┃影视┃",
