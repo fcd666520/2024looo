@@ -440,7 +440,7 @@
       "name": "┃视觉┃影院┃",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./JAR/XBPQ%20%281%29.jar",
+      "jar": "./JAR/custom_spider (3).jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -466,7 +466,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/",
-    "jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"
+    "jar":"./JAR/custom_spider (3).jar"
     },
     {
     "key":"火狐",
