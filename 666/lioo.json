@@ -118,7 +118,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar"
+      "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar",
       "ext":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/jianpian.json$$$1",
        "timeout":60
        },
