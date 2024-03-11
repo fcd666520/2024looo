@@ -1,11 +1,11 @@
-// 网址发布页 https://molicp.com
+// 网址发布页 https://molicp.com，，https://www.80kk.app/
 muban.首图.二级.title = '.text-fff--font&&Text;.data--span:eq(0)&&Text';
 muban.首图.二级.desc = '#rating&&Text;;;.data--span:eq(1)&&Text;.data--span:eq(2)&&Text';
 muban.首图.二级.content = '.desc&&Text';
 var rule = {
     title:'HDmoli',
     模板:'首图',
-    host:'https://www.hdmoli.pro',
+    host:'https://www.80kk.app/',
     // url:'/mlist/fyclass-fypage.html',
     url:'/search.php?page=fypage&searchtype=5&tid=fyfilter',
     filterable:1,//是否启用分类筛选,
