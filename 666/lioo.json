@@ -182,13 +182,13 @@
     "ext":{"danmu":true},
     "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
     },
-    /*{
+    {
       "key":"drpy_js_影渣渣",
       "name":"┃影渣┃影视┃",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影渣渣.js"
-      },*/
+      },
 {
       "key": "jojo",
       "name": "┃ＪＯ┃嗅探┃",
@@ -266,14 +266,14 @@
        //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
        "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/hd%e5%bd%b1%e8%a7%86.js"
      },*/
-     /*{
+     {
        "key":"drpy_js_HDmoli",
        "name":"┃ＨＤ┃影视┃",
        "type":3,
       "api":"./lib/drpy4.min.js",
        //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
-       "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/HDmoli.js"
-       },*/
+       "ext":"https://agit.ai/xiaowei233333/d0000r/raw/branch/main/js/HDmoli.js"
+       },
     {
       "key":"drpy_js_米爱影视",
       "name":"┃米爱┃影视┃",
