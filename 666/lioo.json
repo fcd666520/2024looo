@@ -70,7 +70,7 @@
     },
     {
       "key": "原创",
-      "name": "┃饭硬┃影视┃",
+      "name":"┃饭硬┃影视┃",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -80,7 +80,7 @@
     },
     {
       "key": "酷看",
-      "name": "┃酷看┃秒播",
+      "name":"┃酷看┃秒播┃",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
