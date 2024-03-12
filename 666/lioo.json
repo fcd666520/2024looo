@@ -69,6 +69,26 @@
     "filterable":0
     },
     {
+      "key": "原创",
+      "name": "┃饭硬┃影视┃",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "酷看",
+      "name": "┃酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
     "key":"AliShare",
     "name":"┃弹幕┃分享┃",
     "type":3,
@@ -459,7 +479,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://www.kuin.one/api.php/app/",
-    "jar":"./JAR/custom_spider(3).jar"
+    "jar":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/JAR/custom_spider%20%283%29.jar"
     },
     {
     "key":"火狐",
@@ -786,7 +806,7 @@
     },
     {
     "key":"YiSo",
-    "name":"┃易搜┃搜索┃",
+    "name":"┃易搜┃饭硬┃",
     "type":3,
     "api":"csp_YiSo",
     "searchable":1,
@@ -796,7 +816,7 @@
     },
     {
     "key":"Zhaozy",
-    "name":"┃资源┃搜索┃",
+    "name":"┃资源┃饭硬┃",
     "type":3,
     "api":"csp_Zhaozy",
     "searchable":1,
@@ -806,7 +826,7 @@
     },
     {
     "key":"PanSou",
-    "name":"┃盘搜┃搜索┃",
+    "name":"┃盘搜┃饭硬┃",
     "type":3,
     "api":"csp_PanSou",
     "searchable":1,
@@ -816,7 +836,7 @@
     },
     {
     "key":"UpYun",
-    "name":"┃Up搜┃搜索┃",
+    "name":"┃Ｕ搜┃饭硬┃",
     "type":3,
     "api":"csp_UpYun",
     "searchable":1,
@@ -826,7 +846,7 @@
     },
     {
     "key":"PanSearch",
-    "name":"┃盘Se┃搜索┃",
+    "name":"┃盘Ｓ┃饭硬┃",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,
@@ -836,7 +856,7 @@
     },
     {
     "key":"七夜",
-    "name":"┃七夜┃搜索┃",
+    "name":"┃七夜┃饭硬┃",
     "type":3,
     "api":"csp_Dovx",
     "searchable":1,
