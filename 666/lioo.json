@@ -1607,7 +1607,7 @@
     {"key":"云盘论坛","name":"┃云盘┃论坛┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘论坛.json"},
     {"key":"云盘资源","name":"┃云盘┃资源┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘资源.json"},
     {"key":"云盘资源分享","name":"┃云盘┃分享┃","jar":"./JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei233333/api/raw/branch/main/XYQHiker/云盘资源分享.json"},
-    {"key":"玩偶弹幕","name":"┃弹幕┃玩偶┃","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"https://agit.ai/xiaowei233333/api/raw/branch/main/DM/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json","token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
+    //{"key":"玩偶弹幕","name":"┃弹幕┃玩偶┃","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"https://agit.ai/xiaowei233333/api/raw/branch/main/DM/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json","token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"搜索弹幕","name":"┃弹幕┃搜索┃","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"Upys","name":"┃弹幕┃云云┃","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
     {"key":"UpYun","name":"┃弹幕┃云搜┃","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/token.txt","danmu":true},"jar":"./JAR/danmu.jar"},
@@ -1652,7 +1652,8 @@
     {"name":"线路12","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
     {"name":"线路13","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}],
     "rules":
-    [{"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    [
+    {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
     {"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
     {"name":"暴风广告","hosts":["bfzy","bfbfvip"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
