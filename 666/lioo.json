@@ -69,26 +69,6 @@
     "filterable":0
     },
     {
-      "key": "原创",
-      "name":"┃饭硬┃影视┃",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "酷看",
-      "name":"┃酷看┃秒播┃",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
     "key":"AliShare",
     "name":"┃弹幕┃分享┃",
     "type":3,
@@ -101,17 +81,18 @@
     "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar",
     "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/alishare.txt$$$db$$$1"
     },
-    {
-    "key":"玩偶影视",
-    "name":"┃星标┃玩偶┃",
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/spider.jar",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
-    },
+	  {
+      "key":"酷看弹幕",
+      "name":"┃酷看┃弹幕┃",
+      "type":3,
+      "api":"csp_Kkys",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"danmu":true},
+      "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar"
+      //"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1d0a74ff670d78850fd443840fb66c88"
+      },
     {
     "key":"玩偶哥哥",
     "name":"┃玩偶┃弹幕┃",
@@ -122,25 +103,17 @@
     "changeable":0,
     "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-    //"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     {
-    "key":"贱贱",
-    "name":"┃荐片┃秒播┃",
+    "key":"玩偶弹幕",
+    "name":"┃弹幕┃玩偶┃",
     "type":3,
+    "api":"csp_Wogg",
     "searchable":1,
     "quickSearch":1,
-    "changeable":1,
-    "playerType":"1",
-    "api":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
-    "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
-    },
-    {
-    "key":"荐片",
-    "name":"┃荐片┃影视┃",
-    "api":"csp_Jianpian",
-    "type":3,
-    "playerType":"2",
-    "ext":"http://api2.rinhome.com"
+    "filterable":1,
+    "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "site":"https://www.wogg.xyz","danmu":true},
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
     },
     {
     "key":"荐片弹幕版",
@@ -169,17 +142,6 @@
     //"jar":"https://agit.ai/xiaowei233333/jar/raw/branch/main/okpng.txt"
     },
     {
-    "key":"Czsapp",
-    "name":"┃厂长┃直连┃",
-    "type":3,
-    "api":"csp_Czsapp",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://www.czzy77.com/"
-    },
-    {
     "key":"南瓜弹幕",
     "name":"┃南瓜┃弹幕┃",
     "type":3,
@@ -188,7 +150,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
     },
     {
     "key":"三六零弹幕",
@@ -199,7 +161,84 @@
     "filterable":1,
     "changeable":1,
     "ext":{"danmu":true},
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;3ba10108c36596f3fc8c6580adf974bb"
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
+    },
+    {
+    "key":"jojo弹幕直连",
+    "name":"┃ＪＯ┃弹幕┃",
+    "type":3,
+    "api":"csp_Jiohub",
+    "searchable":1,
+    "filterable":1,
+    "changeable":1,
+    "ext":{"danmu":true},
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
+    },
+    {
+      "key": "原创",
+      "name":"┃饭硬┃影视┃",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "酷看",
+      "name":"┃酷看┃秒播┃",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+    "key":"玩偶影视",
+    "name":"┃星标┃玩偶┃",
+    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/spider.jar",
+    "type":3,
+    "api":"csp_XYQHikerAL",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1",
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
+    },
+
+    //"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    {
+    "key":"贱贱",
+    "name":"┃荐片┃秒播┃",
+    "type":3,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "playerType":"1",
+    "api":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
+    "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
+    },
+    {
+    "key":"荐片",
+    "name":"┃荐片┃影视┃",
+    "api":"csp_Jianpian",
+    "type":3,
+    "playerType":"2",
+    "ext":"http://api2.rinhome.com"
+    },
+
+    {
+    "key":"Czsapp",
+    "name":"┃厂长┃直连┃",
+    "type":3,
+    "api":"csp_Czsapp",
+    "playerType":2,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "ext":"https://www.czzy77.com/"
     },
     {
     "key":"jojo",
@@ -213,19 +252,6 @@
     "danmu":true
     },
     "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar"
-    },
-    {
-    "key":"jojo弹幕直连",
-    "name":"┃ＪＯ┃弹幕┃",
-    "type":3,
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar",
-    "api":"csp_Jiohub",
-    "searchable":1,
-    "filterable":1,
-    "changeable":1,
-    "ext":{
-    "danmu":true
-    }
     },
     {
     "key":"南瓜",
@@ -912,18 +938,6 @@
     "quickSearch":1,
     "filterable":1,
     "changeable":0
-    },
-    {
-    "key":"玩偶弹幕",
-    "name":"┃弹幕┃玩偶┃",
-    "type":3,
-    "api":"csp_Wogg",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-    "site":"https://www.wogg.xyz","danmu":true},
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
     "key":"搜索弹幕",
