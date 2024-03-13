@@ -167,12 +167,14 @@
     "key":"jojo弹幕直连",
     "name":"┃ＪＯ┃弹幕┃",
     "type":3,
+    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1",
     "api":"csp_Jiohub",
     "searchable":1,
     "filterable":1,
     "changeable":1,
-    "ext":{"danmu":true},
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
+    "ext":{
+    "danmu":true
+    }
     },
     {
       "key": "原创",
