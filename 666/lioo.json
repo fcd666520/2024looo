@@ -163,7 +163,33 @@
     "ext":{"danmu":true},
     "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
     },
+{
+      "key": "jojo",
+      "name": "┃ＪＯ┃嗅探┃",
+      "type": 3,
+      "api": "csp_Jojo",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
+    },
     {
+      "key": "jojo弹幕直连",
+      "name": "┃ＪＯ┃直连┃",
+      "type": 3,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    /*{
     "key":"jojo弹幕直连",
     "name":"┃ＪＯ┃弹幕┃",
     "type":3,
@@ -175,7 +201,7 @@
     "ext":{
     "danmu":true
     }
-    },
+    },*/
     {
       "key": "原创",
       "name":"┃饭硬┃影视┃",
@@ -242,7 +268,7 @@
     "changeable":1,
     "ext":"https://www.czzy77.com/"
     },
-    {
+    /*{
     "key":"jojo",
     "name":"┃ＪＯ┃嗅探┃",
     "type":3,
@@ -254,7 +280,7 @@
     "danmu":true
     },
     "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar"
-    },
+    },*/
     {
     "key":"南瓜",
     "name":"┃影视┃南瓜┃",
