@@ -174,13 +174,13 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1d0a74ff670d78850fd443840fb66c88"
     },
     {
       "key": "jojo弹幕直连",
       "name": "┃ＪＯ┃直连┃",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1d0a74ff670d78850fd443840fb66c88r",
       "api": "csp_Jiohub",
       "searchable": 1,
       "filterable": 1,
