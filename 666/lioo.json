@@ -562,15 +562,15 @@
     "冒险片"
     ]
     },
-    {
+    /*{
     "key":"drpy_js_北极狐[V2]",
     "name":"┃北极┃狐狸┃",
     "type":3,
     "api":"./lib/drpy4.min.js",
     //"ext":"https://jihulab.com/love6/gao/-/raw/master/js/北极狐[V2].js"
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e5%8c%97%e6%9e%81%e7%8b%90.js"
-    },
-    /*{
+    },*/
+    {
     "key":"csp_Nmys",
     "name":"┃农民┃影视┃",
     "type":3,
@@ -579,7 +579,7 @@
     "quickSearch":1,
     "changeable":1,
     "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/nmys.json"
-    },*/
+    },
     {
     "key":"农民",
     "name":"┃农民┃影视┃",
@@ -590,16 +590,6 @@
     "filterable":1,
     "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"
     },
-    /*{
-    "key":"csp_beijihu",
-    "name":"┃极狐┃影视┃",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.kuin.one/api.php/app/"
-    },*/
     {
     "key":"Lib",
     "name":"┃利播┃直连┃",
