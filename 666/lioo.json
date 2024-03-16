@@ -571,6 +571,14 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
+    "key":"drpy_js_Anime1动畫",
+    "name":"┃ＡＭ┃动漫┃",
+    "type":3,
+    "api":"./lib/drpy4.min.js",
+    //"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
+    "ext":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/js/Anime1%e5%8a%a8%e7%95%ab.js"
+    },
+    {
     "key":"drpy_js_喵次元",
     "name":"┃喵次┃动漫┃",
     "type":3,
