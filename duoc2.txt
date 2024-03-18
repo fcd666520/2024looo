@@ -4,6 +4,35 @@
       "name": "推荐AG影视",
       "url": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json"
     },
+      {
+      "name": "推荐JS影视",
+      "url": "https://agit.ai/xiaowei233333/g2024/raw/branch/master/js.json"
+    },
+          {
+      "name": "推荐云盘影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/云盘/api.json"
+    },      {
+      "name": "推荐动漫影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/动漫/api.json"
+    },      {
+      "name": "推荐AP影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/影视/api.json"
+    },      {
+      "name": "推荐教育影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/教育/api.json"
+    },      {
+      "name": "推荐文艺影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/文艺/api.json"
+    },      {
+      "name": "推荐直播影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/直播/api.json"
+    },      {
+      "name": "推荐磁力影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/磁力/api.json"
+    },      {
+      "name": "推荐体育影视",
+      "url": "https://agit.ai/xiaowei233333/2022/raw/branch/main/%e4%bd%93%e8%82%b2/api.json"
+    },
        {
       "name": "🦊极狐影视🦊",
       "url": "https://jihulab.com/mml/looo/-/raw/master/666/lioo.json"
