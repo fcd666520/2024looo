@@ -24,13 +24,13 @@
     "ext":{
     "danmu":true
     },
-    "jar":"./JAR/danmu0229.jar"
+    "jar":"https://agit.ai/xiaowei233333/2201/raw/branch/main/okpng.txt"
     },
     {
     "key":"jojo弹幕直连",
     "name":"┃ＪＯ┃弹幕┃",
     "type":3,
-    "jar":"./JAR/danmu0229.jar",
+    "jar":"https://agit.ai/xiaowei233333/2201/raw/branch/main/okpng.txt",
     "api":"csp_Jiohub",
     "searchable":1,
     "filterable":1,
