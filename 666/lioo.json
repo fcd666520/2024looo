@@ -150,8 +150,9 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
+    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar"
     },
+    
     {
     "key":"三六零弹幕",
     "name":"┃三六┃弹幕┃",
