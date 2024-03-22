@@ -1,6 +1,6 @@
 var rule = {//https://dm.qg50.com/  https://web.qg50.com/
 	title:'路漫漫',
-	host:'https://www.lmm55.com/',
+	host:'https://www.lmmvip.com/',
 	// url:'/vod/show/id/fyclass/page/fypage.html',
 	url:'/vod/show/id/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
