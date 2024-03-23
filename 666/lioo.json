@@ -258,6 +258,22 @@
     "ext":"./js/看韩剧.js"
     },
     {
+    "key":"csp_Freeok",
+    "name":"️️┃ＦＲ┃２视┃",
+    "type":3,
+    "playerType":"1",
+    "jar":"./JAR/PandaQ240318.jar",
+    "api":"csp_Freeok"
+    },
+    {
+    "key":"FreeOK",
+    "name":"️️┃ＦＲ┃影视┃",
+    "type":3,
+    "jar":"./JAR/PandaQ240318.jar",
+    "api":"./lib/drpy4.min.js",
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/fr.js"
+    },
+    {
     "key":"LIBVIO",
     "name":"┃ＬＩ┃影视┃",
     "type":3,
@@ -414,22 +430,6 @@
     "filterable":0,
     "ext":"https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
     "timeout":60
-    },
-    {
-    "key":"csp_Freeok",
-    "name":"️️┃ＦＲ┃２视┃",
-    "type":3,
-    "playerType":"1",
-    "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240309.jar",
-    "api":"csp_Freeok"
-    },
-    {
-    "key":"FreeOK",
-    "name":"️️┃ＦＲ┃影视┃",
-    "type":3,
-    "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240309.jar",
-    "api":"./lib/drpy4.min.js",
-    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/fr.js"
     },
     /*{
     "key":"FreeOK",
