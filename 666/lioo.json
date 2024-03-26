@@ -189,7 +189,8 @@
     {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
-    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar",
+    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/spider.jar",
+    //"jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar",
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/spider.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
