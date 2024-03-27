@@ -204,10 +204,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 25
+      "ext": {"danmu": true},
+      "timeout": 25,
+          "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar"
+
     },
     {
       "key": "️爱看Bot弹幕版",
@@ -217,10 +217,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "ext": {"danmu": true},
+      "timeout": 10,
+          "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar"
+
     },
     {
     "key":"塬创",
