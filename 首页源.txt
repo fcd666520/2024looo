@@ -20,7 +20,7 @@
 {
     "broadcastCode": 3,
     "title": "系统公告",
-    "content": "已更新一批直播源，各位用户可以进入热门直播源页面中订阅使用！",
+    "content": "最终版本，不再更新",
     "url": "",
     "button":"了解",
     "type":"text"
