@@ -30,7 +30,8 @@ JS影视,https://agit.ai/xiaowei233333/g2024/raw/branch/master/js.json|
 ＡＥ影视,https://agit.ai/xiaowei233333/2022/raw/branch/main/影视/api.json|
 全网直播,https://agit.ai/xiaowei233333/2022/raw/branch/main/直播/api.json|
 磁力搜索,https://agit.ai/xiaowei233333/2022/raw/branch/main/磁力/api.json
-<hotLive>
+<hot>
+<hotLive><hotLive>
 <ban_node><ban_node>
 <broadcast>
 {
