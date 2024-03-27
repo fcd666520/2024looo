@@ -6,7 +6,7 @@
     },
     {
     "name":"推荐HL影视",
-    "url":"https://jihulab.com/mml/tttk/-/raw/master/666/lioo.json"
+    "url":"https://jihulab.com/mml/tttk/-/raw/master/666/uuu.json"
     },
     {
     "name":"推荐JS影视",
