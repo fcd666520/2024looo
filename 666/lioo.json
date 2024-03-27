@@ -196,31 +196,6 @@
     //jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
     },
     {
-    "key":"白票弹幕版",
-    "name":"┃白票┃弹幕┃",
-    "type":3,
-    "api":"csp_Cs1369",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{"danmu":true},
-    "timeout":25,
-    "jar":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/JAR/okpng%20%284%29.txt"
-    },
-    {
-    "key":"️爱看Bot弹幕版",
-    "name":"┃爱看┃弹幕┃",
-    "type":3,
-    "api":"csp_Ikanbot",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{"danmu":true},
-    "timeout":10,
-    "jar":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/JAR/okpng%20%284%29.txt"
-    },
-    {
     "key":"塬创",
     "name":"┃饭硬┃影视┃",
     "type":3,
