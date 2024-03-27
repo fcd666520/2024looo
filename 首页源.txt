@@ -1,50 +1,41 @@
-//https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
 <version>
 {
-    "versionCode": 2024,
-    "isForceUpdate": 0,
-    "versionName": "1.0.7",
-    "downurl": "",
-    "updateLog": "新增：支持弹幕（需要影视源支持）
-    优化：解析成功率
-    优化：悬浮窗播放
-    优化：直播分辨率
-    优化：磁力解析
-    优化：片头片尾调节
-    优化：包体积大小
-    优化：字幕偏移
-    优化：一些UI",
-    "size": 13940
+"versionCode": 99999999999,
+"isForceUpdate": 1,
+"versionName": "测试包0",
+"downurl": "https://www.123pan.com/s/izDSVv-bVkWA.html",
+"updateLog": "本应用仅供学习交流，现已开源，故不再额外提供测试包",
+"size": 13940
 }
 <version>
 
-<available>true<available>
+<FilterPage>v2<FilterPage>
 
-<video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
-<live><live>
+<homepage_v2>none<homepage_v2>
+
+<replace><replace>
+
+<available>false<available>
+
+<video>仅供学习，于2024年3月23日停止使用，请不要再使用本软件<video>
+<live>请不要再使用本软件<live>
 <hostUrl><hostUrl>
 <host><host>
 <shareUrl><shareUrl>
-<hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json
-<hotLive>
+<hot><hot>
+<hotLive><hotLive>
+<imageHost><imageHost>
 
 <ban_node><ban_node>
 <broadcast>
 {
-    "broadcastCode": 3,
-    "title": "系统公告",
-    "content": "最终版本，不再更新",
-    "url": "",
-    "button":"了解",
-    "type":"text"
+"broadcastCode": 10000,
+"title": "提示",
+"content": "本应用仅供学习交流，现已开源，故不再额外提供测试包",
+"url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+"button":"查看源代码",
+"type":"text"
 }
 <broadcast>
 
-<banner>
-{"title":"爆款流量卡","desc":"官方正版，不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/Index/411112"}|
-{"title":"推荐流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240111/d9ae1797fd7b48b9b1d399dd5c97484a.jpg","url":"https://haokawx.lot-ml.com/h5order/index?pudiD=445&userid=411112"}|
-{"title":"电脑游戏下载","desc":"多款破解电脑游戏","imgUrl":"https://www.2023game.com/d/file/p/2023/12-24/5983f1786f418ee22a88ef0428f6877b.webp?x-oss-process=image/resize,m_pad,color_000000,w_800,h_500","url":"https://www.2023game.com/"}|
-{"title":"热点搜索","desc":"搜索全网热点，今日话题","imgUrl":"https://img0.baidu.com/it/u=38340466,2365835230&fm=253&fmt=auto&app=138&f=PNG?w=897&h=383","url":"https://xianggee.com/web/hotband"}|
-
-{"title":"星标卡店铺","desc":"点我购买流量卡","imgUrl":"https://haokawx.lot-ml.com/images/dianpu_img1.png","url":"https://haokawx.lot-ml.com/Product/Index/411112"}
-<banner>
+<banner><banner>
