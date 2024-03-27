@@ -13,7 +13,6 @@
 <available>true<available>
 
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
-<hotLive>
 
 <ban_node><ban_node>
 <broadcast>
