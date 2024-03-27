@@ -5,15 +5,7 @@
     "isForceUpdate": 0,
     "versionName": "1.0.7",
     "downurl": "",
-    "updateLog": "新增：支持弹幕（需要影视源支持）
-    优化：解析成功率
-    优化：悬浮窗播放
-    优化：直播分辨率
-    优化：磁力解析
-    优化：片头片尾调节
-    优化：包体积大小
-    优化：字幕偏移
-    优化：一些UI",
+    "updateLog": "最终版本",
     "size": 13940
 }
 <version>
@@ -25,7 +17,7 @@
 <replace><replace>
 
 <available>false<available>
-<video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
+<video>https://agit.ai/xiaowei233333/looo/raw/branch/master/duoc2.txt<video>
 <live>https://tvbox.cainisi.cf/TV<live>
 <hostUrl>https://www.keke9.app<hostUrl>
 <host>https://gz-vres.obs.cn-south-1.myhuaweicloud.com<host>
@@ -52,7 +44,7 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 {
     "broadcastCode": 3,
     "title": "系统公告",
-    "content": "已更新一批直播源，各位用户可以进入热门直播源页面中订阅使用！",
+    "content": "最终版本，不再更新！！！",
     "url": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
     "button":"了解",
     "type":"text"
