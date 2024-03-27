@@ -1,0 +1,41 @@
+<version>
+{
+"versionCode": 99999999999,
+"isForceUpdate": 1,
+"versionName": "测试包0",
+"downurl": "https://www.123pan.com/s/izDSVv-bVkWA.html",
+"updateLog": "本应用仅供学习交流，现已开源，故不再额外提供测试包",
+"size": 13940
+}
+<version>
+
+<FilterPage>v2<FilterPage>
+
+<homepage_v2>none<homepage_v2>
+
+<replace><replace>
+
+<available>false<available>
+
+<video>仅供学习，于2024年3月23日停止使用，请不要再使用本软件<video>
+<live>请不要再使用本软件<live>
+<hostUrl><hostUrl>
+<host><host>
+<shareUrl><shareUrl>
+<hot><hot>
+<hotLive><hotLive>
+<imageHost><imageHost>
+
+<ban_node><ban_node>
+<broadcast>
+{
+"broadcastCode": 10000,
+"title": "提示",
+"content": "本应用仅供学习交流，现已开源，故不再额外提供测试包",
+"url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+"button":"查看源代码",
+"type":"text"
+}
+<broadcast>
+
+<banner><banner>
