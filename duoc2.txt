@@ -5,6 +5,10 @@
       "url": "https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json"
     },
       {
+      "name": "推荐HL影视",
+      "url": "https://jihulab.com/mml/tttk/-/raw/master/666/lioo.json"
+    },
+      {
       "name": "推荐JS影视",
       "url": "https://agit.ai/xiaowei233333/g2024/raw/branch/master/js.json"
     },
