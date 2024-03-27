@@ -50,6 +50,21 @@
     //"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/lib/PG%E6%8E%A8%E9%80%81.json"
     "ext":"/js/配置中心.json"
     },
+    {
+    "key":"玩偶影视",
+    "name":"┃星标┃玩偶┃",
+    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/spider.jar",
+    //"jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar",
+    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/spider.jar",
+    "type":3,
+    "api":"csp_XYQHikerAL",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1",
+    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
+    },
+    //"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     {"key":"csp_YGP",
     "name":"┃叨观┃预告┃",
     "type":3,
@@ -80,6 +95,20 @@
     "timeout":60,
     "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar",
     "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/alishare.txt$$$db$$$1"
+    },
+    {
+    "key":"阿里合集",
+    "name":"┃阿里┃合集┃",
+    "type":3,
+    "api":"csp_AliShare",
+    "searchable":1,
+    "changeable":0,
+    "filterable":0,
+    "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "share":""},
+    "style":{"type":"list"},
+    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar"
+    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"
     },
     {
     "key":"酷看弹幕",
@@ -167,6 +196,33 @@
     //jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1"
     },
     {
+      "key": "白票弹幕版",
+      "name": "┃白票┃弹幕┃",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "️爱看Bot弹幕版",
+      "name": "┃爱看┃弹幕┃",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
     "key":"塬创",
     "name":"┃饭硬┃影视┃",
     "type":3,
@@ -186,21 +242,6 @@
     "quickSearch":1,
     "changeable":1
     },
-    {
-    "key":"玩偶影视",
-    "name":"┃星标┃玩偶┃",
-    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/spider.jar",
-    //"jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar",
-    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/spider.jar",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;6d1b30ac30414aa9e80bdb00207788b1",
-    "ext":"https://agit.ai/xiaowei233333/looo/raw/branch/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
-    },
-    //"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     {
     "key":"贱贱",
     "name":"┃荐片┃秒播┃",
@@ -997,20 +1038,6 @@
     "ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},"jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
-    },
-    {
-    "key":"阿里合集",
-    "name":"┃阿里┃合集┃",
-    "type":3,
-    "api":"csp_AliShare",
-    "searchable":1,
-    "changeable":0,
-    "filterable":0,
-    "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-    "share":""},
-    "style":{"type":"list"},
-    "jar":"https://agit.ai/xiaowei233333/2022/raw/branch/main/danmu.jar"
-    //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"
     },
     {
     "key":"红牛资源",
