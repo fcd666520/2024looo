@@ -1,9 +1,9 @@
 //https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
 <version>
 {
-    "versionCode": ,
+    "versionCode": 2024,
     "isForceUpdate": 0,
-    "versionName": "",
+    "versionName": "2.0.5",
     "downurl": "",
     "updateLog": "",
     "size": 13940
