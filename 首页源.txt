@@ -1,11 +1,11 @@
 //https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
 <version>
 {
-    "versionCode": 2024,
+    "versionCode": ,
     "isForceUpdate": 0,
-    "versionName": "1.0.7",
+    "versionName": "",
     "downurl": "",
-    "updateLog": "最终版本",
+    "updateLog": "",
     "size": 13940
 }
 <version>
@@ -36,10 +36,10 @@ JS影视,https://agit.ai/xiaowei233333/g2024/raw/branch/master/js.json|
 <broadcast>
 {
     "broadcastCode": 3,
-    "title": "系统公告",
-    "content": "最终版本，不再更新！！！",
-    "url": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
-    "button":"了解",
+    "title": "",
+    "content": "",
+    "url": "",
+    "button":"",
     "type":"text"
 }
 <broadcast>
