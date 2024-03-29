@@ -23,8 +23,13 @@
 <live>https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt<live>
 <hostUrl><hostUrl>
 <host><host>
-<shareUrl>https://magicalstory.lanzoui.com/b04kyoxab<shareUrl>
-<hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
+<shareUrl>https://www.123pan.com/s/Ik0Ijv-WAVXH.html<shareUrl>
+<hot>海龙影视,https://sourl.cn/FtBDQf|
+绝世影视,https://sourl.cn/HbpZrS|
+云盘影视,https://sourl.cn/sHj2MW|
+动漫影视,https://sourl.cn/KLUaqP|
+艾尔影视,https://agit.ai/xiaowei233333/2022/raw/branch/main/影视/api.json|
+小干货,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
 奥搜宝,http://lin.aosoubao.com/2/ymjr.json|6V,http://u6v.cn/6vX55k|
 小米,http://xhww.fun:63/小米/DEMO.json|运输车,https://weixine.net/ysc.json|
 4K影视,https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json|
@@ -42,7 +47,7 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 猎狼TV,https://52.lltv8.cn
 <hotLive>
 
-<ban_node>河马|七七<ban_node>
+<ban_node><ban_node>
 <broadcast>
 {
     "broadcastCode": 3,
