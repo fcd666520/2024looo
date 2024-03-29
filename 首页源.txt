@@ -1,49 +1,56 @@
+//https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
 <version>
 {
-    "versionCode": 2.0.5,
-    "isForceUpdate": 1,
-    "versionName": "2.0.5",
-    "downurl": "",
-    "updateLog": "",
-    "size": 10291218
-
+    "versionCode": 2024,
+    "isForceUpdate": 0,
+    "versionName": "1.0.7",
+    "downurl": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "updateLog": "新增：支持弹幕（需要影视源支持）
+    优化：解析成功率
+    优化：悬浮窗播放
+    优化：直播分辨率
+    优化：磁力解析
+    优化：片头片尾调节
+    优化：包体积大小
+    优化：字幕偏移
+    优化：一些UI",
+    "size": 13940
 }
 <version>
 
-<FilterPage>v2<FilterPage>
+<available>true<available>
 
-<homepage_v2>none<homepage_v2>
-
-<replace><replace>
-
-<available>false<available>
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
-<live>没有直播源！！！<live>
-<hostUrl><hostUrl>
-<host><host>
-<shareUrl><shareUrl>
-<hot>
-海龙影视,https://sourl.cn/FtBDQf|
-绝世影视,https://sourl.cn/HbpZrS|
-云盘影视,https://sourl.cn/sHj2MW|
-动漫影视,https://sourl.cn/KLUaqP|
-艾尔影视,https://agit.ai/xiaowei233333/2022/raw/branch/main/影视/api.json|
-小干货,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
+<live>https://tvbox.cainisi.cf/TV<live>
+<hostUrl>https://www.keke9.app<hostUrl>
+<host>https://gz-vres.obs.cn-south-1.myhuaweicloud.com<host>
+<shareUrl>https://magicalstory.lanzoui.com/b04kyoxab<shareUrl>
+<hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
 奥搜宝,http://lin.aosoubao.com/2/ymjr.json|6V,http://u6v.cn/6vX55k|
 小米,http://xhww.fun:63/小米/DEMO.json|运输车,https://weixine.net/ysc.json|
 4K影视,https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json|
 Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95c9887d79e4380f64cd592ed978ead5b/itvba/tv.json|
-君爹影视,http://home.jundie.top:81/top98.json<hot>
+VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
+高清4K,http://max.ruixinga.top/uploads/itvbox/hzmax.json|
+菜你死,https://tvbox.cainisi.cf|
+神器TV,https://神器每日推送.tk/pz.json|
+君爹影视,http://home.jundie.top:81/top98.json|
+摸鱼TV,https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json<hot>
+<hotLive>高清直播,https://jihulab.com/zhulr7765/tvbox/-/raw/main/live.txt|
+菜你死,https://tvbox.cainisi.cf/TV|饭太硬,https://xhdwc.tk/tvlive.txt|
+环宇,https://www.891218.xyz/free/zb/live.txt|
+有毒,https://youdu.fan/tvbox/live.txt|ZB1122,http://qrh.yimkj.cn/ym/lib/zb1122.txt|4K直播,https://weixine.net/tv/ysclive.txt|
+猎狼TV,https://52.lltv8.cn
 <hotLive>
-<hotLive>
-<ban_node><ban_node>
+
+<ban_node>河马|七七<ban_node>
 <broadcast>
 {
     "broadcastCode": 3,
-    "title": "",
-    "content": "",
-    "url": "",
-    "button":"",
+    "title": "系统公告",
+    "content": "已更新一批直播源，各位用户可以进入热门直播源页面中订阅使用！",
+    "url": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "button":"了解",
     "type":"text"
 }
 <broadcast>
