@@ -1,7 +1,7 @@
 <version>
 {
     "versionCode": 2.0.5,
-    "isForceUpdate": 0,
+    "isForceUpdate": 2,
     "versionName": "2.0.5",
     "downurl": "",
     "updateLog": "",
