@@ -21,7 +21,6 @@
 
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>https://tvbox.cainisi.cf/TV<live>
-<hostUrl>https://www.keke9.app<hostUrl>
 <host>https://gz-vres.obs.cn-south-1.myhuaweicloud.com<host>
 <shareUrl>https://magicalstory.lanzoui.com/b04kyoxab<shareUrl>
 <hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
