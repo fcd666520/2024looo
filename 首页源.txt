@@ -53,7 +53,7 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
     "broadcastCode": 3,
     "title": "系统公告",
     "content": "最终版本，不再维护",
-    "url": "",
+    "url": "https://www.123pan.com/s/Ik0Ijv-WAVXH.html",
     "button":"了解",
     "type":"text"
 }
