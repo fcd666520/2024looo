@@ -10,11 +10,11 @@
 
 }
 <version>
+<FilterPage>v2<FilterPage>
 <homepage_v2>none<homepage_v2>
 <available>false<available>
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>没有直播源！！！<live>
-<hostUrl>https://www.keke9.app<hostUrl>
 <host><host>
 <shareUrl><shareUrl>
 <hot>极狐影视,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
