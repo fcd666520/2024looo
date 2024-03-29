@@ -34,17 +34,8 @@
 小米,http://xhww.fun:63/小米/DEMO.json|运输车,https://weixine.net/ysc.json|
 4K影视,https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json|
 Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95c9887d79e4380f64cd592ed978ead5b/itvba/tv.json|
-VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
-高清4K,http://max.ruixinga.top/uploads/itvbox/hzmax.json|
-菜你死,https://tvbox.cainisi.cf|
-神器TV,https://神器每日推送.tk/pz.json|
-君爹影视,http://home.jundie.top:81/top98.json|
-摸鱼TV,https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json<hot>
-<hotLive>高清直播,https://jihulab.com/zhulr7765/tvbox/-/raw/main/live.txt|
-菜你死,https://tvbox.cainisi.cf/TV|饭太硬,https://xhdwc.tk/tvlive.txt|
-环宇,https://www.891218.xyz/free/zb/live.txt|
-有毒,https://youdu.fan/tvbox/live.txt|ZB1122,http://qrh.yimkj.cn/ym/lib/zb1122.txt|4K直播,https://weixine.net/tv/ysclive.txt|
-猎狼TV,https://52.lltv8.cn
+君爹影视,http://home.jundie.top:81/top98.json<hot>
+<hotLive>
 <hotLive>
 
 <ban_node><ban_node>
