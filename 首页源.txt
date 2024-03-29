@@ -11,12 +11,6 @@
 }
 <version>
 
-<FilterPage>v2<FilterPage>
-
-<homepage_v2>none<homepage_v2>
-
-<replace><replace>
-
 <available>false<available>
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>没有直播源！！！<live>
