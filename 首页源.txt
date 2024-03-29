@@ -43,10 +43,10 @@ Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95
 <broadcast>
 {
     "broadcastCode": 0,
-    "title": "系统公告",
-    "content": "最终版本，不再维护",
-    "url": "https://www.123pan.com/s/Ik0Ijv-WAVXH.html",
-    "button":"了解",
+    "title": "",
+    "content": "",
+    "url": "",
+    "button":"",
     "type":"text"
 }
 <broadcast>
