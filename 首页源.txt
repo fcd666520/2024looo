@@ -58,7 +58,7 @@ iTV吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95
 
 <banner>
 {"title":"爆款流量卡","desc":"官方正版，不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/Index/411112"}|
-{"title":"推荐流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240111/d9ae1797fd7b48b9b1d399dd5c97484a.jpg","url":"https://haokawx.lot-ml.com/h5order/index?pudiD=445&userid=411112"}|
+{"title":"推荐流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240206/576ecbc5a4104a1d9e8a92aef1d0275d.jpg","url":"https://haokawx.lot-ml.com/h5order/index?pudiD=494&userid=411112"}|
 {"title":"电脑游戏下载","desc":"多款破解电脑游戏","imgUrl":"https://www.2023game.com/d/file/p/2023/12-24/5983f1786f418ee22a88ef0428f6877b.webp?x-oss-process=image/resize,m_pad,color_000000,w_800,h_500","url":"https://www.2023game.com/"}|
 {"title":"热点搜索","desc":"搜索全网热点，今日话题","imgUrl":"https://img0.baidu.com/it/u=38340466,2365835230&fm=253&fmt=auto&app=138&f=PNG?w=897&h=383","url":"https://xianggee.com/web/hotband"}|
 
