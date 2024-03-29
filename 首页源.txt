@@ -31,8 +31,6 @@
 Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95c9887d79e4380f64cd592ed978ead5b/itvba/tv.json<hot>
 <hotLive>
 <hotLive>
-
-<ban_node>河马|七七<ban_node>
 <broadcast>
 {
     "broadcastCode": 1,
