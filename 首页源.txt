@@ -11,29 +11,32 @@
 }
 <version>
 
-<FilterPage>v2<FilterPage>
+<available>true<available>
 
-<homepage_v2>none<homepage_v2>
-
-<replace><replace>
-
-<available>false<available>
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
-<live>没有直播源！！！<live>
+<live>https://tvbox.cainisi.cf/TV<live>
 <hostUrl>https://www.keke9.app<hostUrl>
-<host><host>
-<shareUrl><shareUrl>
-<hot>极狐影视,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
-HL影视,https://jihulab.com/mml/tttk/-/raw/master/666/uuu.json|
-JS影视,https://agit.ai/xiaowei233333/g2024/raw/branch/master/js.json|
-云盘影视,https://agit.ai/xiaowei233333/2022/raw/branch/main/云盘/api.json|
-动漫影视,https://agit.ai/xiaowei233333/2022/raw/branch/main/动漫/api.json|
-ＡＥ影视,https://agit.ai/xiaowei233333/2022/raw/branch/main/影视/api.json|
-全网直播,https://agit.ai/xiaowei233333/2022/raw/branch/main/直播/api.json|
-磁力搜索,https://agit.ai/xiaowei233333/2022/raw/branch/main/磁力/api.json
-<hot>
-<hotLive><hotLive>
-<ban_node><ban_node>
+<host>https://gz-vres.obs.cn-south-1.myhuaweicloud.com<host>
+<shareUrl>https://magicalstory.lanzoui.com/b04kyoxab<shareUrl>
+<hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
+奥搜宝,http://lin.aosoubao.com/2/ymjr.json|6V,http://u6v.cn/6vX55k|
+小米,http://xhww.fun:63/小米/DEMO.json|运输车,https://weixine.net/ysc.json|
+4K影视,https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json|
+Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95c9887d79e4380f64cd592ed978ead5b/itvba/tv.json|
+VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
+高清4K,http://max.ruixinga.top/uploads/itvbox/hzmax.json|
+菜你死,https://tvbox.cainisi.cf|
+神器TV,https://神器每日推送.tk/pz.json|
+君爹影视,http://home.jundie.top:81/top98.json|
+摸鱼TV,https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json<hot>
+<hotLive>高清直播,https://jihulab.com/zhulr7765/tvbox/-/raw/main/live.txt|
+菜你死,https://tvbox.cainisi.cf/TV|饭太硬,https://xhdwc.tk/tvlive.txt|
+环宇,https://www.891218.xyz/free/zb/live.txt|
+有毒,https://youdu.fan/tvbox/live.txt|ZB1122,http://qrh.yimkj.cn/ym/lib/zb1122.txt|4K直播,https://weixine.net/tv/ysclive.txt|
+猎狼TV,https://52.lltv8.cn
+<hotLive>
+
+<ban_node>河马|七七<ban_node>
 <broadcast>
 {
     "broadcastCode": 3,
