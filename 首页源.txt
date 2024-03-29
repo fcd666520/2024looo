@@ -1,4 +1,3 @@
-//https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
 <version>
 {
     "versionCode": 2.0.5,
