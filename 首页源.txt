@@ -17,6 +17,7 @@
 }
 <version>
 
+<available>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<available>
 
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>https://tvbox.cainisi.cf/TV<live>
