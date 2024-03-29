@@ -1,11 +1,11 @@
 <version>
 {
     "versionCode": 2.0.5,
-    "isForceUpdate": 3,
+    "isForceUpdate": 0,
     "versionName": "2.0.5",
     "downurl": "",
     "updateLog": "",
-    "size": 13950
+    "size": 99999
 
 }
 <version>
