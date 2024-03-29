@@ -1,6 +1,6 @@
 <version>
 {
-"versionCode": 99999999999,
+"versionCode": 2024,
 "isForceUpdate": 1,
 "versionName": "测试包0",
 "downurl": "https://www.123pan.com/s/izDSVv-bVkWA.html",
