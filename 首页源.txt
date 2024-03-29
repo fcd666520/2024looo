@@ -24,7 +24,8 @@
 <hostUrl><hostUrl>
 <host><host>
 <shareUrl>https://www.123pan.com/s/Ik0Ijv-WAVXH.html<shareUrl>
-<hot>海龙影视,https://sourl.cn/FtBDQf|
+<hot>
+海龙影视,https://sourl.cn/FtBDQf|
 绝世影视,https://sourl.cn/HbpZrS|
 云盘影视,https://sourl.cn/sHj2MW|
 动漫影视,https://sourl.cn/KLUaqP|
@@ -41,7 +42,7 @@ Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95
 <ban_node><ban_node>
 <broadcast>
 {
-    "broadcastCode": 3,
+    "broadcastCode": 0,
     "title": "系统公告",
     "content": "最终版本，不再维护",
     "url": "https://www.123pan.com/s/Ik0Ijv-WAVXH.html",
