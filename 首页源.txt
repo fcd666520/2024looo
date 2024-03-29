@@ -5,7 +5,7 @@
     "versionName": "2.0.5",
     "downurl": "",
     "updateLog": "",
-    "size": 15001
+    "size": 13940
 
 }
 <version>
