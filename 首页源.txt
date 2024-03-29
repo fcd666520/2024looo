@@ -1,17 +1,28 @@
-//https://magical-app.oss-cn-guangzhou.aliyuncs.com/version_videos.ini
-<version>
+/<version>
 {
-    "versionCode": 2.0.5,
-    "isForceUpdate": 1,
-    "versionName": "2.0.5",
-    "downurl": "",
-    "updateLog": "",
+    "versionCode": 2024,
+    "isForceUpdate": 0,
+    "versionName": "1.0.7",
+    "downurl": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "updateLog": "新增：支持弹幕（需要影视源支持）
+    优化：解析成功率
+    优化：悬浮窗播放
+    优化：直播分辨率
+    优化：磁力解析
+    优化：片头片尾调节
+    优化：包体积大小
+    优化：字幕偏移
+    优化：一些UI",
     "size": 13940
-
 }
 <version>
 <FilterPage>v2<FilterPage>
-<available>false<available>
+
+<homepage_v2>none<homepage_v2>
+
+<replace><replace>
+<available>true<available>
+
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>https://tvbox.cainisi.cf/TV<live>
 <hostUrl>https://www.keke9.app<hostUrl>
