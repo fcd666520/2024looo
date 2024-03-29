@@ -11,7 +11,7 @@
 }
 <version>
 
-<available>really<available>
+<available><available>
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>没有直播源！！！<live>
 <hostUrl><hostUrl>
