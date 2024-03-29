@@ -3,7 +3,7 @@
 {
     "versionCode": 2024,
     "isForceUpdate": 0,
-    "versionName": "1.0.7",
+    "versionName": "9999",
     "downurl": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
     "updateLog": "新增：支持弹幕（需要影视源支持）
     优化：解析成功率
@@ -14,7 +14,7 @@
     优化：包体积大小
     优化：字幕偏移
     优化：一些UI",
-    "size": 13940
+    "size": 99999
 }
 <version>
 
@@ -43,7 +43,7 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 猎狼TV,https://52.lltv8.cn
 <hotLive>
 
-<ban_node>河马|七七<ban_node>
+
 <broadcast>
 {
     "broadcastCode": 99999999,
