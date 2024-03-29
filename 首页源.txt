@@ -30,7 +30,16 @@
 Itv吧,https://ghproxy.net/https://raw.githubusercontent.com/pdscxz/TV/fc8edcd95c9887d79e4380f64cd592ed978ead5b/itvba/tv.json<hot>
 <hotLive>
 <hotLive>
-
+<broadcast>
+{
+    "broadcastCode": 3,
+    "title": "系统公告",
+    "content": "已更新一批直播源，各位用户可以进入热门直播源页面中订阅使用！",
+    "url": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "button":"了解",
+    "type":"text"
+}
+<broadcast>
 <banner>
 {"title":"爆款流量卡","desc":"官方正版，不限速，无套路，就是可靠","imgUrl":"https://haokawx.lot-ml.com/images/top_banner.jpg","url":"https://haokawx.lot-ml.com/Product/Index/411112"}|
 {"title":"推荐流量卡","desc":"不限速，无套路，就是可靠","imgUrl":"https://haokaapi.lot-ml.com/upload/ProductUpDateImage/20240111/d9ae1797fd7b48b9b1d399dd5c97484a.jpg","url":"https://haokawx.lot-ml.com/h5order/index?pudiD=445&userid=411112"}|
