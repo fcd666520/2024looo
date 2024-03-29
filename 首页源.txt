@@ -10,7 +10,7 @@
 
 }
 <version>
-<FilterPage>v2<FilterPage>
+<FilterPage><FilterPage>
 <available>false<available>
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
 <live>没有直播源！！！<live>
@@ -31,10 +31,10 @@ JS影视,https://agit.ai/xiaowei233333/g2024/raw/branch/master/js.json|
 <broadcast>
 {
     "broadcastCode": 3,
-    "title": "",
-    "content": "",
-    "url": "",
-    "button":"",
+    "title": "系统公告",
+    "content": "已更新一批直播源，各位用户可以进入热门直播源页面中订阅使用！",
+    "url": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "button":"了解",
     "type":"text"
 }
 <broadcast>
