@@ -67,4 +67,3 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 
 {"title":"星标卡店铺","desc":"点我购买流量卡","imgUrl":"https://haokawx.lot-ml.com/images/dianpu_img1.png","url":"https://haokawx.lot-ml.com/Product/Index/411112"}
 <banner>
-创建训练
