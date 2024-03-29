@@ -2,8 +2,8 @@
 <version>
 {
     "versionCode": 2024,
-    "isForceUpdate": 0,
-    "versionName": "1.0.7",
+    "isForceUpdate": 1,
+    "versionName": "3.0.5",
     "downurl": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
     "updateLog": "新增：支持弹幕（需要影视源支持）
     优化：解析成功率
