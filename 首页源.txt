@@ -1,9 +1,9 @@
 <version>
 {
-    "versionCode": 2024,
+    "versionCode": 2.0.5,
     "isForceUpdate": 0,
-    "versionName": "1.0.7",
-    "downurl": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "versionName": "2.0.5",
+    "downurl": "",
     "updateLog": "新增：支持弹幕（需要影视源支持）
     优化：解析成功率
     优化：悬浮窗播放
@@ -20,8 +20,8 @@
 <available>true<available>
 
 <video>https://agit.ai/xiaowei233333/looo/raw/branch/master/666/lioo.json<video>
-<live>https://tvbox.cainisi.cf/TV<live>
-<hostUrl>https://www.keke9.app<hostUrl>
+<live>https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt<live>
+<hostUrl><hostUrl>
 <host>https://gz-vres.obs.cn-south-1.myhuaweicloud.com<host>
 <shareUrl>https://magicalstory.lanzoui.com/b04kyoxab<shareUrl>
 <hot>🦊🦊🦊🦊🦊🦊,https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json|
@@ -47,8 +47,8 @@ VIP影视,https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json|
 {
     "broadcastCode": 3,
     "title": "系统公告",
-    "content": "已更新一批直播源，各位用户可以进入热门直播源页面中订阅使用！",
-    "url": "https://wwyt.lanzn.com/in8Pg1kv9v9c",
+    "content": "最终版本，不再维护",
+    "url": "",
     "button":"了解",
     "type":"text"
 }
