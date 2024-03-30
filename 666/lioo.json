@@ -38,7 +38,7 @@
     "name":"┃网盘┃配置┃",
     "type":3,
     "api":"csp_Config",
-    "jar":"https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/pg.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/pg.jar",
     "searchable":0,
     "changeable":0,
     "style":{
@@ -415,7 +415,7 @@
     "type":3,
     "api":"csp_Panta",
     //"jar":"http://www.wya6.cn/tz/wypg.php",
-    "jar":"https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/pg.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/pg.jar",
     "changeable":2,
     "searchable":1,
     "quickSearch":1,
