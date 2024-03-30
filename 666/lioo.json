@@ -93,7 +93,7 @@
     "changeable":1,
     "filterable":0,
     "timeout":60,
-    "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/20249ao/master/jar/pg.jar",
     "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/alishare.txt$$$db$$$1"
     },*/
     {
@@ -153,7 +153,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/jar/pg.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/20249ao/master/jar/pg.jar",
     "ext":"https://agit.ai/xiaowei233333/g2024/raw/branch/master/json/jianpian.json$$$1",
     "timeout":60
     },
