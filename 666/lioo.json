@@ -179,6 +179,17 @@
     "changeable":1
     },
     {
+    "key": "白嫖",
+    "name": "┃白飘┃无广┃",
+    "type": 3,
+    "api": "csp_BaiPiao",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://www.baipiaoys.com:9092/"
+    },
+    {
     "key":"酷看",
     "name":"┃酷看┃秒播┃",
     "type":3,
@@ -248,7 +259,7 @@
     "name":"️️┃ＦＲ┃２视┃",
     "type":3,
     "playerType":"1",
-    "jar":"https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/PandaQ240318.jar",
+    "jar":"https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/PandaQ240327.jar",
     "api":"csp_Freeok"
     },
     {
