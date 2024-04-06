@@ -76,19 +76,9 @@
     "filterable":1,
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
     },
-    {
-    "key":"阿里合集",
-    "name":"┃阿里┃合集┃",
-    "type":3,
-    "api":"csp_AliShare",
-    "searchable":1,
-    "changeable":0,
-    "filterable":0,
-    "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-    "share":""},
-    "style":{"type":"list"},
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
-    },
+
+	{"key":"阿里合集","name":"阿里｜合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},"style":{"type":"list"},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
+
     {
     "key":"酷看弹幕",
     "name":"┃酷看┃弹幕┃",
