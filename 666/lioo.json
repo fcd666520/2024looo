@@ -68,7 +68,8 @@
     {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/spider.jar",
+        
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
@@ -87,7 +88,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "share":""},
     "style":{"type":"list"},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3a"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jara"
     },
     {
     "key":"阿里合集",
@@ -100,7 +101,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "share":""},
     "style":{"type":"list"},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3a"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jara"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;71a1068b2ae6420c851993eec0c38cda"
     },
     {
@@ -112,7 +113,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3a"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jara"
     },
     {
     "key":"玩偶哥哥",
@@ -134,7 +135,7 @@
     "filterable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "site":"https://www.wogg.xyz","danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"荐片弹幕版",
@@ -158,7 +159,7 @@
     "filterable":1,
     "ext":{"danmu":true},
     "timeout":25,
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"南瓜弹幕",
@@ -169,7 +170,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"叁六零弹幕",
@@ -180,7 +181,7 @@
     "filterable":1,
     "changeable":1,
     "ext":{"danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"塬创",
@@ -789,7 +790,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -813,7 +814,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"云搜弹幕",
@@ -824,7 +825,7 @@
     "filterable":0,
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"盘搜弹幕",
@@ -836,7 +837,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"易搜弹幕",
@@ -848,7 +849,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true,"cookie":"satoken=e43a2935-ea0e-464f-ba32-2267e97b9349"},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"云盘弹幕",
@@ -859,7 +860,7 @@
     "filterable":0,
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"小纸条弹幕",
@@ -870,7 +871,7 @@
     "filterable":1,
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
     "key":"Gitcafe",
@@ -908,7 +909,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -922,7 +923,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "site":"http://www.ttkx.live","danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -936,7 +937,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -948,7 +949,7 @@
     "changeable":1,
     "ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -961,7 +962,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "site":"https://www.weixine.net","danmu":true},
-    "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -973,7 +974,7 @@
     "filterable":1,
     "changeable":1,
     "ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "danmu":true},"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3"
+    "danmu":true},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     //"jar":"https://agit.ai/xiaowei233333/jjj/raw/branch/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"
     },
     {
@@ -1336,7 +1337,6 @@
     {"key":"云盘论坛","name":"┃云盘┃论坛┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/云盘论坛.json"},
     {"key":"云盘资源","name":"┃云盘┃资源┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/云盘资源.json"},
     {"key":"云盘资源分享","name":"┃云盘┃分享┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/云盘资源分享.json"},
-    //{"key":"玩偶弹幕","name":"┃弹幕┃玩偶┃","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"https://agit.ai/xiaowei233333/api/raw/branch/main/DM/%e7%8e%a9%e5%81%b6%e5%93%a5%e5%93%a5.json","token":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/token.txt","danmu":true},"jar":"https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/danmu.jar"},
     {"key":"搜索弹幕","name":"┃弹幕┃搜索┃","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/token.txt","danmu":true},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/danmu.jar"},
     {"key":"Upys","name":"┃弹幕┃云云┃","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/token.txt","danmu":true},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/danmu.jar"},
     {"key":"UpYun","name":"┃弹幕┃云搜┃","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/token.txt","danmu":true},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/danmu.jar"},
@@ -1354,8 +1354,6 @@
     {"key":"土拨鼠搜索","name":"┃云盘┃土拨鼠┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/土拨鼠搜索.json"},
     {"key":"豆豆飞搜索","name":"┃云盘┃豆豆飞┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/豆豆飞搜索.json"},
     {"key":"阿里云盘网","name":"┃云盘┃云盘网┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/阿里云盘网.json"},
-    //{"key":"Gitcafe","name":"┃云盘┃小纸条┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/token.txt"},
-    //{"key":"趣盘搜弹幕","name":"┃夸克┃趣盘搜┃","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/danmu.jar"},
     {"key":"SeedHub","name":"┃磁力┃SeedHub┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"哔嘀影视","name":"┃磁力┃哔嘀影视┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/XYQHiker/哔嘀影视.json"},
     {"key":"酷吧电影","name":"┃磁力┃酷吧电影┃","jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/spider.jar","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
