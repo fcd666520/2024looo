@@ -76,7 +76,7 @@
     "filterable":1,
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
     },
-    {
+    {//gao
         "key":"PushShare",
         "name":"弹幕 | 资源分享[jar]",
         "type":3, 
@@ -99,7 +99,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
     "key":"玩偶哥哥",
@@ -121,7 +121,7 @@
     "filterable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "site":"https://www.wogg.xyz","danmu":true},
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
     "key":"荐片弹幕版",
@@ -131,8 +131,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/20249ao/master/jar/pg.jar",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/20249ao/master/json/jianpian.json$$$1",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
     "timeout":60
     },
     {
