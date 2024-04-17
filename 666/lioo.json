@@ -609,7 +609,7 @@
     "name":"┃樱花┃动漫┃",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:国产动漫$guochandongman#日本动漫$ribendongman#动漫电影$dongmandianying#欧美动漫$omeidongman",
+    "ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman",
     "jar":"http://www.wya6.cn/tz/wyog.php"
     },
     {
