@@ -178,37 +178,15 @@
     "ext":{"danmu":true},
     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
-    {
-    "key":"塬创",
-    "name":"┃饭硬┃影视┃",
-    "type":3,
-    "api":"csp_YCyz",
-    "timeout":15,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
+	{
+        "key":"酷看",
+        "name":"┃酷看┃影视┃",
+        "type":3,
+        "api":"csp_Wexkukantv",
+        "searchable":1,
+        "changeable":1
     },
-    {
-    "key":"白嫖",
-    "name":"┃白飘┃无广┃",
-    "type":3,
-    "api":"csp_BaiPiao",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://www.baipiaoys.com:9092/"
-    },
-    {
-    "key":"酷看",
-    "name":"┃酷看┃秒播┃",
-    "type":3,
-    "api":"csp_Kkys",
-    "timeout":15,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
-    },
+
     {
     "key":"贱贱",
     "name":"┃荐片┃秒播┃",
@@ -278,13 +256,6 @@
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/LIBVIO.js"
-    },
-    {
-    "key":"drpy_js_HDmoli",
-    "name":"┃ＨＤ┃影视┃",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/HDmoli.js"
     },
     {
     "key":"drpy_js_米爱影视",
