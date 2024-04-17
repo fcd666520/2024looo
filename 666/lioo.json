@@ -85,7 +85,7 @@
     "changeable":1,
     "filterable":0, 
     "timeout":60,
-    "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/alishare.txt$$$db$$$1"
+    "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./alishare.txt$$$db$$$1"
 },
 
 
