@@ -76,19 +76,18 @@
     "filterable":1,
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/%e7%8e%a9%e5%81%b6%e5%bd%b1%e8%a7%86.json"
     },
-    {
-        "key":"PushShare",
-        "name":"┃资源┃分享┃",
-        "type":3, 
-        "api":"csp_PushShare",
-        "searchable":1,
-        "quickSearch":1,
-        "changeable":1, 
-        "filterable":0,
-        "timeout":60,
-        "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/alishare.txt$$$db$$$1",
-        "style": {"type": "list"}
-    },
+{"key":"AliShare",
+    "name":"┃影视┃分享┃",
+    "type":3,
+    "api":"csp_AliShare",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":0, 
+    "timeout":60,
+    "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/alishare.txt$$$db$$$1"
+},
+
 
     {
     "key":"酷看弹幕",
