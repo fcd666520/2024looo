@@ -178,7 +178,7 @@
     "ext":{"danmu":true},
     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
-	{
+    {
         "key":"酷看",
         "name":"┃酷看┃影视┃",
         "type":3,
@@ -265,11 +265,11 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/米爱影视.js"
     },
     {
-    "key":"drpy_js_爱看",
+    "key":"drpy_js_爱看影视",
     "name":"┃爱看┃影视┃",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看影视.js"
     },
     {
     "key":"drpy_js_尘落影视",
