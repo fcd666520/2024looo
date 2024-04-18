@@ -251,6 +251,12 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/fr.js"
     },
     {
+    "key":"drpy_js_南瓜影视",
+    "name":"┃南瓜┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},
+    {
     "key":"LIBVIO",
     "name":"┃ＬＩ┃影视┃",
     "type":3,
@@ -265,25 +271,49 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/米爱影视.js"
     },
     {
-    "key":"drpy_js_爱看影视",
+    "key":"drpy_js_爱看影院",
     "name":"┃爱看┃影视┃",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看影视.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看影院.js"
     },
+    
     {
-    "key":"drpy_js_尘落影视",
-    "name":"┃尘落┃影视┃",
+    "key":"drpy_js_奈飞中文",
+    "name":"┃奈飞┃影视┃",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/尘落影视.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"
+    },
+    
+    {
+    "key":"drpy_js_欧帝影院",
+    "name":"┃欧帝┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/欧帝影院.js"
+    },
+    
+    {
+    "key":"drpy_js_热播之家",
+    "name":"┃热播┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/热播之家.js"
+    },
+    {
+    "key":"drpy_js_骚火电影",
+    "name":"┃骚火┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/骚火电影.js"
     },
     {
     "key":"drpy_js_大师兄影视",
     "name":"┃师兄┃影视┃",
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/大师兄影视.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/大师兄影视.js"
     },
     {
     "key":"drpy_js_金曼影视",
