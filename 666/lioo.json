@@ -250,6 +250,13 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/fr.js"
     },
     {
+    "key":"drpy_js_影视工场",
+    "name":"┃工场┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"
+    },
+    {
     "key":"drpy_js_朴樱影视",
     "name":"┃朴樱┃影视┃",
     "type":3,
