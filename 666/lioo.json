@@ -179,14 +179,13 @@
     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
     },
     {
-        "key":"酷看",
-        "name":"┃酷看┃影视┃",
-        "type":3,
-        "api":"csp_Wexkukantv",
-        "searchable":1,
-        "changeable":1
+    "key":"酷看",
+    "name":"┃酷看┃影视┃",
+    "type":3,
+    "api":"csp_Wexkukantv",
+    "searchable":1,
+    "changeable":1
     },
-
     {
     "key":"贱贱",
     "name":"┃荐片┃秒播┃",
@@ -215,7 +214,7 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":1,
-    "ext":"https://www.czzy77.com/"
+    "ext":"https://www.cz233.com/"
     },
     {
     "key":"南瓜",
@@ -249,6 +248,20 @@
     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/PandaQ240318.jar",
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/fr.js"
+    },
+    {
+    "key":"drpy_js_朴樱影视",
+    "name":"┃朴樱┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/朴樱影视.js"
+    },
+    {
+    "key":"drpy_js_胖虎",
+    "name":"┃胖虎┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/胖虎.js"
     },
     {
     "key":"drpy_js_南瓜影视",
