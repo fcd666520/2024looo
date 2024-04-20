@@ -154,7 +154,7 @@
     "filterable":1,
     "ext":{"danmu":true},
     "timeout":25,
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
     "key":"南瓜弹幕",
@@ -165,7 +165,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
     "key":"叁六零弹幕",
@@ -176,7 +176,7 @@
     "filterable":1,
     "changeable":1,
     "ext":{"danmu":true},
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
     "key":"酷看",
@@ -248,6 +248,34 @@
     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/PandaQ240318.jar",
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/fr.js"
+    },
+    {
+    "key":"drpy_js_567电影院",
+    "name":"┃五六┃影院┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/567电影院.js"
+    },
+    {
+    "key":"drpy_js_达达龟",
+    "name":"┃达龟┃影院┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/达达龟.js"
+    },
+    {
+    "key":"drpy_js_多瑙影视",
+    "name":"┃多瑙┃影院┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/多瑙影视.js"
+    },
+    {
+    "key":"drpy_js_蓝光影院",
+    "name":"┃蓝光┃影院┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/蓝光影院.js"
     },
     {
     "key":"drpy_js_影视工场",
