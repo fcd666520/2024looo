@@ -130,7 +130,7 @@
     "filterable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "site":"https://www.wogg.xyz","danmu":true},
-    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
     "key":"荐片弹幕版",
