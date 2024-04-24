@@ -99,7 +99,7 @@
     "timeout":60,
     "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },
-	{
+    {
     "key":"酷看弹幕",
     "name":"┃酷看┃弹幕┃",
     "type":3,
@@ -108,7 +108,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
 
     {
@@ -202,6 +202,7 @@
     "key":"酷看影视",
     "name":"┃酷看┃影视┃",
     "type":3,
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
     "api":"csp_Wexkukantv",
     "searchable":1,
     "changeable":1
