@@ -90,7 +90,7 @@
     },
     {
     "key":"ddys",
-    "name":"┃弹幕┃低端┃",
+    "name":"┃低端┃弹幕┃",
     "type":3,
     "api":"csp_Ddys",
     "quickSearch":1,
@@ -123,7 +123,7 @@
     },
     {
     "key":"玩偶弹幕",
-    "name":"┃弹幕┃玩偶┃",
+    "name":"┃玩偶┃弹幕┃",
     "type":3,
     "api":"csp_Wogg",
     "searchable":1,
@@ -180,14 +180,6 @@
     "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
-    "key":"酷看",
-    "name":"┃酷看┃影视┃",
-    "type":3,
-    "api":"csp_Wexkukantv",
-    "searchable":1,
-    "changeable":1
-    },
-    {
     "key":"贱贱",
     "name":"┃荐片┃秒播┃",
     "type":3,
@@ -207,6 +199,14 @@
     "ext":"http://api2.rinhome.com"
     },
     {
+    "key":"酷看影视",
+    "name":"┃酷看┃影视┃",
+    "type":3,
+    "api":"csp_Wexkukantv",
+    "searchable":1,
+    "changeable":1
+    },
+    {
     "key":"Czsapp",
     "name":"┃厂长┃直连┃",
     "type":3,
@@ -219,7 +219,7 @@
     },
     {
     "key":"南瓜",
-    "name":"┃影视┃南瓜┃",
+    "name":"┃南瓜┃影视┃",
     "type":3,
     "api":"csp_NanGua",
     "playerType":2,
