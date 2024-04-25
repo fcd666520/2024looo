@@ -110,17 +110,6 @@
     "ext":{"danmu":true},
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
-
-    {
-    "key":"玩偶哥哥",
-    "name":"┃玩偶┃弹幕┃",
-    "type":3,
-    "api":"csp_WoGG",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
     {
     "key":"玩偶弹幕",
     "name":"┃玩偶┃弹幕┃",
@@ -146,7 +135,7 @@
     "timeout":60
     },
     {
-    "key":"厂长弹幕版",
+    "key":"厂长弹幕",
     "name":"┃厂长┃弹幕┃",
     "type":3,
     "api":"csp_Czzy",
@@ -191,14 +180,6 @@
     "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
     },
     {
-    "key":"荐片",
-    "name":"┃荐片┃影视┃",
-    "api":"csp_Jianpian",
-    "type":3,
-    "playerType":"2",
-    "ext":"http://api2.rinhome.com"
-    },
-    {
     "key":"酷看影视",
     "name":"┃酷看┃影视┃",
     "type":3,
@@ -216,25 +197,7 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":1,
-    "ext":"https://www.cz233.com/"
-    },
-    {
-    "key":"南瓜",
-    "name":"┃南瓜┃影视┃",
-    "type":3,
-    "api":"csp_NanGua",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
-    },
-    {
-    "key":"nangua",
-    "name":"┃南瓜┃影视┃",
-    "type":3,
-    "playerType":"2",
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/%e5%8d%97%e7%93%9c%e5%bd%b1%e8%a7%86.js"
+    "ext":"https://www.czzy77.com/"
     },
     {
     "key":"看韩剧",
@@ -287,6 +250,13 @@
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"
     },
     {
+    "key":"drpy_js_奇优影院",
+    "name":"┃奇优┃影视┃",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奇优影院.js"
+    },
+    {
     "key":"drpy_js_朴樱影视",
     "name":"┃朴樱┃影视┃",
     "type":3,
@@ -327,7 +297,6 @@
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/爱看影院.js"
     },
-    
     {
     "key":"drpy_js_奈飞中文",
     "name":"┃奈飞┃影视┃",
@@ -335,7 +304,6 @@
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"
     },
-    
     {
     "key":"drpy_js_欧帝影院",
     "name":"┃欧帝┃影视┃",
@@ -343,7 +311,6 @@
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/欧帝影院.js"
     },
-    
     {
     "key":"drpy_js_热播之家",
     "name":"┃热播┃影视┃",
@@ -378,14 +345,6 @@
     "type":3,
     "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/看了么.js"
-    },
-    {
-    "key":"saohuo",
-    "name":"┃骚火┃影视┃",
-    "type":3,
-    "playerType":"2",
-    "api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-    "ext":"http://dt.xn--yety82d.love/js/骚火.js"
     },
     {
     "key":"圣城影视",
@@ -430,16 +389,6 @@
     "filterable":1,
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/麻衣影视.json",
     "jar":"http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
-    },
-    {
-    "key":"奇优影院",
-    "name":"┃奇优┃影视┃",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/奇优影院.json"
     },
     {
     "key":"电影先生",
