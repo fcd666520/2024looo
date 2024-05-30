@@ -56,7 +56,7 @@
     "filterable":1,
     "changeable":0
     },
-    {
+    //{
     "key":"drpy_js_豆瓣",
     "name":"┃推荐┃豆瓣┃",
     "type":3,
@@ -65,7 +65,7 @@
     "searchable":1,
     "quickSearch":0,
     "changeable":0
-    },
+    },//
     {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
