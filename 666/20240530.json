@@ -198,34 +198,34 @@
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/看韩剧.js"
     },
- {
-      "key": "Freeok",
-      "name": "┃ＦＲ┃影视┃",
-     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar;md5;51B7E397682658465ACA32A34F5BE1D2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-        "分类": "电影&剧集&动漫&综艺&短剧&少儿",
-        "分类值": "1&2&3&4&12&5",
-        "副标题": "<div class=\"module-item-note\">&&</div>",
-        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "<p>&&</p>"
+    {
+    "key": "Freeok",
+    "name": "┃ＦＲ┃影视┃",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar;md5;51B7E397682658465ACA32A34F5BE1D2",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "playerType": "2",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+    "分类": "电影&剧集&动漫&综艺&短剧&少儿",
+    "分类值": "1&2&3&4&12&5",
+    "副标题": "<div class=\"module-item-note\">&&</div>",
+    "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+    "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "简介": "<p>&&</p>"
       }
     },
     {
-    "key":"drpy_js_567电影院",
-    "name":"┃五六┃影院┃",
+    "key":"drpy_js_HDmoli",
+    "name":"┃魔力┃影院┃",
     "type":3,
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/567电影院.js"
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/HDmoli.js"
     },
     {
     "key":"drpy_js_达达龟",
