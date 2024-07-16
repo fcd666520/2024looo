@@ -91,15 +91,6 @@
     "timeout":60,
     "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },*/
-                {
-            "key": "可可影视",
-            "name": "可可影视",
-            "type": 3,
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
        {
             "key": "天天弹幕",
             "name": "┃天天┃弹幕┃",
@@ -211,7 +202,7 @@
     "searchable":1,
     "quickSearch":1,
     "changeable":1,
-    "ext":"https://www.czys.pro"
+    "ext":"https://czzy.top/"
     },
     {
     "key":"看韩剧",
@@ -220,10 +211,12 @@
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/js/看韩剧.js"
     },
+    {"key":"农民","name":"┃农民┃影视┃","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+
     {
     "key": "Freeok",
     "name": "┃ＦＲ┃影视┃",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar;md5;51B7E397682658465ACA32A34F5BE1D2",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
     "type": 3,
     "api": "csp_XBPQ",
     "playerType": "2",
@@ -277,13 +270,13 @@
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/朴樱影视.js"
     },
-    {
+    /*{
     "key":"drpy_js_胖虎",
     "name":"┃胖虎┃影视┃",
     "type":3,
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/胖虎.js"
-    },
+    },*/
     {
     "key":"drpy_js_南瓜影视",
     "name":"┃南瓜┃影视┃",
@@ -304,7 +297,7 @@
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/米爱影视.js"
     },
-    {
+    /*{
     "key":"drpy_js_爱看影院",
     "name":"┃爱看┃影视┃",
     "type":3,
@@ -317,7 +310,7 @@
     "type":3,
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"
-    },
+    },*/
     {
     "key":"drpy_js_欧帝影院",
     "name":"┃欧帝┃影视┃",
