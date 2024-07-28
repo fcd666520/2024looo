@@ -115,7 +115,7 @@
     "ext":{"danmu":true},
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
-    {
+    /*{
     "key":"玩偶弹幕",
     "name":"┃玩偶┃弹幕┃",
     "type":3,
@@ -126,6 +126,21 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "site":"https://wogg.link","danmu":true},
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    },*/
+        {
+      "key": "玩偶",
+      "name": "┃玩偶┃弹幕┃",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
     },
     {
     "key":"荐片弹幕版",
