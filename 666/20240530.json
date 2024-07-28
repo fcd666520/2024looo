@@ -203,7 +203,7 @@
     "ext":{"danmu":true},
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
-    {
+    /*{
     "key":"贱贱",
     "name":"┃荐片┃秒播┃",
     "type":3,
@@ -213,7 +213,18 @@
     "playerType":"1",
     "api":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
     "ext":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
-    },
+    },*/
+                {
+            "key": "荐片",
+            "name": "┃荐片┃磁力┃",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api2.rinhome.com"
+        },
     {
     "key":"酷看影视",
     "name":"┃酷看┃影视┃",
