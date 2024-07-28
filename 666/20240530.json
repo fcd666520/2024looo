@@ -142,7 +142,22 @@
         "danMu": "弹"
       }
     },
-    {
+            {
+            "key": "荐片弹幕",
+            "name": "┃弹幕┃荐片┃",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+                "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+
+        },
+    /*{
     "key":"荐片弹幕版",
     "name":"┃荐片┃弹幕┃",
     "type":3,
@@ -153,7 +168,7 @@
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
     "timeout":60
-    },
+    },*/
     {
     "key":"厂长弹幕",
     "name":"┃厂长┃弹幕┃",
