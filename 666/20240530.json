@@ -1,6 +1,8 @@
     //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
     //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
-    {"spider":"https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
+    //{"spider":"https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
+    {"spider":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+
     "warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     /*{https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar
