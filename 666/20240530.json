@@ -241,14 +241,14 @@
     },
         {
             "key": "FreeOK",
-            "name": "┃ＦＲ┃影视┃",
+            "name": "┃ＦＲ┃影院┃",
             "type": 3,
             "api": "csp_FreeOK",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-    {
+   {
     "key": "Freeok",
     "name": "┃ＦＲ┃影视┃",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
