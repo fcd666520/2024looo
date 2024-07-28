@@ -208,6 +208,17 @@
     "searchable":1,
     "changeable":1
     },
+            {
+            "key": "可可影视",
+            "name": "┃可可┃影视┃",
+            "type": 3,
+                "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
     "key":"Czsapp",
     "name":"┃厂长┃直连┃",
