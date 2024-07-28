@@ -276,6 +276,8 @@
             "key": "采集之王",
             "name": "┃采集┃之王┃",
             "type": 3,
+                            "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+
             "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
