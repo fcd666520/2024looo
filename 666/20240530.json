@@ -239,7 +239,15 @@
             "分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
         }
     },
-
+        {
+            "key": "FreeOK",
+            "name": "┃ＦＲ┃影视┃",
+            "type": 3,
+            "api": "csp_FreeOK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
     "key": "Freeok",
     "name": "┃ＦＲ┃影视┃",
@@ -266,7 +274,7 @@
             "key": "采集之王",
             "name": "┃采集┃之王┃",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/lib/drpy4.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B.js?type=url&params=https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JSON/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json$1$1"
